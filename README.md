@@ -1,0 +1,2 @@
+# COSMOS
+Scientific Linguistic Acronym
