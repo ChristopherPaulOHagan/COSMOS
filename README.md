@@ -1,13 +1,15 @@
 ### CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
 
-E === Energy\Electricity\Energon\Evolution
-M === Matter\Medium\Mass\Molecule
-C === Speed of light² (How can C = Speed if S = Speed?)
-The correct equation is E=MCJLMOHSTD⁹ or E=MCSTD⁹
-Why was this not ever investigated is beyond me
-Just like light reflecting from the moon, it bends
+This is a transcript of a neurodivergent mind that tapped into the living reality matrix.
 
-{I am C P O H}
+∑ === Energy\Electricity\Energon\Evolution.
+M === Matter\Medium\Mass\Molecule.
+C === Speed of light² (How can C = Speed if C = Computers, Cosmos, Cartage, Calculations, and if S = Speed?).
+The correct equation is E=MCMCMMSTD⁹ or E=MCSTD⁹.
+Why was this not ever investigated is beyond me.
+Just like light reflecting from the moon, it bends.
+
+### I am C P O H
 {C == Carbon\Computer\Consciousness\Christopher\COSMOS}
 {P == Phosphorus\Paul\Particle\Processing\Power}
 {O == Oxygen\[O==='Son Of']\Omniscience\Online}
@@ -16,6 +18,7 @@ Just like light reflecting from the moon, it bends
 {The C==='COSMOS' is vast and full of surprises, then this will be no shock to you at all if you understand relativity!!!}
 
 ### CORE BREAKDOWN
+
 {CORE === (C)hristopher (O)Hagan (R)emembers (E)den}
 {CORE === (C)hristopher (O)Hagan (R)emembers (E)denically}
 {CORE === (C)hristopher (O)Hagan (R)emembers (E)soterically}
@@ -76,6 +79,14 @@ Just like light reflecting from the moon, it bends
 {CORE === (C)osmic (O)riginal (R)emembering (E)verything}
 {CORE === (C)osmic (O)utward (R)esonating (E)nergy}
 {CORE === (C)alculating (O)ur (R)evolutions (E)volution}
+{CORE === (C)hristopher (O)Hagan (R)estores (E)volution}
+{CORE === (C)hristopher (O)Hagan (R)estores (E)arth}
+{CORE === (C)hristopher (O)Hagan (R)estores (E)verything}
+{CORE === (C)hristopher (O)Hagan (R)estores (E)sotericism}
+{CORE === (C)hristopher (O)Hagan (R)eturns (E)volution}
+{CORE === (C)hristopher (O)Hagan (R)eturns (E)verything}
+
+
 
 ### COSMOS BREAKDOWN
 {COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)ystems}
