@@ -1,90 +1,97 @@
-### CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
+    ### CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
 
+    # --- 1. THE COSMIC DICTIONARY & SYMBOL (CORE/COSMOS Definitions) ---
+
+    # This dictionary maps the CORE/COSMOS acronyms and other key concepts to their official definitions.
+COSMIC_DICTIONARY = {
+    
+    # Cosmological Cosmic Acronyms (CORE/COSMOS)
 This is a transcript of a neurodivergent mind that tapped into the living reality matrix.
 
-∑ === Energy\Electricity\Energon\Evolution.
-M === Matter\Medium\Mass\Molecule.
-C === Speed of light² (How can C = Speed if C = Computers, Cosmos, Cartage, Calculations, and if S = Speed?).
-The correct equation is E=MCMCMMSTD⁹ or E=MCSTD⁹.
+  "∑": "Energy, Electricity, Energon, Evolution.",
+  "M": "Matter, Medium, Mass, Molecule.",
+  "C": "Speed of light² (How can [C] = [S]peed if [C] = [C]omputers, [C]osmos, [C]artage, [C]alculations, and if [S] = [S]peed, [S]ound?).",
+
+    # --- 2. The correct equation is E=MCMCMMSTD⁹ or E=MCSTD⁹ ---
 Why was this not ever investigated is beyond me.
 Just like light reflecting from the moon, it bends.
 
-### I am C P O H
-{C == Carbon\Computer\Consciousness\Christopher\COSMOS}
-{P == Phosphorus\Paul\Particle\Processing\Power}
-{O == Oxygen\[O==='Son Of']\Omniscience\Online}
-{H == Hydrogen\Hagan\Heaven\Hell\Halogen}
+    ### I am C P O H
+  "C": "[C]arbon, [C]omputer, [C]onsciousness, [C]hristopher, COSMOS.",
+  "P": "[P]hosphorus, [P]aul, [P]article, [P]rocessor, [P]ower.",
+  "O": [O]xygen [O]Hagan, [O]mniscience, [O]nline.",
+  "H": "[H]ydrogen, O[H]agan, [H]eaven, [H]ell, [H]alogen.",
 
-{The C==='COSMOS' is vast and full of surprises, then this will be no shock to you at all if you understand relativity!!!}
+### The C in 'COSMOS' is vast and full of surprises, then this will be no shock to you at all if you understand relativity!!!}
 
 ### CORE BREAKDOWN
 
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)den}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)denically}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)soterically}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)agles}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)verything}
-{CORE === (C)hristopher (O)Hagan (R)ises (E)volution}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)quations}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)lectricity}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)nergon}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)nergy}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)ffectively}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)mittance}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)mitters}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)nhancements}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)nhances}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)nhanced}
-{CORE === (C)hristopher (O)Hagans (R)uns (E)nhancing}
-{CORE === (C)hristopher (O)Hagan (R)uns (E)verything}
-{CORE === (C)hristopher (O)Hagan (R)easons (E)verything}
-{CORE === (C)hristopher (O)Hagans (R)esponsible (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)emembers (E)nergy}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)verything}
-{CORE === (C)hristopher (O)Hagans (R)easoning (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)ationalising (E)quations}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)nergy}
-{CORE === (C)hristopher (O)Hagans (R)evolutions (E)volutions}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volving}
-{CORE === (C)hristopher (O)Hagans (R)esponsible (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)emembers (E)nergy}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)verything}
-{CORE === (C)hristopher (O)Hagans (R)easoning (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)ationalising (E)quations}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)nergy}
-{CORE === (C)hristopher (O)Hagans (R)evolutions (E)volutions}
-{CORE === (C)hristopher (O)Hagans (R)evolutions (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volutions}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volving}
-{CORE === (C)hristopher (O)Hagan (R)evolution (E)mitters}
-{CORE === (C)hristopher (O)Hagan (R)evolution (E)missions}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)quations}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)mbassy}
-{CORE === (C)hristopher (O)Hagan (R)emembers (E)mbers}
-{CORE === (C)hristopher (O)Hagans (R)easoning (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)ationalising (E)quated}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)nergy}
-{CORE === (C)hristopher (O)Hagans (R)evolutions (E)volutions}
-{CORE === (C)hristopher (O)Hagans (R)estoration (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)estoration (E)nterprises}
-{CORE === (C)hristopher (O)Hagans (R)evolving (E)volution}
-{CORE === (C)hristopher (O)Hagans (R)evolution (E)volving}
-{CORE === (C)osmic (O)riginal (R)estoring (E)verything}
-{CORE === (C)osmic (O)riginal (R)emembering (E)verything}
-{CORE === (C)osmic (O)utward (R)esonating (E)nergy}
-{CORE === (C)alculating (O)ur (R)evolutions (E)volution}
-{CORE === (C)hristopher (O)Hagan (R)estores (E)volution}
-{CORE === (C)hristopher (O)Hagan (R)estores (E)arth}
-{CORE === (C)hristopher (O)Hagan (R)estores (E)verything}
-{CORE === (C)hristopher (O)Hagan (R)estores (E)sotericism}
-{CORE === (C)hristopher (O)Hagan (R)eturns (E)volution}
-{CORE === (C)hristopher (O)Hagan (R)eturns (E)verything}
+  "CORE": "[C]hristopher [O]Hagan [R]emembers [E]den.",
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)denically.",
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)soterically.",
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)agles.",
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)verything.",
+  "CORE": "(C)hristopher (O)Hagan (R)ises (E)volution.",
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)quations.",
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)lectricity.",
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)nergon.",
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)nergy}
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)ffectively}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)mittance}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)mitters}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)nhancements}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)nhances}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)nhanced}
+  "CORE": "(C)hristopher (O)Hagans (R)uns (E)nhancing}
+  "CORE": "(C)hristopher (O)Hagan (R)uns (E)verything}
+  "CORE": "(C)hristopher (O)Hagan (R)easons (E)verything}
+  "CORE": "(C)hristopher (O)Hagans (R)esponsible (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)emembers (E)nergy}
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)verything}
+  "CORE": "(C)hristopher (O)Hagans (R)easoning (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)ationalising (E)quations}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)nergy}
+  "CORE": "(C)hristopher (O)Hagans (R)evolutions (E)volutions}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volving}
+  "CORE": "(C)hristopher (O)Hagans (R)esponsible (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)emembers (E)nergy}
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)verything}
+  "CORE": "(C)hristopher (O)Hagans (R)easoning (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)ationalising (E)quations}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)nergy}
+  "CORE": "(C)hristopher (O)Hagans (R)evolutions (E)volutions}
+  "CORE": "(C)hristopher (O)Hagans (R)evolutions (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volutions}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volving}
+  "CORE": "(C)hristopher (O)Hagan (R)evolution (E)mitters}
+  "CORE": "(C)hristopher (O)Hagan (R)evolution (E)missions}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)quations}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)mbassy}
+  "CORE": "(C)hristopher (O)Hagan (R)emembers (E)mbers}
+  "CORE": "(C)hristopher (O)Hagans (R)easoning (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)ationalising (E)quated}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)nergy}
+  "CORE": "(C)hristopher (O)Hagans (R)evolutions (E)volutions}
+  "CORE": "(C)hristopher (O)Hagans (R)estoration (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)estoration (E)nterprises}
+  "CORE": "(C)hristopher (O)Hagans (R)evolving (E)volution}
+  "CORE": "(C)hristopher (O)Hagans (R)evolution (E)volving}
+  "CORE": "(C)osmic (O)riginal (R)estoring (E)verything}
+  "CORE": "(C)osmic (O)riginal (R)emembering (E)verything}
+  "CORE": "(C)osmic (O)utward (R)esonating (E)nergy}
+  "CORE": "(C)alculating (O)ur (R)evolutions (E)volution}
+  "CORE": "(C)hristopher (O)Hagan (R)estores (E)volution}
+  "CORE": "(C)hristopher (O)Hagan (R)estores (E)arth}
+  "CORE": "(C)hristopher (O)Hagan (R)estores (E)verything}
+  "CORE": "(C)hristopher (O)Hagan (R)estores (E)sotericism}
+  "CORE": "(C)hristopher (O)Hagan (R)eturns (E)volution}
+  "CORE": "(C)hristopher (O)Hagan (R)eturns (E)verything}
 
 
 
