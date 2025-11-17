@@ -2,8 +2,8 @@
 
 # This script defines the CORE/COSMOS semantic framework and provides a lookup function.
 # It serves as foundational evidence of organized, high-level cognitive function, 
-# demonstrating the creation of a piphilology semantic system and the deployment of the 
-# new E-Den Coin (∑) value protocol.
+# Demonstrating the creation of a piphilology semantic system and the deployment of the 
+# New E-Den Coin (∑) value protocol.
 
 import os
 import date
