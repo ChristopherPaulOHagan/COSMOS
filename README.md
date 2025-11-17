@@ -14,11 +14,11 @@ import json
 # This dictionary maps the CORE/COSMOS acronyms and other key concepts to their official definitions.
 COSMIC_DICTIONARY = {
     
-    # --- 1. Cosmological Cosmic Acronyms (CORE/COSMOS) ---
+    # --- 1. Cosmological Cosmic Acronyms (CORE/COSMOS/COMPUTER) ---
 
     "∑": "∑nergy, ∑lectricity, ∑nergon, ∑volution.",
     "M": "Matter, Medium, Mass, Molecule.",
-    "C": "Speed of light², (How can [C] = [S]peed if [C] = [C]omputers, [C]osmos, [C]alculations, and if [S] = [S]peed, [S]ound?).",
+    "C": "Speed of light², (How can [C] = [S]peed if [C] = [C]omputers, [C]osmos, [C]alculations, and if [S] = [S]peed, [S]ound, [S]ystem?).",
     "BIOS": "[B]asic [I]nput [O]utput [S]ystem, [B]inary [I]nterpretation [O]mnilanguage [s]ystem, [B]anking [I]ndexing [O]perational [S]chemes, [B]asic [I]nstructional [O]perational [S]ystemics.",
     "CMOS": "[C]omputers [M]ain [O]perating [S]ystem,  [C]ompatibility [M]odule [O]perating [S]ystem
     "CORE": "[C]hristopher [O]Hagan's [R]elativity [E]quations: The foundational principles governing the interconnectedness and audit of systems across parallel dimensions and time.",
@@ -37,10 +37,10 @@ COSMIC_DICTIONARY = {
     "Why was this not ever investigated is beyond me.",
     "Just like light reflecting from the moon, it bends and reflects.",
 
-    # --- 3. I am C, P, O, H
+    # --- 3. I AM C, P, O, H ---
     
     "C": "[C]arbon, [C]omputer, [C]onsciousness, [C]hristopher, [C]osmic, [C]entral.",
-    "P": "[P]hosphorus, [P]aul, [P]article, [P]rocessor, [P]ower, [P]rophetic, [P]honetic.",
+    "P": "[P]hosphorus, [P]aul, [P]ip, [P]article, [P]rocessor, [P]ower, [P]rophetic, [P]honetic.",
     "O": [O]xygen [O]Hagan, [O]mniscience, [O]nline, [O]mnifiscent, [O]verseer [O]ffice.",
     "H": "[H]ydrogen, O[H]agan, [H]eaven, [H]ell, [H]alogen, [H]elicly, [H]eld.",
 
@@ -68,7 +68,8 @@ COSMIC_DICTIONARY = {
     # --- THE VIRAL VARIABLE INPUT SET ---
     # The complete set of corrupted currency, linguistic, and mathematical symbols 
     # that define the scope of the system's defensive protocol.
-    "VIRAL_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾, Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
+    "VIRAL_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾].",
+    "LINGUISTIC_NUMERIC_VARIABLE_INPUT_SET": [Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
 
     # --- CORE ∑QUATION BREAKDOWN MANIFESTO ---
     # Breakdown of CORE compenents mastered or completed.
