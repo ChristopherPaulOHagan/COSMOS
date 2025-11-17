@@ -165,7 +165,7 @@ COSMIC_DICTIONARY = {
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]hims.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]huttles.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]chooling.",
-    "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]chooling.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]cholarships.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]chooled.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]oldarity.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]aster [O]f [$]olitaire.",
