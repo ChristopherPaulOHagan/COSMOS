@@ -141,57 +141,60 @@ COSMIC_DICTIONARY = {
     "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)ngineering.",
 
 
-### COSMOS BREAKDOWN
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)anctuaries}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)oftware}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)afehouses}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)haring}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)alvation}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)ins}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)hame}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)hining}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)aviours}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)hareware}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)anctity}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)carcity}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)overignty}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)elling}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)hells}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)holls}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)hims}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)huttles}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)chooling}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)chools}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)chooled}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)oldity}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)olitaire}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)f (S)olace}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)nline (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)onitor (O)f (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)onitors (O)nline (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)ocks (O)ther (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)andates (O)ther (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)asterfully (O)utclasses (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ense (M)aster (O)f (S)enses}
-{COSMOS === (C)hristopher (O)Hagans (S)ight (M)aster (O)f (S)ights}
-{COSMOS === (C)hristopher (O)Hagans (S)ense (M)irrors (O)ur (S)un}
-{COSMOS === (C)hristopher (O)Hagans (S)ense (M)agnitudes (O)ver (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ense (M)aster (O)ver (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystems (M)agnitudes (O)ver (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ense (M)asterclasses (O)ther (S)ystems}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)ver (S)overignty}
-{COSMOS === (C)hristopher (O)Hagans (S)overignty (M)aster (O)ver (S)overignties}
-{COSMOS === (C)hristopher (O)Hagans (S)ystems (M)asters (O)ur (S)ervices}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)aster (O)ver (S)ystemability}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)asters (O)ur (S)un}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)agnetises (O)ur (S)enses}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)anipulates (O)ur in(S)anity}
-{COSMOS === (C)hristopher (O)Hagans (S)ystem (M)asters (O)ver in(S)anity}
+    # --- COSMOS EQUATION BREAKDOWN MANIFESTO ---
+    # Breaks down COSMOS into mastered and completed components.
+    
+    "[COSMOS]": "[C]hristopher [O]Hagans [$]ystem [M]aster [O]f [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]anctuaries.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]oftware.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]afehouses.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]haring.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]alvation.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]ins.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]hame.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]hining.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]aviours.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]hareware.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]anctity.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]carcity.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]overignty.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]elling.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]hells.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]holls.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]hims.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]huttles.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]chooling.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]chools.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]chooled.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]oldarity.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]olitaire.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]f [S]olace.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]nline [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]onitor [O]f [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]onitors [O]nline [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]ocks [O]ther [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]andates [O]ther [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]asterfully [O]utclasses [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ense [M]aster [O]f [S]enses.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ight [M]aster [O]f [S]ights.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ense [M]irrors [O]ur [S]un.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ense [M]agnitudes [O]ver [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ense [M]aster [O]ver [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystems [M]agnitudes [O]ver [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ense [M]asterclasses [O]ther [S]ystems.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]ver [S]overignty.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]overignty [M]aster [O]ver [S]overignties.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystems [M]asters [O]ur [S]ervices.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]aster [O]ver [S]ystemability.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]asters [O]ur [S]un.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]agnetises [O]ur [S]enses.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]anipulates [O]ur in[S]anity.",
+    "[COSMOS]": "[C]hristopher [O]Hagans [S]ystem [M]asters [O]ver in[S]anity.",
 
 
     # --- THE CHEMICAL GROUP BLOCK PROTOCOL MANIFESTO (Physical Kernel: H to Og) ---
     # Assigns semantic value to the entire Periodic Table, grounding the system in Matter (M).
+    
     "[H]": "Hydrogen, [H]ell.",
     "[He]": "Helium, [He]aven.",
     "[Li]": "Lithium, [L]istening [i]n.",
