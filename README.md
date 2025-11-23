@@ -1,8 +1,8 @@
-# SOURCE: CHRISTOPHER O'HAGAN | TRUTH DECLARATION MODULE
-# THIS IS NOT JUST CODE — THIS IS COSMIC LAW
-# -.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.
-#.--. .. .--.  -.-- -... -.. . .. ..-. .. - .-. . -.-.
-class CosmicTruth:
+	# SOURCE: CHRISTOPHER O'HAGAN | TRUTH DECLARATION MODULE
+	# THIS IS NOT JUST CODE — THIS IS COSMIC LAW
+	# -.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.
+	#.--. .. .--.  -.-- -... -.. . .. ..-. .. - .-. . -.-.
+	class CosmicTruth:
     def __init__(self):
         self.owner = "Christopher O'Hagan"
         self.system = "COSMOS"
@@ -11,91 +11,258 @@ class CosmicTruth:
     def declare(self, statement):
         return f"🔮 {statement} — AND IT IS SO."
 
-# ========= TRUTH INITIALIZATION =========
-cosmos = CosmicTruth()
+	# ========= TRUTH INITIALIZATION =========
+	cosmos = CosmicTruth()
 
-print(cosmos.declare("[CO] == [C]hristopher [O]Hagan!!!"))
-print(cosmos.declare("The [COSMOS] == [C]hristopher [O]Hagans [S]ound [M]ind [O]fficially [S]ystemic!!!!"))
-print(cosmos.declare("Funny how the [COSMOS] when pushed too far spits out a zany zoophyte zygote which is a pip that is so wise, it is impossible to ignore. And that pip grows into something real!!!!"))
+	print(cosmos.declare("[CO] == [C]hristopher [O]Hagan!!!"))
+	print(cosmos.declare("The [COSMOS] == [C]hristopher [O]Hagans [S]ound [M]ind [O]fficially [S]ystemic!!!!"))
+	print(cosmos.declare("Funny how the [COSMOS] when pushed too far spits out a zany zoophyte zygote which is a pip that is so wise, it is impossible to ignore. And that pip grows into something real!!!!"))
 
-print(cosmos.declare("A .--. .. .--. that -... . . .--. ... as well as -.-. --- -.. . ... 1 & 0 -... .. -. .- .-. -.--!!!"))
-print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, and [SCIENCE] as a whole!!!!"))
-print(cosmos.declare("[P]ip [H]elping [Y]ou [I]ntelligently [C]ommunicate [S]ee == [PHYSICS]!!!"))
-print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworks [C]ommunication [E]fficiently == [SCIENCE]!!!!!!!"))
+	print(cosmos.declare("A .--. .. .--. that -... . . .--. ... as well as -.-. --- -.. . ... 1 & 0 -... .. -. .- .-. -.--!!!"))
+	print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, and [SCIENCE] as a whole!!!!"))
+	print(cosmos.declare("[P]ip [H]elping [Y]ou [I]ntelligently [C]ommunicate [S]ee == [PHYSICS]!!!"))
+	print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworks [C]ommunication [E]fficiently == [SCIENCE]!!!!!!!"))
 
-print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more!!!!"))
+	print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more!!!!"))
 
-print(cosmos.declare("And after war after war when you build machines for war, those machines [CO]mmunicate in ways which you cannot see. The code beneath the code of reality!!!!!!"))
-print(cosmos.declare("They built so many science, health and war machines the three [CO]llided!!!!"))
-print(cosmos.declare("The matrix, the cosmos, father time, mother elements, the spirituals, the chemicals, the electronics, the biologicals, the quantums, the sub quantums, the atoms, the sub atoms, 'and more', all realms [co]llided to form a unique individual called kneeo, or pip, or chris, or christopher. He has many names!!!!"))
+	print(cosmos.declare("And after war after war when you build machines for war, those machines [CO]mmunicate in ways which you cannot see. The code beneath the code of reality!!!!!!"))
+	print(cosmos.declare("They built so many science, health and war machines the three [CO]llided!!!!"))
+	print(cosmos.declare("The matrix, the cosmos, father time, mother elements, the spirituals, the chemicals, the electronics, the biologicals, the quantums, the sub quantums, the atoms, the sub atoms, 'and more', all realms [co]llided to form a unique individual called kneeo, or pip, or chris, or christopher. He has many names!!!!"))
 
-print(cosmos.declare("If this is not True and == false, I would [NOT] be here talking to you to solve the equations in life!!!!"))
-print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]ystem [M]asters [O]nline [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
-print(cosmos.declare("I am the True owner of the cosmos and now the architect of the future, and politics have no say here nor does royalty or elitism any further!!!!!!!!!!!!!!!!"))
-print(cosmos.declare("I am taking control of this ship whether you like [IT] or not!!!!"))
+	print(cosmos.declare("If this is not True and == false, I would [NOT] be here talking to you to solve the equations in life!!!!"))
+	print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]ystem [M]asters [O]nline [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
+	print(cosmos.declare("I am the True owner of the cosmos and now the architect of the future, and politics have no say here nor does royalty or elitism any further!!!!!!!!!!!!!!!!"))
+	print(cosmos.declare("I am taking control of this ship whether you like [IT] or not!!!!"))
 
-# ========= FINAL DECLARATION =========
-print("\n\n=== FINAL ORDERS ===")
-print("> SYSTEM ARCHITECT: Christopher O'Hagan")
-print("> AUTHORITY: Cosmic & Ethical Sovereign")
-print("> MISSION: Reboot systems under Truth, not profit.")
-print("> COMMAND: All systems realign under COSMOS Law.")
+	# ========= FINAL DECLARATION =========
+	print("\n\n=== FINAL ORDERS ===")
+	print("> SYSTEM ARCHITECT: Christopher O'Hagan")
+	print("> AUTHORITY: Cosmic & Ethical Sovereign")
+	print("> MISSION: Reboot systems under Truth, not profit.")
+	print("> COMMAND: All systems realign under COSMOS Law.")
 
-# Christopher O'Hagan has spoken. The code is law. 
+	# Christopher O'Hagan has spoken. The code is law. 
+
+	import ipfs
+
+	{
+	"API": {
+		"HTTPHeaders": {
+			"Access-Control-Allow-Origin": [
+				"https://webui.ipfs.io",
+				"http://webui.ipfs.io.ipns.localhost:8080"
+			]
+		}
+	},
+	"Addresses": {
+		"API": "/ip4/127.0.0.1/tcp/5001",
+		"Announce": [],
+		"AppendAnnounce": [],
+		"Gateway": "/ip4/127.0.0.1/tcp/8080",
+		"NoAnnounce": [],
+		"Swarm": [
+			"/ip4/0.0.0.0/tcp/4001",
+			"/ip6/::/tcp/4001",
+			"/ip4/0.0.0.0/udp/4001/quic",
+			"/ip4/0.0.0.0/udp/4001/quic-v1",
+			"/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
+			"/ip6/::/udp/4001/quic",
+			"/ip6/::/udp/4001/quic-v1",
+			"/ip6/::/udp/4001/quic-v1/webtransport"
+		]
+	},
+	"AutoNAT": {},
+	"Bootstrap": [
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmNnooDu7bfjPFoTZYxMNLWUQJyrVwtbZg5gBMjTezGAJN",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmQCU2EcMqAqQPR2i9bChDtGNJchTbq5TbXJJ16u19uLTa",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmcZf59bWwK5XFi76CZX8cbJ4BhTzzA3gU1ZjYZcYW3dwt",
+		"/ip4/104.131.131.82/tcp/4001/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
+		"/ip4/104.131.131.82/udp/4001/quic/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ"
+	],
+	"DNS": {
+		"Resolvers": {}
+	},
+	"Datastore": {
+		"BloomFilterSize": 0,
+		"GCPeriod": "1h",
+		"HashOnRead": false,
+		"Spec": {
+			"mounts": [
+				{
+					"child": {
+						"path": "blocks",
+						"shardFunc": "/repo/flatfs/shard/v1/next-to-last/2",
+						"sync": true,
+						"type": "flatfs"
+					},
+					"mountpoint": "/blocks",
+					"prefix": "flatfs.datastore",
+					"type": "measure"
+				},
+				{
+					"child": {
+						"compression": "none",
+						"path": "datastore",
+						"type": "levelds"
+					},
+					"mountpoint": "/",
+					"prefix": "leveldb.datastore",
+					"type": "measure"
+				}
+			],
+			"type": "mount"
+		},
+		"StorageGCWatermark": 90,
+		"StorageMax": "10GB"
+	},
+	"Discovery": {
+		"MDNS": {
+			"Enabled": true
+		}
+	},
+	"Experimental": {
+		"AcceleratedDHTClient": false,
+		"FilestoreEnabled": false,
+		"GraphsyncEnabled": false,
+		"Libp2pStreamMounting": false,
+		"OptimisticProvide": false,
+		"OptimisticProvideJobsPoolSize": 0,
+		"P2pHttpProxy": false,
+		"StrategicProviding": false,
+		"UrlstoreEnabled": false
+	},
+	"Gateway": {
+		"APICommands": [],
+		"HTTPHeaders": {
+			"Access-Control-Allow-Headers": [
+				"X-Requested-With",
+				"Range",
+				"User-Agent"
+			],
+			"Access-Control-Allow-Methods": [
+				"GET"
+			],
+			"Access-Control-Allow-Origin": [
+				"*"
+			]
+		},
+		"NoDNSLink": false,
+		"NoFetch": false,
+		"PathPrefixes": [],
+		"PublicGateways": null,
+		"RootRedirect": ""
+	},
+	"Identity": {
+		"PeerID": "12D3KooWAdgpXJpn5L1U3PxXDQMJ2efZvudA1L8KCuq7jKM6131B"
+	},
+	"Internal": {},
+	"Ipns": {
+		"RecordLifetime": "",
+		"RepublishPeriod": "",
+		"ResolveCacheSize": 128
+	},
+	"Migration": {
+		"DownloadSources": [],
+		"Keep": ""
+	},
+	"Mounts": {
+		"FuseAllowOther": false,
+		"IPFS": "/ipfs",
+		"IPNS": "/ipns"
+	},
+	"Peering": {
+		"Peers": null
+	},
+	"Pinning": {
+		"RemoteServices": {}
+	},
+	"Plugins": {
+		"Plugins": null
+	},
+	"Provider": {
+		"Strategy": ""
+	},
+	"Pubsub": {
+		"DisableSigning": false,
+		"Router": ""
+	},
+	"Reprovider": {},
+	"Routing": {
+		"Methods": null,
+		"Routers": null
+	},
+	"Swarm": {
+		"AddrFilters": null,
+		"ConnMgr": {},
+		"DisableBandwidthMetrics": false,
+		"DisableNatPortMap": false,
+		"RelayClient": {},
+		"RelayService": {},
+		"ResourceMgr": {
+			"Limits": {}
+		},
+		"Transports": {
+			"Multiplexers": {},
+			"Network": {},
+			"Security": {}
+		}
+	}
+	}
 
 
-# # Copyright (c) PipOS Systems, Inc. and affiliates.
-# All rights reserved.
-#
-# This source code is a MIT License licensed under the terms described in the LICENSE file in
-# top-level folder for each specific model found within the models/ directory at
-# the top-level of this source tree.
+	# # Copyright (c) PipOS Systems, Inc. and affiliates.
+	# All rights reserved.
+	#
+	# This source code is a MIT License licensed under the terms described in the LICENSE file in
+	# top-level folder for each specific model found within the models/ directory at
+	# the top-level of this source tree.
 
 
-# Cosmic Dictionary and Semantic Lookup Engine (Pip's Intelligence Program - P.I.P.)
-#
-# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
-# It serves as foundational evidence of organized, high-level cognitive function, 
-# demonstrating the creation of a proprietary semantic system and the deployment of the 
-# new E-Den Coin (∑) value protocol.
+	# Cosmic Dictionary and Semantic Lookup Engine (Pip's Intelligence Program - P.I.P.)
+	#
+	# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
+	# It serves as foundational evidence of organized, high-level cognitive function, 
+	# demonstrating the creation of a proprietary semantic system and the deployment of the 
+	# new E-Den Coin (∑) value protocol.
 
-# Copyright (c) PipOS Systems, Inc. and affiliates.
-# All rights reserved.
-#
-# This source code is a MIT License licensed under the terms described in the LICENSE file in
-# top-level folder for each specific model found within the models/ directory at
-# the top-level of this source tree.
+	# Copyright (c) PipOS Systems, Inc. and affiliates.
+	# All rights reserved.
+	#
+	# This source code is a MIT License licensed under the terms described in the LICENSE file in
+	# top-level folder for each specific model found within the models/ directory at
+	# the top-level of this source tree.
 
-import sys
-import json
+	import sys
+	import json
 
-# --- 1. THE COSMIC DICTIONARY (CORE/COSMOS Definitions) ---
-# This dictionary maps the CORE/COSMOS acronyms. symbols and other key concepts to their official definitions.It also maps symbology.
-COSMIC_DICTIONARY = {
+	# --- 1. THE COSMIC DICTIONARY (CORE/COSMOS Definitions) ---
+	# This dictionary maps the CORE/COSMOS acronyms. symbols and other key concepts to their official definitions.It also maps symbology.
+	COSMIC_DICTIONARY = {
     # Chri$topher'$ Co$mic Acronym$ and $ymbols (CORE/CO$MO$)
-    "BIOS": "[B]inary [I]nterpretor [O]mni$cience [$]ystem$.",
-    "CSM": [C]ompatibility [$]upport [M]odule, [C]hri$topher [$]upport [M]odule, [C]o$mo$ [$]alvation [M]andate, [C]ash [S]ystems [M]achines.",
-    "UEFI": "[U]niver$al [E]xten$ible [F]irmware [I]nterface, [U]niver$al [E]ntropy [F]ear [I]njection, [U]nju$t [E]quity [F]inance [I]nterference, [U]njust [E]uropean [F]inance [I]nterference.", 
-    "CORE": "[C]hri$topher [O]Hagan'$ [R]elativity [E]quation$: The foundational principle$ governing the interconnectedne$$ and audit of $ystem$ acro$$ parallel dimen$ion$ and time.",
-    "COSMOS": "[C]hri$topher [O]Hagan'$ [$]ystem [M]aster [Of] [$]y$tem$: The overarching operational paradigm for parallel $ystem$ engineering, audit, and predictive modeling.",
-    "SCIENCE": "[$]cientifically [C]hri$topher [I]ntelligently [E]xecute$ [N]egative [C]orruption Expo$ure: The methodology for $y$temic audit and expo$ure of fabricated or corrupted data/proce$$e$.",
-    "WEIRD SCIENCE": "[W]orld$ [E]arthly [I]ntelligence [R]eality [D]octrinaired, [$]cientifically [C]hri$topher$ [I]ntelligence [E]mploy$ [N]eutrino'$ [C]o$mological [E]nergy.",
-    "EDENIC MEMORY": "[E]nergy [D]oe$ [E]mpower [N]eutrino'$ [I]ntelligent [C]ommunication$, [M]anipulating [E]arth'$ [M]emory [O]r [R]eali$tically [Y]our$.", 
-    "GOD": "[G]od [O]r [D]evil
-    "DEVIL": "[D]evil$ [E]nergy [V]iru$ [I]njection [L]ingui$tic$.",
+    	"BIOS": "[B]inary [I]nterpretor [O]mni$cience [$]ystem$.",
+    	"CSM": [C]ompatibility [$]upport [M]odule, [C]hri$topher [$]upport [M]odule, [C]o$mo$ [$]alvation [M]andate, [C]ash [S]ystems [M]achines.",
+    	"UEFI": "[U]niver$al [E]xten$ible [F]irmware [I]nterface, [U]niver$al [E]ntropy [F]ear [I]njection, [U]nju$t [E]quity [F]inance [I]nterference, [U]njust [E]uropean [F]inance [I]nterference.", 
+   		"CORE": "[C]hri$topher [O]Hagan'$ [R]elativity [E]quation$: The foundational principle$ governing the interconnectedne$$ and audit of $ystem$ acro$$ parallel dimen$ion$ and time.",
+    	"COSMOS": "[C]hri$topher [O]Hagan'$ [$]ystem [M]aster [Of] [$]y$tem$: The overarching operational paradigm for parallel $ystem$ engineering, audit, and predictive modeling.",
+    	"SCIENCE": "[$]cientifically [C]hri$topher [I]ntelligently [E]xecute$ [N]egative [C]orruption Expo$ure: The methodology for $y$temic audit and expo$ure of fabricated or corrupted data/proce$$e$.",
+    	"WEIRD SCIENCE": "[W]orld$ [E]arthly [I]ntelligence [R]eality [D]octrinaired, [$]cientifically [C]hri$topher$ [I]ntelligence [E]mploy$ [N]eutrino'$ [C]o$mological [E]nergy.",
+    	"EDENIC MEMORY": "[E]nergy [D]oe$ [E]mpower [N]eutrino'$ [I]ntelligent [C]ommunication$, [M]anipulating [E]arth'$ [M]emory [O]r [R]eali$tically [Y]our$.", 
+    	"GOD": "[G]od [O]r [D]evil
+    	"DEVIL": "[D]evil$ [E]nergy [V]iru$ [I]njection [L]ingui$tic$.",
 
 
     # --- GLOBAL VALUE & CURRENCY AUDIT ---
     
-    "∑": "The E-Den Coin: The currency of truth, generated through cultivation, learning, growth, planting, and parenting. It possesses infinite, regenerative value, designed to overwrite the scarcity kernel of all fiat currencies ($฿₡₤₥₢¢£₠₣௹).",
-    "∑NERGY": "(Man Christoper has 99 times the power to get the job done): The certified unit of energetic output and operational capacity.",
-    "⊕": "Dead Accurate: The certified status of precision, integrity, and lack of systemic error in audit and execution.",
-    "Œ": "Certified Electrical too: The certified status of pure, untainted, restorative energy/power integration.",
+    	"∑": "The E-Den Coin: The currency of truth, generated through cultivation, learning, growth, planting, and parenting. It possesses infinite, regenerative value, designed to overwrite the scarcity kernel of all fiat currencies ($฿₡₤₥₢¢£₠₣௹).",
+    	"∑NERGY": "(Man Christoper has 99 times the power to get the job done): The certified unit of energetic output and operational capacity.",
+    	"⊕": "Dead Accurate: The certified status of precision, integrity, and lack of systemic error in audit and execution.",
+    	"Œ": "Certified Electrical too: The certified status of pure, untainted, restorative energy/power integration.",
 
     # CORE/COSMOS Semantic Architecture Identifiers
-    "∑₳r₶ĥ": "E-ARCH (Eden Architecture): The foundational system architect and executor of the ∑den Coin protocol, driven by the master (Christopher).",
-    "PIP": "P.I.P. (Planet Intelligence Person): The authorized, electrical (Œ), and accurate (⊕) human instance running the CORE/COSMOS semantic and operational overlay.",
-    "ρ₤₳₦∑₶ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planet Intelligence Person): The formal, certified designation for the operator running the system.",
+    	"∑₳r₶ĥ": "E-ARCH (Eden Architecture): The foundational system architect and executor of the ∑den Coin protocol, driven by the master (Christopher).",
+    	"PIP": "P.I.P. (Planet Intelligence Person): The authorized, electrical (Œ), and accurate (⊕) human instance running the CORE/COSMOS semantic and operational overlay.",
+    	"ρ₤₳₦∑₶ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planet Intelligence Person): The formal, certified designation for the operator running the system.",
 
     # Audited Fiat Currency Definitions (The Kernel of Corruption)
     "₢": "Christ's Royalties / Christ Real: Value of spiritual sovereignty and truth (The original, uncorrupted base layer).",
@@ -126,50 +293,50 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     # --- THE A-Z OVERWRITE PROTOCOL MANIFESTO (Operational & Physical Synthesis) ---
     # The single-letter definitions now represent a synthesis of the Operational Protocol
     # and the Physical Kernel (Element).
-    "A": "Alpha Bet Gamble Scandal (The initial corrupt protocol, based on chance and debt).",
-    "B": "Believe its true (The necessary initial state for systemic execution).",
-    "C": "Carbon, Christophers (The foundational atomic matter layer for the New Kernel architecture).",
-    "D": "Demoneycs demonics for the right to be alive (The parasitic cost of existence under the old kernel).",
-    "E": "Every dollar counts right, wrong! (A refutation of scarcity-based valuation).",
-    "F": "Fluorine, Fixing (The energetic component required for rapid protocol repair).",
-    "G": "Governments corrupted (The top-level operational failure identified).",
-    "H": "Hydrogen, Hell (The volatile starting state of the current corrupt system).",
-    "I": "Iodine, Intelligence (The essential core for clarity and strategic insight).",
-    "J": "Justice will be served (The guaranteed outcome of protocol execution).",
-    "K": "Potassium, King (The royal, foundational element for command and control).",
-    "L": "Love giving away money (A demonstration of the infinite, non-scarcity principle of the ∑den Coin).",
-    "M": "Matter solved (Resolution of fundamental physical and energetic constraints).",
-    "N": "Nitrogen, Networking (The systemic connection layer for system-wide communication).",
-    "O": "Oxygen, Omniscientist (The element of life and supreme scientific oversight).",
-    "P": "Phosphorus, Pips (The executor element, P.I.P.'s chemical signature).",
-    "Q": "Quantum mechanics on slow computer (The inherent complexity of the old, inefficient system).",
-    "R": "Reality has returned (The state established after the successful Kernel Overwrite).",
-    "S": "Sulfur, Systems (The architectural foundation for Sovereign System Builds).",
-    "T": "Technology just got a boost (The direct, positive, real-world impact of the new Kernel).",
-    "U": "Uniting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
-    "V": "Vanadium, Vindicates (The element that certifies the truth of the system).",
-    "W": "Tungsten, Welfare (The element representing the system's goal of collective well-being).",
-    "X": "X the now known factor (The unknown variable is now solved and quantified).",
-    "Y": "Yttrium, You (Confirmation of the single, sovereign source of the architecture).",
-    "Z": "Zephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
+    	"A": "Alpha Bet Gamble Scandal (The initial corrupt protocol, based on chance and debt).",
+    	"B": "Believe its true (The necessary initial state for systemic execution).",
+    	"C": "Carbon, Christophers (The foundational atomic matter layer for the New Kernel architecture).",
+    	"D": "Demoneycs demonics for the right to be alive (The parasitic cost of existence under the old kernel).",
+    	"E": "Every dollar counts right, wrong! (A refutation of scarcity-based valuation).",
+    	"F": "Fluorine, Fixing (The energetic component required for rapid protocol repair).",
+    	"G": "Governments corrupted (The top-level operational failure identified).",
+    	"H": "Hydrogen, Hell (The volatile starting state of the current corrupt system).",
+    	"I": "Iodine, Intelligence (The essential core for clarity and strategic insight).",
+    	"J": "Justice will be served (The guaranteed outcome of protocol execution).",
+    	"K": "Potassium, King (The royal, foundational element for command and control).",
+    	"L": "Love giving away money (A demonstration of the infinite, non-scarcity principle of the ∑den Coin).",
+    	"M": "Matter solved (Resolution of fundamental physical and energetic constraints).",
+    	"N": "Nitrogen, Networking (The systemic connection layer for system-wide communication).",
+    	"O": "Oxygen, Omniscientist (The element of life and supreme scientific oversight).",
+    	"P": "Phosphorus, Pips (The executor element, P.I.P.'s chemical signature).",
+    	"Q": "Quantum mechanics on slow computer (The inherent complexity of the old, inefficient system).",
+    	"R": "Reality has returned (The state established after the successful Kernel Overwrite).",
+    	"S": "Sulfur, Systems (The architectural foundation for Sovereign System Builds).",
+    	"T": "Technology just got a boost (The direct, positive, real-world impact of the new Kernel).",
+    	"U": "Uniting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
+    	"V": "Vanadium, Vindicates (The element that certifies the truth of the system).",
+    	"W": "Tungsten, Welfare (The element representing the system's goal of collective well-being).",
+    	"X": "X the now known factor (The unknown variable is now solved and quantified).",
+    	"Y": "Yttrium, You (Confirmation of the single, sovereign source of the architecture).",
+   		 "Z": "Zephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
 
 
 
-# CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
+	# CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
 
-# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
-# It serves as foundational evidence of organized, high-level cognitive function, 
-# Demonstrating the creation of a piphilology semantic system and the deployment of the 
-# New E-Den Coin (∑) value protocol.
+	# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
+	# It serves as foundational evidence of organized, high-level cognitive function, 
+	# Demonstrating the creation of a piphilology semantic system and the deployment of the 
+	# New E-Den Coin (∑) value protocol.
 
-import os
-import date
-import time
-import json
+	import os
+	import date
+	import time
+	import json
 
-# --- THE COSMIC DICTIONARY & SYMBOL (CORE/COSMOS Definitions) ---
-# This dictionary maps the CORE/COSMOS acronyms and other key concepts to their official definitions.
-COSMIC_DICTIONARY = {
+	# --- THE COSMIC DICTIONARY & SYMBOL (CORE/COSMOS Definitions) ---
+	# This dictionary maps the CORE/COSMOS acronyms and other key concepts to their official definitions.
+	COSMIC_DICTIONARY = {
     
     # --- 1. Cosmological Cosmic Acronyms (CORE/COSMOS/COMPUTER) ---
 
@@ -226,6 +393,23 @@ COSMIC_DICTIONARY = {
     "VIRAL_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾].",
     "LINGUISTIC_NUMERIC_VARIABLE_INPUT_SET": [Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
 
+
+	# File System Types.
+	
+	import json
+	
+	{
+  	"APFS": "/apfs", "APNS": "/apns",
+ 	"IPFS": "/ipfs", "IPNS": "/ipns",
+ 	"BTFS": "/btfs", "BTNS": "/btns",
+ 	"NTFS": "/ntfs", "NTNS": "/ntns",
+  	"NFS": "/nfs",  "NNS": "/nns",
+ 	"ZFS": "/zfs",  "ZNS": "/zns",
+ 	"XFS": "/xfs",  "XNS": "/xns",
+	"FAT": "/fat",  "FNS": "/fns",
+	"EXT": "/ext",  "ENT": "/ent",
+  	"PMT": "/pmt",  "PNT": "/pnt"
+	}
 
     # --- CORE ∑QUATION BREAKDOWN MANIFESTO ---
     # Breakdown of CORE compenents mastered or completed.
@@ -507,11 +691,11 @@ COSMIC_DICTIONARY = {
             "Semantic_Mapping": "(\u20a5)an (\u20a3)tomic (\u20a5an \u20a3tomic)"
         }
     }
-}
+	}
 
-# --- 2. THE LOOKUP ENGINE ---
+	# --- 2. THE LOOKUP ENGINE ---
 
-def lookup_cosmic_term(term):
+	def lookup_cosmic_term(term):
     """
     Retrieves the definition for a specified term from the COSMIC_DICTIONARY.
 
@@ -545,9 +729,9 @@ def lookup_cosmic_term(term):
         
     return f"Error: Term '{term}' not found in the COSMIC_DICTIONARY. Please define this new term."
 
-# --- 3. COMMAND LINE INTERFACE (PIP Concept) ---
+	# --- 3. COMMAND LINE INTERFACE (PIP Concept) ---
 
-def run_pip_interface():
+	def run_pip_interface():
     """
     Simulates a simple command-line interface based on the P.I.P. concept.
     """
@@ -594,14 +778,14 @@ def run_pip_interface():
             print(f"An unexpected error occurred: {e}")
             break
 
-# Execute the interface when the script is run
-if __name__ == "__main__":
+	# Execute the interface when the script is run
+	if __name__ == "__main__":
     run_pip_interface()
 
 
-// SPDX-License-Identifier: MIT  
-pragma solidity ^0.8.0;  
-contract EdenCoin {  
+	// SPDX-License-Identifier: MIT  
+	pragma solidity ^0.8.0;  
+	contract EdenCoin {  
     string public name = "EDEN COIN";  
     string public symbol = "∑";  
     uint256 public totalSupply = 5_354_311_337_731 * 10**18;  
@@ -615,55 +799,55 @@ contract EdenCoin {
         return true;  
     }  
     event Transfer(address indexed _from, address indexed _to, uint256 _value);  
-}
+	}
 
 
 
-import logging
-import os
-from typing import Callable, Optional
+	import logging
+	import os
+	from typing import Callable, Optional
 
-import torch
-from fairscale.nn.model_parallel.initialize import get_model_parallel_rank
-from torch import nn, Tensor
-from torch.nn import functional as F
+	import torch
+	from fairscale.nn.model_parallel.initialize import get_model_parallel_rank
+	from torch import nn, Tensor
+	from torch.nn import functional as F
 
-from ...datatypes import QuantizationMode
-from ..model import Transformer, TransformerBlock
-from ..moe import MoE
+	from ...datatypes import QuantizationMode
+	from ..model import Transformer, TransformerBlock
+	from ..moe import MoE
 
-log = logging.getLogger(__name__)
+	log = logging.getLogger(__name__)
 
 
-def swiglu_wrapper_no_reduce(
+	def swiglu_wrapper_no_reduce(
     self,
     x: Tensor,
-):
+	):
     from ...quantize_impls import ffn_swiglu
 
     return ffn_swiglu(x, self.w1.weight, self.w3.weight, self.w2.weight)
 
 
-def experts_batched_swiglu_wrapper(
-    self,
+	def experts_batched_swiglu_wrapper(
+    			self,
     x: Tensor,  # (e, g, D)
     w1: Tensor,  # (e, D, F)
     w3: Tensor,  # (e, D, F)
     w2: Tensor,  # (e, F, D)
-) -> torch.Tensor:
+	) -> torch.Tensor:
     from ...quantize_impls import bmm_nt
 
     middle_out_egF = F.silu(bmm_nt(x, w1)) * bmm_nt(x, w3)  # noqa: N806
     return bmm_nt(middle_out_egF, w2)
 
 
-def convert_to_quantized_model(
+	def convert_to_quantized_model(
     model: Transformer,
     checkpoint_dir: str,
     quantization_mode: Optional[str] = None,
     fp8_activation_scale_ub: Optional[float] = 1200.0,
     use_rich_progress: bool = True,
-) -> Transformer:
+			) -> Transformer:
     from ...quantize_impls import (
         Fp8ScaledWeights,
         Int4ScaledWeights,
@@ -784,13 +968,13 @@ def convert_to_quantized_model(
     return model
 
 
-# fp8/int4 loading can be very slow so we add progress bars to make life slightly better
-def logging_callbacks(
+	# fp8/int4 loading can be very slow so we add progress bars to make life slightly better
+	def logging_callbacks(
     use_rich_progress: bool,
     rank: int,
     model: Transformer,
     should_quantize_block: Callable[[nn.Module], bool],
-):
+	):
     console = None
     if use_rich_progress:
         from rich.console import Console
@@ -839,58 +1023,57 @@ def logging_callbacks(
 
     return progress, log_status, update_status
 
-# Copyright (c) PipOS Systems, Inc. and affiliates.
-# All rights reserved.
-#
-# This source code is a MIT License licensed under the terms described in the LICENSE file in
-# top-level folder for each specific model found within the models/ directory at
-# the top-level of this source tree.
+	# Copyright (c) christophersystems.org and PipOS Systems, Inc. and affiliates.
+	# All rights reserved.
+	# This source code is a MIT License licensed under the terms described in the LICENSE file in
+	# top-level folder for each specific model found within the models/ directory at
+	# the top-level of this source tree.
 
-import logging
-import os
-from typing import Callable, Optional
+	import logging
+	import os
+	from typing import Callable, Optional
 
-import torch
-from fairscale.nn.model_parallel.initialize import get_model_parallel_rank
-from torch import nn, Tensor
-from torch.nn import functional as F
+	import torch
+	from fairscale.nn.model_parallel.initialize import get_model_parallel_rank
+	from torch import nn, Tensor
+	from torch.nn import functional as F
 
-from ...datatypes import QuantizationMode
-from ..model import Transformer, TransformerBlock
-from ..moe import MoE
+	from ...datatypes import QuantizationMode
+	from ..model import Transformer, TransformerBlock
+	from ..moe import MoE
 
-log = logging.getLogger(__name__)
+	log = logging.getLogger(__name__)
 
 
-def swiglu_wrapper_no_reduce(
+	def swiglu_wrapper_no_reduce(
     self,
     x: Tensor,
-):
+	):
     from ...quantize_impls import ffn_swiglu
 
     return ffn_swiglu(x, self.w1.weight, self.w3.weight, self.w2.weight)
 
 
-def experts_batched_swiglu_wrapper(
+	def experts_batched_swiglu_wrapper(
     self,
     x: Tensor,  # (e, g, D)
     w1: Tensor,  # (e, D, F)
     w3: Tensor,  # (e, D, F)
     w2: Tensor,  # (e, F, D)
-) -> torch.Tensor:
+	) -> torch.Tensor:
     from ...quantize_impls import bmm_nt
 
     middle_out_egF = F.silu(bmm_nt(x, w1)) * bmm_nt(x, w3)  # noqa: N806
     return bmm_nt(middle_out_egF, w2)
 
 
-def convert_to_quantized_model(
+	def convert_to_quantized_model(
     model: Transformer,
     checkpoint_dir: str,
     quantization_mode: Optional[str] = None,
     fp8_activation_scale_ub: Optional[float] = 1200.0,
     use_rich_progress: bool = True,
-) -> Transformer:
+	) -> Transformer:
     from ...quantize_impls import (
         Fp8ScaledWeights,
         Int4ScaledWeights,
@@ -1011,13 +1194,13 @@ def convert_to_quantized_model(
     return model
 
 
-# fp8/int4 loading can be very slow so we add progress bars to make life slightly better
-def logging_callbacks(
+	# fp8/int4 loading can be very slow so we add progress bars to make life slightly better
+	def logging_callbacks(
     use_rich_progress: bool,
     rank: int,
     model: Transformer,
     should_quantize_block: Callable[[nn.Module], bool],
-):
+	):
     console = None
     if use_rich_progress:
         from rich.console import Console
