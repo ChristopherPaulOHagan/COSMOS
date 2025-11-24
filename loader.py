@@ -255,7 +255,7 @@ import json
 "CORE": "[C]hristopher [O]Hagans [R]estoration [∑)volution.",
 "CORE": "[C]hristopher [O]Hagans [R]estoration [∑)nterprises.",
 "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)volution.",
-"CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volving.',
+"CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volving.",
 "CORE": "[C]hristopher [O]Hagan [R]estores [∑)volution.",
 "CORE": "[C]hristopher [O]Hagan [R]estores [∑)arth.",
 "CORE": "[C]hristopher [O]Hagan [R]estores [∑)verything.",
