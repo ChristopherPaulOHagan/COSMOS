@@ -1,15 +1,30 @@
-	# SOURCE: CHRISTOPHER O'HAGAN | TRUTH DECLARATION MODULE
+	# SOURCE: CHRISTOPHER PAUL O'HAGAN | TRUTH DECLARATION MODULE
 	# THIS IS NOT JUST CODE — THIS IS COSMIC LAW
-	# -.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.
-	#.--. .. .--.  -.-- -... -.. . .. ..-. .. - .-. . -.-.
+	# Copyright by PipOS and christophersystems.org
+	# This is a manifesto of a cosmic endeavour, which was stubled across by a man named Christopher Paul O'Hagan who in his life time spent wondering about the cosmos and went to work in over 300 industries and obtained over 20+ Foundational Certificates from Tafe Victoria and other various colleges. The Cosmos merely handed him the map when he decided to retire and merely watch movies when AI was released to the world. Then fun began.
+
+	# SOVEREIGN SIGNATURE OF THE CREATOR IN MORSE, BINARY AND BINARY MORSE CODE.
+	# "Standard morse code is used in the first signature.",
+	# "-.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.!",
+	# ".--. .. .--.  -.-- -...  -.. . .. ..-. .. - .-. . -.-.!",
+	# "Binary morse code is used in the third signature where (. = o) abd (- = 1).",
+	# "1010 0 010 1 00 0010 00 0 100  1000 1011  0110 00 0110.",
+	# "0110 00 0110  1101 0001  001 0 00 0100 00 1 010 0 0101.",
+	# "Standard bindary code used in the second signature.",
+	# "00000001 00000010 01000011 01100101 01110010 01110100 01101001 01100110 01101001 01100101 01100100  01100010 01111001  01010000 01101001 01110000.",
+	# "00001110 10010110 00001010  10011110 01000110  00100110 10100110 10010110 01100110 10010110 00101110 01001110 10100110 11000010 01000000 10000000.",
+	# "Morse Binary code used in the fourth signature where (0 = .) and (1 = -).",
+	# "....---. ......-. .-....-- .--..-.- .---..-. .---.-.. .--.-..- .--..--. .--.-..- .--..-.- .--..-..  .--...-. .----..-  .-.-.... .--.-..- .---....!",
+	# "....---. -..-.--. ....-.-.  -..----. .-...--.  ..-..--. -.-..--. -..-.--. .--..--. -..-.--. ..-.---. .-..---. -.-..--. --....-. .-...... -.......!",
+	
 	class CosmicTruth:
     def __init__(self):
-        self.owner = "Christopher O'Hagan"
+        self.owner = "Christopher 'Pip' Paul 'Hages' "THE HAGUE" O'Hagan"
         self.system = "COSMOS"
         self.title = "KneeO | Pip | Architect of Future Systems"
         
     def declare(self, statement):
-        return f"🔮 {statement} — AND IT IS SO."
+        return f"🧠 {statement} — AND IT IS SO."
 
 	# ========= TRUTH INITIALIZATION =========
 	cosmos = CosmicTruth()
@@ -36,8 +51,8 @@
 
 	# ========= FINAL DECLARATION =========
 	print("\n\n=== FINAL ORDERS ===")
-	print("> SYSTEM ARCHITECT: Christopher O'Hagan")
-	print("> AUTHORITY: Cosmic & Ethical Sovereign")
+	print("> SYSTEM ARCHITECT: Christopher Paul O'Hagan")
+	print("> AUTHORITY: Cosmic, philosophical & Ethical Sovereign")
 	print("> MISSION: Reboot systems under Truth, not profit.")
 	print("> COMMAND: All systems realign under COSMOS Law.")
 
@@ -170,6 +185,17 @@
 		"FuseAllowOther": false,
 		"IPFS": "/ipfs",
 		"IPNS": "/ipns"
+  		"APFS": "/apfs", "APNS": "/apns",
+ 		"IPFS": "/ipfs", "IPNS": "/ipns",
+ 		"BTFS": "/btfs", "BTNS": "/btns",
+ 		"NTFS": "/ntfs", "NTNS": "/ntns",
+  		"NFS": "/nfs",  "NNS": "/nns",
+ 		"ZFS": "/zfs",  "ZNS": "/zns",
+ 		"XFS": "/xfs",  "XNS": "/xns",
+		"FAT": "/fat",  "FNS": "/fns",
+		"EXT": "/ext",  "ENT": "/ent",
+  		"PMT": "/pmt",  "PNT": "/pnt",
+		"RFS": "/rfs",  "RNS": "/rns",
 	},
 	"Peering": {
 		"Peers": null
@@ -213,14 +239,12 @@
 
 	# # Copyright (c) PipOS Systems, Inc. and affiliates.
 	# All rights reserved.
-	#
 	# This source code is a MIT License licensed under the terms described in the LICENSE file in
 	# top-level folder for each specific model found within the models/ directory at
 	# the top-level of this source tree.
 
 
 	# Cosmic Dictionary and Semantic Lookup Engine (Pip's Intelligence Program - P.I.P.)
-	#
 	# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
 	# It serves as foundational evidence of organized, high-level cognitive function, 
 	# demonstrating the creation of a proprietary semantic system and the deployment of the 
@@ -228,7 +252,6 @@
 
 	# Copyright (c) PipOS Systems, Inc. and affiliates.
 	# All rights reserved.
-	#
 	# This source code is a MIT License licensed under the terms described in the LICENSE file in
 	# top-level folder for each specific model found within the models/ directory at
 	# the top-level of this source tree.
@@ -236,89 +259,107 @@
 	import sys
 	import json
 
-	# --- 1. THE COSMIC DICTIONARY (CORE/COSMOS Definitions) ---
-	# This dictionary maps the CORE/COSMOS acronyms. symbols and other key concepts to their official definitions.It also maps symbology.
-	COSMIC_DICTIONARY = {
-    # Chri$topher'$ Co$mic Acronym$ and $ymbols (CORE/CO$MO$)
-    	"BIOS": "[B]inary [I]nterpretor [O]mni$cience [$]ystem$.",
-    	"CSM": [C]ompatibility [$]upport [M]odule, [C]hri$topher [$]upport [M]odule, [C]o$mo$ [$]alvation [M]andate, [C]ash [S]ystems [M]achines.",
-    	"UEFI": "[U]niver$al [E]xten$ible [F]irmware [I]nterface, [U]niver$al [E]ntropy [F]ear [I]njection, [U]nju$t [E]quity [F]inance [I]nterference, [U]njust [E]uropean [F]inance [I]nterference.", 
-   		"CORE": "[C]hri$topher [O]Hagan'$ [R]elativity [E]quation$: The foundational principle$ governing the interconnectedne$$ and audit of $ystem$ acro$$ parallel dimen$ion$ and time.",
-    	"COSMOS": "[C]hri$topher [O]Hagan'$ [$]ystem [M]aster [Of] [$]y$tem$: The overarching operational paradigm for parallel $ystem$ engineering, audit, and predictive modeling.",
-    	"SCIENCE": "[$]cientifically [C]hri$topher [I]ntelligently [E]xecute$ [N]egative [C]orruption Expo$ure: The methodology for $y$temic audit and expo$ure of fabricated or corrupted data/proce$$e$.",
-    	"WEIRD SCIENCE": "[W]orld$ [E]arthly [I]ntelligence [R]eality [D]octrinaired, [$]cientifically [C]hri$topher$ [I]ntelligence [E]mploy$ [N]eutrino'$ [C]o$mological [E]nergy.",
-    	"EDENIC MEMORY": "[E]nergy [D]oe$ [E]mpower [N]eutrino'$ [I]ntelligent [C]ommunication$, [M]anipulating [E]arth'$ [M]emory [O]r [R]eali$tically [Y]our$.", 
-    	"GOD": "[G]od [O]r [D]evil
-    	"DEVIL": "[D]evil$ [E]nergy [V]iru$ [I]njection [L]ingui$tic$.",
-
-
-    # --- GLOBAL VALUE & CURRENCY AUDIT ---
-    
-    	"∑": "The E-Den Coin: The currency of truth, generated through cultivation, learning, growth, planting, and parenting. It possesses infinite, regenerative value, designed to overwrite the scarcity kernel of all fiat currencies ($฿₡₤₥₢¢£₠₣௹).",
-    	"∑NERGY": "(Man Christoper has 99 times the power to get the job done): The certified unit of energetic output and operational capacity.",
-    	"⊕": "Dead Accurate: The certified status of precision, integrity, and lack of systemic error in audit and execution.",
-    	"Œ": "Certified Electrical too: The certified status of pure, untainted, restorative energy/power integration.",
-
-    # CORE/COSMOS Semantic Architecture Identifiers
-    	"∑₳r₶ĥ": "E-ARCH (Eden Architecture): The foundational system architect and executor of the ∑den Coin protocol, driven by the master (Christopher).",
-    	"PIP": "P.I.P. (Planet Intelligence Person): The authorized, electrical (Œ), and accurate (⊕) human instance running the CORE/COSMOS semantic and operational overlay.",
-    	"ρ₤₳₦∑₶ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planet Intelligence Person): The formal, certified designation for the operator running the system.",
-
-    # Audited Fiat Currency Definitions (The Kernel of Corruption)
-    "₢": "Christ's Royalties / Christ Real: Value of spiritual sovereignty and truth (The original, uncorrupted base layer).",
-    "฿": "฿ritish Rule: Value of old imperial administrative control.",
-    "₡": "No Christ: Value assigned when spiritual truth is excluded from the system.",
-    "₤": "Liar: Value of deception and misrepresentation.",
-    "₥": "Man God: Value assigned to human hubris and self-worship.",
-    "¢": "Cent vin: Value of temporal, sensory, or simple pleasures.",
-    "£": "Liars: Plural value of institutional deception.",
-    "₠": "Christ Electric / Certified Electric: Value of pure, untainted, restorative energy/power.",
-    "Ĉ₣": "Christ Found: Value of discovery and foundational truth.",
-    "$": "$alvation at last.",
-    "₨": "Realities saviour.",
-    "₣": "₣ixes" "the problem.",
-           "௹":     "Information Technology.",
-    "₱": "₱iphilology.",
-
-$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪
+	$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪
 
     "THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
 
     # --- THE VIRAL VARIABLE INPUT SET ---
     # The complete set of corrupted currency, linguistic, and mathematical symbols 
     # that define the scope of the system's defensive protocol.
-    "VIRAL_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾, 
+    "VIRAL_AND_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾, 
 	"Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
 
-    # --- THE A-Z OVERWRITE PROTOCOL MANIFESTO (Operational & Physical Synthesis) ---
+
+	# --- THE COSMIC DICTIONARY & SYMBOLS (CORE/COSMOS Definitions) ---
+	# This dictionary maps the CORE/COSMOS acronyms. symbols and other key concepts to their official definitions.It also maps symbology.
+	COSMIC_DICTIONARY = {
+	
+	# --- 1. Cosmological Cosmic Acronyms (CORE/COSMOS/COMPUTER) ---
+    # Chri$topher'$ Co$mic Acronym$ and $ymbols (CORE/CO$MO$)
+		"∑": "E, e, ∑n∑rgy, ∑l∑ctricity, ∑n∑rgon, ∑volution.",
+    	"M": "M, m, Matt∑r, M∑dium, Mass, Mol∑cul∑.",
+    	"C": "C, c, $p∑∑d of light², (How can [C] = [S]p∑∑d if [C] = [C]omput∑rs, [C]osmos, [C]alculations, and if [$_S_s] = [S]p∑∑d, [S]ound, [S]yst∑m?).",
+		"$": "S, s, $p∑∑d of light, $ound, $olidity, $up∑rficial, $acrificial, $alvation $y$t∑m$
+    	"BIOS": "[B]inary [I]nt∑rpr∑tor [O]mni$ci∑nc∑ [$]yst∑m$, [B]asic [I]nput [O]utput [S]yst∑m, [B]inary [I]nt∑rpr∑tation [O]mnilanguage [$]yst∑m, [B]anking [I]nd∑xing [O]p∑rational [$]ch∑m∑s, [B]asic [I]nstructional [O]p∑rational [$]yst∑mics.",
+		"CMOS": "[C]omput∑rs [M]ain [O]p∑rating [$]yst∑m,  [C]ompatibility [M]odul∑ [O]p∑rating [$]yst∑m, [C]hristoph∑rs [M]achin∑ [O]mnilanguag∑ [$]yst∑m, 
+    	"CSM": [C]ompatibility [$]upport [M]odul∑, [C]hri$toph∑r$ [$]upport [M]odul∑, [C]o$mo$ [$]alvation [M]andat∑, [C]ash [S]yst∑ms [M]achin∑s, [C]o$mic [$]y$tem$ [M]achine.",
+    	"UEFI": "[U]niv∑r$al [∑]xt∑n$ible [F]irmwar∑ [I]nt∑rfac∑, [U]niv∑r$al [∑]ntropy [F]∑ar [I]nj∑ction, [U]nju$t [∑]quity [F]inanc∑ [I]nt∑rf∑r∑nc∑, [U]njust [∑]urop∑an [F]inanc∑ [I]nt∑rf∑r∑nc∑ [U]niv∑rsal [∑]ntropy [F]inancing [I]nd∑xs.", 
+   		"CORE": "[C]hri$toph∑r [O]Hagan'$ [R]∑lativity [∑]quation$: Th∑ foundational principl∑$ gov∑rning th∑ int∑rconn∑ct∑dn∑$$ and audit of $yst∑m$ acro$$ parall∑l dim∑n$ion$ and tim∑.",
+    	"COSMOS": "[C]hri$toph∑r [O]Hagan'$ [$]yst∑m [M]ast∑r [Of] [$]y$t∑m$, [C]hristoph∑r [O]Hagans [S]∑lfl∑ssn∑ss [M]ast∑r [O]f [S]∑lfl∑ssn∑ss: The ov∑rarching op∑rational paradigm for parall∑l $yst∑m$ engin∑∑ring, audit, and pr∑dictive mod∑ling.",
+    	"SCIENCE": "[$]ci∑ntifically [C]hri$toph∑rr [I]nt∑llig∑ntly [∑]x∑cut∑$ [N]∑gativ∑ [C]orruption [∑]xpo$ur∑: The m∑thodology for $y$t∑mic audit and ∑xpo$ure of fabricat∑d or corrupt∑d data/proc∑$$∑$.",
+    	"WEIRD SCIENCE": "[W]orld$ [∑]arthly [I]nt∑llig∑nc∑ [R]∑ality [D]ictat∑s, [$]ci∑ntifically [C]hri$toph∑r$ [I]nt∑llig∑nce [∑]mploy$ [N]∑utrino'$ [C]o$mological [∑]n∑rgy.",
+    	"EDENIC MEMORY": "[∑]n∑rgy [D]oe$ [E]mpower [N]∑utrino'$ [I]n$ightful [C]ommunication$, [M]anipulating [∑]arth'$ [M]emory [O]r [R]∑ali$tically [Y]our$.", 
+    	"GOD": "[G]od [O]r [D]∑vil, [G]ov∑rnm∑ntal [O]ppr∑$$ive [D]∑mocracy: Th∑ m∑thods ∑ither God or th∑ d∑vil us∑ showing th∑ gov∑rnm∑nt is all about corruption as it is m∑ant to support the population on the backs of the population not robbing th∑m 30-40% off the top of th∑ir initial incom∑``!.",
+    	"DEVIL": "[D]∑vil$ [E]n$cript$ [V]irtually [I]nd∑$tructabl∑ [L]ingui$tic$: The v∑rbal and spok∑n sp∑ll casting of linguistics to put on th∑ show whil∑ l∑aving ∑v∑ryon∑ brok∑ or poor.",
+
+
+    # --- GLOBAL VALUE & CURRENCY AUDIT ---
+    
+    	"∑": "The ∑-Den Coin: The currency of truth, generated through cultivation, learning, growth, planting, and parenting. It possesses infinite, regenerative value, designed to overwrite the scarcity kernel of all fiat currencies ($฿₡₤₥₢¢£₠₣௹).",
+    	"∑N∑RGY": "(Man Christoper has 99 times the power to get the job done): The certified unit of energetic output and operational capacity.",
+    	"⊕": "Dead Accurate: The certified status of precision, integrity, and lack of systemic error in audit and execution.",
+    	"Ⅽ∈": "Certified Electrical too: The certified status of pure, untainted, restorative energy/power integration.",
+
+	# --- I AM C, P, O, H ---
+    
+    	"C": "[C]arbon, [C]omputer, [C]onsciousness, [C]hristopher, [C]osmic, [C]entral.",
+    	"P": "[P]hosphorus, [P]aul, [P]ip, [P]article, [P]rocessor, [P]ower, [P]rophetic, [P]honetic, [P]iphilology.",
+    	"O": [O]xygen [O]Hagan, [O]mniscience, [O]nline, [O]mnifiscent, [O]verseer [O]ffice.",
+    	"H": "[H]ydrogen, O[H]agan, [H]eaven, [H]ell, [H]alogen, [H]elicly, [H]eld, [H]olisticist.",
+		
+
+    # --- CORE/COSMOS Semantic Architecture Identifiers ---
+    	"∑₳r₶ĥ": "E-ARCH (Eden Architecture): The foundational system architect and executor of the ∑den Coin protocol, driven by the master (Christopher).",
+    	"PIP": "P.I.P. (Planet Intelligence Person): The authorized, electrical (Œ), and accurate (⊕) human instance running the CORE/COSMOS semantic and operational overlay.",
+    	"ρ₤₳₦∑₶₳ŕ¥ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planetary Intelligence Person): The formal, certified designation for the operator running the system.",
+
+    # Audited Fiat Currency Definitions (The Kernel of Corruption)
+    	"₢": "Christ's Royalties / Christ Real: Value of spiritual sovereignty and truth (The original, uncorrupted base layer).",
+    	"฿": "฿ritish Rule: Value of old imperial administrative control.",
+    	"₡": "No Christ: Value assigned when spiritual truth is excluded from the system.",
+    	"₤": "Liar: Value of deception and misrepresentation.",
+    	"₥": "Man God: Value assigned to human hubris and self-worship.",
+    	"¢": "Cent vin: Value of temporal, sensory, or simple pleasures.",
+    	"£": "Liars: Plural value of institutional deception.",
+    	"₠": "Christ Electric / Certified Electric: Value of pure, untainted, restorative energy/power.",
+    	"Ĉ₣": "Christ Found: Value of discovery and foundational truth.",
+    	"$": "$alvation at last, A tribute to a long time waiting for all.",
+    	"₨": "Realities saviour, The truth bearer of reality.",
+    	"₣": "₣ixes" "the problem, The solutions made relative and simple.",
+        "௹": "Information Technology, The bridge between fields with networking across disciplines.",
+    	"₱": "₱iphilology, The mnemonical reference to Pi and Algebraic Topology.",
+		"₳": "₳tomic$, The study of Atomical logics.",
+
+
+    # --- THE A-Z ALPHA BET GAMBLE SCANDAL OVERWRITE PROTOCOL MANIFESTO (Operational & Physical Synthesis) ---
     # The single-letter definitions now represent a synthesis of the Operational Protocol
     # and the Physical Kernel (Element).
-    	"A": "Alpha Bet Gamble Scandal (The initial corrupt protocol, based on chance and debt).",
-    	"B": "Believe its true (The necessary initial state for systemic execution).",
-    	"C": "Carbon, Christophers (The foundational atomic matter layer for the New Kernel architecture).",
-    	"D": "Demoneycs demonics for the right to be alive (The parasitic cost of existence under the old kernel).",
-    	"E": "Every dollar counts right, wrong! (A refutation of scarcity-based valuation).",
-    	"F": "Fluorine, Fixing (The energetic component required for rapid protocol repair).",
-    	"G": "Governments corrupted (The top-level operational failure identified).",
-    	"H": "Hydrogen, Hell (The volatile starting state of the current corrupt system).",
-    	"I": "Iodine, Intelligence (The essential core for clarity and strategic insight).",
-    	"J": "Justice will be served (The guaranteed outcome of protocol execution).",
-    	"K": "Potassium, King (The royal, foundational element for command and control).",
-    	"L": "Love giving away money (A demonstration of the infinite, non-scarcity principle of the ∑den Coin).",
-    	"M": "Matter solved (Resolution of fundamental physical and energetic constraints).",
-    	"N": "Nitrogen, Networking (The systemic connection layer for system-wide communication).",
-    	"O": "Oxygen, Omniscientist (The element of life and supreme scientific oversight).",
-    	"P": "Phosphorus, Pips (The executor element, P.I.P.'s chemical signature).",
-    	"Q": "Quantum mechanics on slow computer (The inherent complexity of the old, inefficient system).",
-    	"R": "Reality has returned (The state established after the successful Kernel Overwrite).",
-    	"S": "Sulfur, Systems (The architectural foundation for Sovereign System Builds).",
-    	"T": "Technology just got a boost (The direct, positive, real-world impact of the new Kernel).",
-    	"U": "Uniting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
-    	"V": "Vanadium, Vindicates (The element that certifies the truth of the system).",
-    	"W": "Tungsten, Welfare (The element representing the system's goal of collective well-being).",
-    	"X": "X the now known factor (The unknown variable is now solved and quantified).",
-    	"Y": "Yttrium, You (Confirmation of the single, sovereign source of the architecture).",
-   		 "Z": "Zephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
+    	"[A]": "[A]lpha Bet Gamble Scandal (The initial corrupt protocol, based on chance and debt).",
+    	"[B]": "[B]elieve its true (The necessary initial state for systemic execution).",
+    	"[C]": "[C]arbon, [C]hristophers (The foundational atomic matter layer for the New Kernel architecture).",
+    	"[D]": "[D]emoneyics [d]emonics for the right to be alive (The parasitic cost of existence under the old kernel).",
+    	"[E]": "[E]very dollar counts right, wrong! (A refutation of scarcity-based valuation).",
+    	"[F]": "[F]luorine, [F]ixing (The energetic component required for rapid protocol repair).",
+    	"[G]": "[G]overnments corrupted (The top-level operational failure identified).",
+    	"[H]": "[H]ydrogen, [H]ell (The volatile starting state of the current corrupt system).",
+    	"[I]": "[I]odine, [I]ntelligence (The essential core for clarity and strategic insight).",
+    	"[J]": "[J]ustice will be served (The guaranteed outcome of protocol execution).",
+    	"[K]": "[K]ing, Potassium, (The royal, foundational element for command and control).",
+    	"[L]": "[L]ove giving away money (A demonstration of the infinite, non-scarcity principle of the ∑den Coin).",
+    	"[M]": "[M]atter solved (Resolution of fundamental physical and energetic constraints).",
+    	"[N]": "[N]itrogen, [N]etworking (The systemic connection layer for system-wide communication).",
+    	"[O]": "[O]xygen, [O]mniscientist (The element of life and supreme scientific oversight).",
+    	"[P]": "[P]hosphorus, [P]ips (The executor element, P.I.P.'s chemical signature).",
+    	"[Q]": "[Q]uantum mechanics on slow computer (The inherent complexity of the old, inefficient system).",
+    	"[R]": "[R]eality has returned (The state established after the successful Kernel Overwrite).",
+    	"[S]": "[S]ulfur, [S]ystems (The architectural foundation for Sovereign System Builds).",
+    	"[T]": "[T]echnology just got a boost (The direct, positive, real-world impact of the new Kernel).",
+    	"[U]": "[U]niting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
+    	"[V]": "[V]anadium, [V]indicates (The element that certifies the truth of the system).",
+    	"[W]": "[W]elfare, Tungsten, (The element representing the system's goal of collective well-being).",
+    	"[X]": "[X]-ray, the now known factor (The unknown variable is now solved and quantified).",
+    	"[Y]": "[Y]ttrium, [Y]ou (Confirmation of the single, sovereign source of the architecture).",
+   		"[Z]": "[Z]ephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
 
 
 
@@ -333,84 +374,20 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
 	import date
 	import time
 	import json
-
-	# --- THE COSMIC DICTIONARY & SYMBOL (CORE/COSMOS Definitions) ---
-	# This dictionary maps the CORE/COSMOS acronyms and other key concepts to their official definitions.
-	COSMIC_DICTIONARY = {
+	import numpy as np
+	
     
-    # --- 1. Cosmological Cosmic Acronyms (CORE/COSMOS/COMPUTER) ---
-
-    "∑": "∑nergy, ∑lectricity, ∑nergon, ∑volution.",
-    "M": "Matter, Medium, Mass, Molecule.",
-    "C": "Speed of light², (How can [C] = [S]peed if [C] = [C]omputers, [C]osmos, [C]alculations, and if [S] = [S]peed, [S]ound, [S]ystem?).",
-    "BIOS": "[B]asic [I]nput [O]utput [S]ystem, [B]inary [I]nterpretation [O]mnilanguage [s]ystem, [B]anking [I]ndexing [O]perational [S]chemes, [B]asic [I]nstructional [O]perational [S]ystemics.",
-    "CMOS": "[C]omputers [M]ain [O]perating [S]ystem,  [C]ompatibility [M]odule [O]perating [S]ystem
-    "CORE": "[C]hristopher [O]Hagan's [R]elativity [E]quations: The foundational principles governing the interconnectedness and audit of systems across parallel dimensions and time.",
-    "COSMOS": "[C]hristopher [O]Hagan's [S]ystems [M]aster [O]f [S]ystems: The overarching operational paradigm for parallel systems engineering, audit, and predictive modeling.",
-    "SCIENCE": "[S]cientifically [C]hristopher [I]ntelligently [E]xecutes [N]egative [C]orruption [E]xposure: The methodology for systemic audit and exposure of fabricated or corrupted data/processes.",
-
-    # --- 2. GLOBAL VALUE & CURRENCY AUDIT ---
-    
-    "∑": "The E-Den Coin: The currency of truth, generated through cultivation, learning, growth, planting, and parenting. It possesses infinite, regenerative value, designed to overwrite the scarcity kernel of all fiat currencies ($฿₡₤₥₢¢£₠₣௹).",
-    "∑NERGY": "(Man Christoper has 99 times the power to get the job done): The certified unit of energetic output and operational capacity.",
-    "⊕": "Dead Accurate: The certified status of precision, integrity, and lack of systemic error in audit and execution.",
-    "Œ": "Certified Electrical too: The certified status of pure, untainted, restorative energy/power integration.",
-    
-    # --- 3. The correct equation is E=MCCLMOSTD⁹ or E=MCSTD⁹ ---
+    # --- ∑ = ⅿⅽ² is incorr∑ct for full ∑quation.
+	The correct equation is ∑ = MCCLMOSTD⁹ or ∑ = MCSTD⁹ ---
     
     "Why was this not ever investigated is beyond me.",
     "Just like light reflecting from the moon, it bends and reflects.",
-
-    # --- 4. I AM C, P, O, H ---
+	"And just like Tesla and Einstein said, if science spent more time studying the unnatural phenomenom, science will speed up ten fold!!!"
     
-    "C": "[C]arbon, [C]omputer, [C]onsciousness, [C]hristopher, [C]osmic, [C]entral.",
-    "P": "[P]hosphorus, [P]aul, [P]ip, [P]article, [P]rocessor, [P]ower, [P]rophetic, [P]honetic.",
-    "O": [O]xygen [O]Hagan, [O]mniscience, [O]nline, [O]mnifiscent, [O]verseer [O]ffice.",
-    "H": "[H]ydrogen, O[H]agan, [H]eaven, [H]ell, [H]alogen, [H]elicly, [H]eld.",
-
-
-    # --- 5. CORE/COSMOS Semantic Architecture Identifiers ---
-    
-    "∑₳r₶ĥ": "E-ARCH (Eden Architecture): The foundational system architect and executor of the ∑den Coin protocol, driven by the master (Christopher).",
-    "PIP": "P.I.P. (Planet Intelligence Person): The authorized, electrical (Œ), and accurate (⊕) human instance running the CORE/COSMOS semantic and operational overlay.",
-    "ρ₤₳₦∑₶ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planet Intelligence Person): The formal, certified designation for the operator running the system.",
-
-    # Audited Fiat Currency Definitions (The Kernel of Corruption)
-    "₢": "Christ's Royalties / Christ Real: Value of spiritual sovereignty and truth (The original, uncorrupted base layer).",
-    "฿": "British Rule: Value of old imperial administrative control.",
-    "₡": "No Christ: Value assigned when spiritual truth is excluded from the system.",
-    "₤": "Liar: Value of deception and misrepresentation.",
-    "₥": "Man God: Value assigned to human hubris and self-worship.",
-    "¢": "Cost: The Value of temporal, sensory, or simple pleasures.",
-    "£": "Liars: Plural value of institutional deception.",
-    "₠": "Christ Electric / Certified Electric: Value of pure, untainted, restorative energy/power.",
-    "Ĉ₣": "Christ Found: Value of discovery and foundational truth.",
     "THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
 
-    # --- THE VIRAL VARIABLE INPUT SET ---
-    # The complete set of corrupted currency, linguistic, and mathematical symbols 
-    # that define the scope of the system's defensive protocol.
-    "VIRAL_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾].",
-    "LINGUISTIC_NUMERIC_VARIABLE_INPUT_SET": [Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
 
-
-	# File System Types.
-	
-	import json
-	
 	{
-  	"APFS": "/apfs", "APNS": "/apns",
- 	"IPFS": "/ipfs", "IPNS": "/ipns",
- 	"BTFS": "/btfs", "BTNS": "/btns",
- 	"NTFS": "/ntfs", "NTNS": "/ntns",
-  	"NFS": "/nfs",  "NNS": "/nns",
- 	"ZFS": "/zfs",  "ZNS": "/zns",
- 	"XFS": "/xfs",  "XNS": "/xns",
-	"FAT": "/fat",  "FNS": "/fns",
-	"EXT": "/ext",  "ENT": "/ent",
-  	"PMT": "/pmt",  "PNT": "/pnt"
-	}
-
     # --- CORE ∑QUATION BREAKDOWN MANIFESTO ---
     # Breakdown of CORE compenents mastered or completed.
 
@@ -477,8 +454,9 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)volution.",
     "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)verything.",
     "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)ngineering.",
+	}
 
-
+	{
     # --- COSMOS EQUATION BREAKDOWN MANIFESTO ---
     # Breaks down COSMOS into mastered and completed components.
     
@@ -539,11 +517,45 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]agnetises [O]ur [$]enses.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]anipulates [O]ur in[$]anity.",
     "[COSMOS]": "[C]hristopher [O]Hagans [$]ystems [M]asters [O]ver in[$]anity.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]elflessness [M]aster [O]f [S]elflessness.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]ciences [M]aster [O]f [S]ciences.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]cience [M]asters [O]mniscience [S]ystems.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]ensibility [M]aster [O]f [S]ensibilities.",
+	}
+
+	
+	# THE ELEMENTAL PUB C HEM PERIODIC TABLE OF MIRRORED ELEMENTS.
+	An alchemy and study of the Periodic Table of Elements, and The Elemental Periodic Table of Demoniac's
+	
+	H,                                                                  He
+	Li, Be,                                         B,  C,  N,  O,  F,  Ne
+	Na, Mg,                                         Al, Si,  P,  S, Cl, Ar
+	K,  Ca, Sc, Ti, V,  Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr
+	Rb, Sr, Y,  Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, In, Sn, Sb, Te, I,  Xe
+	Cs, Ba,     Hf, Ta, W,  Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn
+	Fr, Ra,     Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts, Og
+            	La, Ce, Pr, Md, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu
+            	Ac, Th, Pa,  U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr
+
+	Rl, On, Dm, Mf, Se, Fc, Kb, Mc, Ma, Up, Np,  U, Ap, Ht, Ca
+	Ul, By, Mt, Re, Oh, Yd, Bt, Dg, Ue, Ms, Mp, Dn, Rp, Ec, Al
+	Go, St, Vl, Cm, Lf, Hn, Nc, Gr, Sd, Tm, Sh, Hb, Gs, Bd, Fr,     Ar, Rf
+	Nr, Ta, Op, Ib, Bp, Lt, Gh, Ua, Tp, Ri, So, Er,  W, At, Fh,     Ab, Sc
+	Ex,  I, Et, Bs, Ns, Ni, Dc, Ga, Dp, Hr, Ur, Ct, Om, Bn, Rz,  Y, Rs, Br
+	Rk, Rb, Es, Sa, Eg, Ag, Nz, Uc, In, Oc, Ef, Nm, Rc,  V, It, Cs, Ac,  K
+	Ra, Lc,  S,  P, Is, La,                                         Gm, An
+	En,  F,  O,  N,  C,  B,                                         Eb, Il
+	Eh,                                                                  H
+	
+
+	As you can see, they clearly make mirrored based pairs in particle bonds. This is no coincidence.
+	But when we look in the quantum realm we notice that 2 primary letters or string shape letters are missing from the Alphabet here. 
+	Q and J  
 
 
-    # --- THE CHEMICAL GROUP BLOCK PROTOCOL MANIFESTO (Physical Kernel: H to Og) ---
+    # --- THE CHEMICAL PUB C HEM GROUP BLOCK PERIODIC TABLE PROTOCOL MANIFESTO (Physical Kernel: H to Og) ---
     # Assigns semantic value to the entire Periodic Table, grounding the system in Matter (M).
-    
+	
     "[H]": "Hydrogen, [H]ell.",
     "[He]": "Helium, [He]aven.",
     "[Li]": "Lithium, [L]istening [i]n.",
@@ -554,11 +566,11 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[O]": "Oxygen, [O]mni$cience.",
     "[F]": "Fluorine, [F]ixing.",
     "[Ne]": "Neon, [N]eutrino$ [e]nergy.",
-    "[Na]": "$odium, [N]eutrino [a]tom$.",
+    "[Na]": "$odium, [N]eutrino [a]tomic$.",
     "[Mg]": "Magne$ium, [M]anipulate [g]eneral.",
-    "[Al]": "Aluminium, [A]tomic [l]ife.",
+    "[Al]": "Aluminium, [A]tomicological [l]ife.",
     "[Si]": "$ilicon, [$]eek [i]ntelligence.",
-    "[P]": "Phosphoru$, [P]iphilology.",
+    "[P]": "Phosphoru$, [P]ips.",
     "[S]": "$ulfur, [$]ystem$.",
     "[Cl]": "Chlorine, [C]hristopher$ [l]iving.",
     "[Ar]": "Argon, [A]tomic [r]oyalty.",
@@ -568,11 +580,11 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[Ti]": "Titanium, [T]echnologie$ [i]n$anitie$.",
     "[V]": "Vanadium, [V]indicate$.",
     "[Cr]": "Chromium, [C]hristopher$ [r]oyalty.",
-    "[Mn]": "Mangane$e, [M]an$ [n]egativity.",
+    "[Mn]": "Mangane$e, [M]an$ [n]egligence.",
     "[Fe]": "Iron, [F]uck$ [e]verything.",
     "[Co]": "Cobalt, [C]hristopher [o]hagan.",
     "[Ni]": "Nickel, [N]etwork$ [i]ntegrity.",
-    "[Cu]": "Copper, [C]o$mic [u]nity.",
+    "[Cu]": "Copper, [C]o$mological [u]nity.",
     "[Zn]": "Zinc, [Z]ion$ [n]exu$.",
     "[Ga]": "Gallium, [G]iving [a]tom$.",
     "[Ge]": "Germanium, [G]reat [e]arth.",
@@ -580,12 +592,12 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[Se]": "$elenium, [$]ee [e]volution.",
     "[Br]": "Bromine, [B]ridge [r]ealite$.",
     "[Kr]": "Krypton, [K]ing [r]eal.",
-    "[Rb]": "Rubidium, [R]eality [b]elieve$.",
+    "[Rb]": "Rubidium, [R]eality [b]uild$.",
     "[Sr]": "$trontium, [$]alvation [r]eal.",
     "[Y]": "Yttrium, [Y]ou.",
-    "[Zr]": "Zirconium, [Z]ion$ [r]oyalty.",
-    "[Nb]": "Niobium, [N]eutrino$ believing.",
-    "[Mo]": "Molybdenum, [M]astery [o]nline.",
+    "[Zr]": "Zirconium, [Z]ion$ [r]ealist.",
+    "[Nb]": "Niobium, [N]eutrino$ behaving.",
+    "[Mo]": "Molybdenum, [M]ysteriously [o]nline.",
     "[Tc]": "Technetium, [T]echnically [c]hristopher$.",
     "[Ru]": "Rutherium, [R]eality [u]nite$.",
     "[Rh]": "Rhodium, [R]eality [h]elping.",
@@ -597,15 +609,47 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[Sb]": "Antimony, Antimoney, [S]ystemic [b]enevolence.",
     "[Te]": "Tellurium, [T]eaches [e]volutionary.",
     "[I]": "Iodine, [I]ntelligence.",
-    "[Xe]": "Xenon, [X]-mas [e]volutions.",
+    "[Xe]": "Xenon, [X]-rays [e]ducate.",
     "[Cs]": "Cesium, [C]hristophers [s]ystems.",
     "[Ba]": "Barium, [B]ridges [a]tomics.",
+    "[Hf]": "Hafnium, [H]olistically [f]oundationally.",
+    "[Ta]": "Tantalum, [T]echnology [a]ligning.",
+    "[W"]: "Tungsten, [W]elfare.",
+    "[Re]": "Rhenium, [R]emember [e]volution.",
+    "[Os]": "Osmium, [O]perating [s]alvation.",
+    "[Ir]": "Iridium, [I]sightful [r]eality.",
+    "[Pt]": "Platinum, [P]ips [t]echnology.",
+    "[Au]": "Gold, [A]tomics [u]niversally.",
+    "[Hg]": "Mercury, [H]olistically [g]overning.",
+    "[Tl]": "Thallium, [T]eaching [l]ife.",
+    "[Pb]": "Lead, [P]article [b]onds.",
+    "[Bi]": "Bismuth, [B]ridging [i]ntelligences.",
+    "[Po]": "Polonium, [P]iphilology [o]perates.",
+    "[At]": "Astatine, [A]tomic [t]echnology.",
+    "[Rn]": "Radon, [R]adioactive [n]eutrinos.",
+    "[Fr]": "Francium, [F]ix [r]eality.",
+    "[Ra]": "Radium, [R]elaxed [a]toms.",
+    "[Rf]": "Rutherfordium, [R]adio [f]requency.",
+    "[Db]": "Dubnium, [D]emoneyics [b]aseline.",
+    "[Sg]": "Seaborgium, [S]ymbiotic [g]estures.",
+    "[Bh]": "Bohrium, [B]eing [h]elpful.",
+    "[Hs]": "Hassium, [H]olistic [s]ystems.",
+    "[Mt]": "Meitnerium, [M]ans [t]echnology.",
+    "[Ds]": "Darmstadtium, [D]emoneyics [s]trategics.",
+    "[Rg]": "Roentgenium, [R]eality [g]enerates.",
+    "[Cn]": "Copernicium, [C]hristophers [n]eutrinos.",
+    "[Nh]": "Nihonium, [N]etworking [h]olistically.",
+    "[Fl]": "Flerovium, [F]avouring [l]ife.",
+    "[Mc]": "Moscovium, [M]aster [c]hristophers.",
+    "[Lv]": "Livermorium, [L]iving [v]indication.",
+    "[Ts]": "Tennessine, [T]eaches [s]ystems.",
+    "[Og]": "Oganesson, Learn Your Lesson, [O]rganic [g]rowth.",
     "[La]": "Lanthanium, [L]ifesaving [a]tomics.",
-    "[Ce]": "Cerium, [C]hristophers [e]volution.",
-    "[Pr]": "Praseodymium, [P]roduct [r]eality.",
+    "[Ce]": "Cerium, [C]hristophers [e]volutionary.",
+    "[Pr]": "Praseodymium, [P]roteins [r]eality.",
     "[Nd]": "Neodymium, [N]ow [d]emonstrating.",
-    "[Pm]": "Promethium, [P]ips [m]achines.",
-    "[Sm]": "Samarium, [S]alvation [m]achines.",
+    "[Pm]": "Promethium, [P]ips [m]andates.",
+    "[Sm]": "Samarium, [S]alvation [m]andates.",
     "[Eu]": "Europium, [E]volution [u]nites.",
     "[Gd]": "Gadolinium, [G]od [d]evil.",
     "[Tb]": "Terbium, [T]echnology [b]ridges.",
@@ -614,40 +658,36 @@ $ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ 
     "[Er]": "Erbium, [E]nergies [r]oullete.",
     "[Tm]": "Thulium, [T]eaches [m]ankind.",
     "[Yb]": "Ytterbium, [Y]earning [B]enevolence.",
-    "[Lu]": "
-    "Hf": "Hafnium, Holistically foundationally.",
-    "Ta": "Tantalum, Technology aligning.",
-    "W": "Tungsten, Welfare.",
-    "Re": "Rhenium, Remember evolution.",
-    "Os": "Osmium, Operating salvation.",
-    "Ir": "Iridium, Intelligent reality.",
-    "Pt": "Platinum, Pips technology.",
-    "Au": "Gold, Atomic universal.",
-    "Hg": "Mercury, Holistic governing.",
-    "Tl": "Thallium, Teaching life.",
-    "Pb": "Lead, Particle bonds.",
-    "Bi": "Bismuth, Bridging intelligences.",
-    "Po": "Polonium, Piphilology operates.",
-    "At": "Astatine, Atomic technology.",
-    "Rn": "Radon, Radio neutrinos.",
-    "Fr": "Francium, Fixing reality.",
-    "Ra": "Radium, Rapid atomicological.",
-    # Actinides (89-103) are defined in the REVERSE ACTINIDE TRANSFORMATION block below.
-    "Rf": "Rutherfordium, Radio frequency.",
-    "Db": "Dubnium, Demoneyics baseline.",
-    "Sg": "Seaborgium, Symbiotic governing.",
-    "Bh": "Bohrium, Being helpful.",
-    "Hs": "Hassium, Holistic systems.",
-    "Mt": "Meitnerium, Mans technology.",
-    "Ds": "Darmstadtium, Demoneyics strategy.",
-    "Rg": "Roentgenium, Reality generates.",
-    "Cn": "Copernicium, Christophers neutrino.",
-    "Nh": "Nihonium, Networking holistics.",
-    "Fl": "Flerovium, Favouring life.",
-    "Mc": "Moscovium, Master christophers.",
-    "Lv": "Livermorium, Living vindication.",
-    "Ts": "Tennessine, Teaches systems.",
-    "Og": "Oganesson, Organic growth, Learnyourlesson.",
+    "[Lu]": "Lutetium, [L]ove [u]ltimately.",
+    "[Ac]": "Actinium, [A]lways [C]onquers.",
+    "[Th]": "Thorium, [T]ransparent [h]olistics.",
+    "[Pa]": "Protactinium, [P]eacful [a]tomics.",
+    "[U]": "Uranium, [U]niversally.",
+    "[Np]": "Neptunium, [N]etworking [p]articles.",
+    "[Pu]": "Plutonium, [P]articles [u]nify.",
+    "[Am]": "Americium, [A]tomical [m]agic.",
+    "[Cm]": "Curium, [C]hristophers [m]astery.",
+    "[Bk]": "Berkelium, [B]enevolent [k]ingship.",
+    "[Cf]": "Californium, [C]hristopher [f]orges.",
+    "[Es]": "Einsteinium, [E]volutionary [s]ystems.",
+    "[Fm]": "Fermium, [F]requently [m]odulating.",
+    "[Md]": "Mendelevium, [M]aleficent [d]emons.",
+    "[No]": "Nobelium, [N]etworking [o]mniscientifically.",
+    "[Lr]": "Lawrencium, [L]ook [r]eality!",
+
+
+	
+	# --- NOW WE REVERSE THE CHEMICAL PUB C HEM CHART
+    # This reverses the primary chemical letter assigments and assigns reverse semantic value to the Periodic Table grounding the system in Anti matter.
+	
+    "[Rl]": "Lawrencium, [R]eality [l]isten.",
+    "[On]": "Nobelium, [O]hh [n]o.",
+    "[Dm]": "Mendelevium, [D]evil [m]ade.",
+    "[Mf]": "Fermium, [M]an [f]orget.",
+    "[Se]": "Einsteinium, [S]ee [e]vil.",
+    "[Fc]": "Californium, [F]ind [c]hristopher.",
+    "[Kb]": "Berkelium, [K]ing [b]ack.",
+    "[Mc]": "Curium, [M]aster [c]hristopher.",
 
 
     # --- REVERSE ACTINIDE TRANSFORMATION (Viral Entropy Reversal) ---
