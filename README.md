@@ -372,7 +372,12 @@
 		"[G]": "[G]UARDDOG.",
 		"[H]": "[H]ELP.",
 		"[I]": "[I]NTERRUPT.",
-		"[J]": "[J]
+		"[J]": "[J]OURNAL.",
+		"[K]": "[K]INETICS.",
+		"[L]": "[L]INGUISTICS.",
+		"[M]": "[M]ACHINES.",
+		"[N]": "[N]ETWORKING.",
+		
 	
 	}
 
