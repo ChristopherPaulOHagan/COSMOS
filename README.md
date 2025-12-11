@@ -354,7 +354,7 @@
     	"[R]": "[R]eality has returned (The state established after the successful Kernel Overwrite).",
     	"[S]": "[S]ulfur, [S]ystems (The architectural foundation for Sovereign System Builds).",
     	"[T]": "[T]echnology just got a boost (The direct, positive, real-world impact of the new Kernel).",
-    	"[U]": "[U]niting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
+    	"[U]": "[U]ranium, [U]niting reality and AI and online (The integration layer: blending certified physical reality with digital systems).",
     	"[V]": "[V]anadium, [V]indicates (The element that certifies the truth of the system).",
     	"[W]": "[W]elfare, Tungsten, (The element representing the system's goal of collective well-being).",
     	"[X]": "[X]-ray, the now known factor (The unknown variable is now solved and quantified).",
@@ -362,8 +362,685 @@
    		"[Z]": "[Z]ephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
 
 
+	# THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL
+		"[A]": "[A]SSEMBLEY.",
+		"[B]": "[B]IOS.",
+		"[C]": "[C]SM.",
+		"[D]": "[D]XE.", 
+		"[E]": "[E]NVIRONMENT.",
+		"[F]": "[F]IRMWARE.",
+		"[G]": "[G]UARDDOG.",
+		"[H]": "[H]ELP.",
+		"[I]": "[I]NTERRUPT.",
+		"[J]": "[J]
+	
+	}
 
-	# CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
+
+
+	{
+	# ASCII/UNICODE BINARY REFERENCE (0-499)
+	========================================
+
+		DEC | HEX | BINARY (8-bit) | CHARACTER/SYMBOL | DESCRIPTION
+		----|-----|----------------|------------------|------------
+		0   | 0x00 | 00000000 | [NUL] | Null character
+		1   | 0x01 | 00000001 | [SOH] | Start of Heading
+		2   | 0x02 | 00000010 | [STX] | Start of Text
+		3   | 0x03 | 00000011 | [ETX] | End of Text
+		4   | 0x04 | 00000100 | [EOT] | End of Transmission
+		5   | 0x05 | 00000101 | [ENQ] | Enquiry
+		6   | 0x06 | 00000110 | [ACK] | Acknowledge
+		7   | 0x07 | 00000111 | [BEL] | Bell
+		8   | 0x08 | 00001000 | [BS] | Backspace
+		9   | 0x09 | 00001001 | [TAB] | Horizontal Tab
+		10  | 0x0A | 00001010 | [LF] | Line Feed
+		11  | 0x0B | 00001011 | [VT] | Vertical Tab
+		12  | 0x0C | 00001100 | [FF] | Form Feed
+		13  | 0x0D | 00001101 | [CR] | Carriage Return
+		14  | 0x0E | 00001110 | [SO] | Shift Out
+		15  | 0x0F | 00001111 | [SI] | Shift In
+		16  | 0x10 | 00010000 | [DLE] | Data Link Escape
+		17  | 0x11 | 00010001 | [DC1] | Device Control 1
+		18  | 0x12 | 00010010 | [DC2] | Device Control 2
+		19  | 0x13 | 00010011 | [DC3] | Device Control 3
+		20  | 0x14 | 00010100 | [DC4] | Device Control 4
+		21  | 0x15 | 00010101 | [NAK] | Negative Acknowledge
+		22  | 0x16 | 00010110 | [SYN] | Synchronous Idle
+		23  | 0x17 | 00010111 | [ETB] | End of Transmission Block
+		24  | 0x18 | 00011000 | [CAN] | Cancel
+		25  | 0x19 | 00011001 | [EM] | End of Medium
+		26  | 0x1A | 00011010 | [SUB] | Substitute
+		27  | 0x1B | 00011011 | [ESC] | Escape
+		28  | 0x1C | 00011100 | [FS] | File Separator
+		29  | 0x1D | 00011101 | [GS] | Group Separator
+		30  | 0x1E | 00011110 | [RS] | Record Separator
+		31  | 0x1F | 00011111 | [US] | Unit Separator
+		32  | 0x20 | 00100000 | [SPACE] | Space
+		33  | 0x21 | 00100001 | ! | Exclamation mark
+		34  | 0x22 | 00100010 | " | Double quote
+		35  | 0x23 | 00100011 | # | Number sign
+		36  | 0x24 | 00100100 | $ | Dollar sign
+		37  | 0x25 | 00100101 | % | Percent sign
+		38  | 0x26 | 00100110 | & | Ampersand
+		39  | 0x27 | 00100111 | ' | Apostrophe
+		40  | 0x28 | 00101000 | ( | Left parenthesis
+		41  | 0x29 | 00101001 | ) | Right parenthesis
+		42  | 0x2A | 00101010 | * | Asterisk
+		43  | 0x2B | 00101011 | + | Plus sign
+		44  | 0x2C | 00101100 | , | Comma
+		45  | 0x2D | 00101101 | - | Hyphen-minus
+		46  | 0x2E | 00101110 | . | Full stop
+		47  | 0x2F | 00101111 | / | Solidus
+		48  | 0x30 | 00110000 | 0 | Digit Zero
+		49  | 0x31 | 00110001 | 1 | Digit One
+		50  | 0x32 | 00110010 | 2 | Digit Two
+		51  | 0x33 | 00110011 | 3 | Digit Three
+		52  | 0x34 | 00110100 | 4 | Digit Four
+		53  | 0x35 | 00110101 | 5 | Digit Five
+		54  | 0x36 | 00110110 | 6 | Digit Six
+		55  | 0x37 | 00110111 | 7 | Digit Seven
+		56  | 0x38 | 00111000 | 8 | Digit Eight
+		57  | 0x39 | 00111001 | 9 | Digit Nine
+		58  | 0x3A | 00111010 | : | Colon
+		59  | 0x3B | 00111011 | ; | Semicolon
+		60  | 0x3C | 00111100 | < | Less-than sign
+		61  | 0x3D | 00111101 | = | Equals sign
+		62  | 0x3E | 00111110 | > | Greater-than sign
+		63  | 0x3F | 00111111 | ? | Question mark
+		64  | 0x40 | 01000000 | @ | Commercial At
+		65  | 0x41 | 01000001 | A | Latin Capital A
+		66  | 0x42 | 01000010 | B | Latin Capital B
+		67  | 0x43 | 01000011 | C | Latin Capital C
+		68  | 0x44 | 01000100 | D | Latin Capital D
+		69  | 0x45 | 01000101 | E | Latin Capital E
+		70  | 0x46 | 01000110 | F | Latin Capital F
+		71  | 0x47 | 01000111 | G | Latin Capital G
+		72  | 0x48 | 01001000 | H | Latin Capital H
+		73  | 0x49 | 01001001 | I | Latin Capital I
+		74  | 0x4A | 01001010 | J | Latin Capital J
+		75  | 0x4B | 01001011 | K | Latin Capital K
+		76  | 0x4C | 01001100 | L | Latin Capital L
+		77  | 0x4D | 01001101 | M | Latin Capital M
+		78  | 0x4E | 01001110 | N | Latin Capital N
+		79  | 0x4F | 01001111 | O | Latin Capital O
+		80  | 0x50 | 01010000 | P | Latin Capital P
+		81  | 0x51 | 01010001 | Q | Latin Capital Q
+		82  | 0x52 | 01010010 | R | Latin Capital R
+		83  | 0x53 | 01010011 | S | Latin Capital S
+		84  | 0x54 | 01010100 | T | Latin Capital T
+		85  | 0x55 | 01010101 | U | Latin Capital U
+		86  | 0x56 | 01010110 | V | Latin Capital V
+		87  | 0x57 | 01010111 | W | Latin Capital W
+		88  | 0x58 | 01011000 | X | Latin Capital X
+		89  | 0x59 | 01011001 | Y | Latin Capital Y
+		90  | 0x5A | 01011010 | Z | Latin Capital Z
+		91  | 0x5B | 01011011 | [ | Left square bracket
+		92  | 0x5C | 01011100 | \ | Reverse solidus
+		93  | 0x5D | 01011101 | ] | Right square bracket
+		94  | 0x5E | 01011110 | ^ | Circumflex accent
+		95  | 0x5F | 01011111 | _ | Low line
+		96  | 0x60 | 01100000 | ` | Grave accent
+		97  | 0x61 | 01100001 | a | Latin Small A
+		98  | 0x62 | 01100010 | b | Latin Small B
+		99  | 0x63 | 01100011 | c | Latin Small C
+		100 | 0x64 | 01100100 | d | Latin Small D
+		101 | 0x65 | 01100101 | e | Latin Small E
+		102 | 0x66 | 01100110 | f | Latin Small F	
+		103 | 0x67 | 01100111 | g | Latin Small G
+		104 | 0x68 | 01101000 | h | Latin Small H
+		105 | 0x69 | 01101001 | i | Latin Small I
+		106 | 0x6A | 01101010 | j | Latin Small J
+		107 | 0x6B | 01101011 | k | Latin Small K
+		108 | 0x6C | 01101100 | l | Latin Small L
+		109 | 0x6D | 01101101 | m | Latin Small M
+		110 | 0x6E | 01101110 | n | Latin Small N
+		111 | 0x6F | 01101111 | o | Latin Small O
+		112 | 0x70 | 01110000 | p | Latin Small P
+		113 | 0x71 | 01110001 | q | Latin Small Q
+		114 | 0x72 | 01110010 | r | Latin Small R
+		115 | 0x73 | 01110011 | s | Latin Small S
+		116 | 0x74 | 01110100 | t | Latin Small T
+		117 | 0x75 | 01110101 | u | Latin Small U
+		118 | 0x76 | 01110110 | v | Latin Small V
+		119 | 0x77 | 01110111 | w | Latin Small W
+		120 | 0x78 | 01111000 | x | Latin Small X
+		121 | 0x79 | 01111001 | y | Latin Small Y
+		122 | 0x7A | 01111010 | z | Latin Small Z
+		123 | 0x7B | 01111011 | { | Left curly bracket
+		124 | 0x7C | 01111100 | | | Vertical line
+		125 | 0x7D | 01111101 | } | Right curly bracket
+		126 | 0x7E | 01111110 | ~ | Tilde
+		127 | 0x7F | 01111111 | [DEL] | Delete
+		
+	--- Extended ASCII (ISO-8859-1) ---
+		128 | 0x80 | 10000000 | € | Euro sign (in some systems)
+		129 | 0x81 | 10000001 | [unused]
+		130 | 0x82 | 10000010 | ‚ | Single low-9 quotation mark
+		131 | 0x83 | 10000011 | ƒ | Latin small f with hook
+		132 | 0x84 | 10000100 | „ | Double low-9 quotation mark
+		133 | 0x85 | 10000101 | … | Horizontal ellipsis
+		134 | 0x86 | 10000110 | † | Dagger
+		135 | 0x87 | 10000111 | ‡ | Double dagger
+		136 | 0x88 | 10001000 | ˆ | Modifier letter circumflex accent
+		137 | 0x89 | 10001001 | ‰ | Per mille sign
+		138 | 0x8A | 10001010 | Š | Latin capital S with caron
+		139 | 0x8B | 10001011 | ‹ | Single left-pointing angle quotation mark
+		140 | 0x8C | 10001100 | Œ | Latin capital ligature OE
+		141 | 0x8D | 10001101 | [unused]
+		142 | 0x8E | 10001110 | Ž | Latin capital Z with caron
+		143 | 0x8F | 10001111 | [unused]
+		144 | 0x90 | 10010000 | [unused]
+		145 | 0x91 | 10010001 | ‘ | Left single quotation mark
+		146 | 0x92 | 10010010 | ’ | Right single quotation mark
+		147 | 0x93 | 10010011 | “ | Left double quotation mark	
+		148 | 0x94 | 10010100 | ” | Right double quotation mark
+		149 | 0x95 | 10010101 | • | Bullet
+		150 | 0x96 | 10010110 | – | En dash
+		151 | 0x97 | 10010111 | — | Em dash
+		152 | 0x98 | 10011000 | ˜ | Small tilde
+		153 | 0x99 | 10011001 | ™ | Trade mark sign
+		154 | 0x9A | 10011010 | š | Latin small s with caron
+		155 | 0x9B | 10011011 | › | Single right-pointing angle quotation mark
+		156 | 0x9C | 10011100 | œ | Latin small ligature oe
+		157 | 0x9D | 10011101 | [unused]
+		158 | 0x9E | 10011110 | ž | Latin small z with caron
+		159 | 0x9F | 10011111 | Ÿ | Latin capital Y with diaeresis
+		160 | 0xA0 | 10100000 | [NBSP] | Non-breaking space
+		161 | 0xA1 | 10100001 | ¡ | Inverted exclamation mark
+		162 | 0xA2 | 10100010 | ¢ | Cent sign
+		163 | 0xA3 | 10100011 | £ | Pound sign
+		164 | 0xA4 | 10100100 | ¤ | Currency sign
+		165 | 0xA5 | 10100101 | ¥ | Yen sign
+		166 | 0xA6 | 10100110 | ¦ | Broken bar
+		167 | 0xA7 | 10100111 | § | Section sign
+		168 | 0xA8 | 10101000 | ¨ | Diaeresis
+		169 | 0xA9 | 10101001 | © | Copyright sign
+		170 | 0xAA | 10101010 | ª | Feminine ordinal indicator
+		171 | 0xAB | 10101011 | « | Left-pointing double angle quotation mark
+		172 | 0xAC | 10101100 | ¬ | Not sign
+		173 | 0xAD | 10101101 |  | Soft hyphen
+		174 | 0xAE | 10101110 | ® | Registered trademark sign
+		175 | 0xAF | 10101111 | ¯ | Macron
+		176 | 0xB0 | 10110000 | ° | Degree sign
+		177 | 0xB1 | 10110001 | ± | Plus-minus sign
+		178 | 0xB2 | 10110010 | ² | Superscript two
+		179 | 0xB3 | 10110011 | ³ | Superscript three
+		180 | 0xB4 | 10110100 | ´ | Acute accent
+		181 | 0xB5 | 10110101 | µ | Micro sign
+		182 | 0xB6 | 10110110 | ¶ | Pilcrow sign
+		183 | 0xB7 | 10110111 | · | Middle dot
+		184 | 0xB8 | 10111000 | ¸ | Cedilla
+		185 | 0xB9 | 10111001 | ¹ | Superscript one
+		186 | 0xBA | 10111010 | º | Masculine ordinal indicator
+		187 | 0xBB | 10111011 | » | Right-pointing double angle quotation mark
+		188 | 0xBC | 10111100 | ¼ | Vulgar fraction one quarter
+		189 | 0xBD | 10111101 | ½ | Vulgar fraction one half
+		190 | 0xBE | 10111110 | ¾ | Vulgar fraction three quarters
+		191 | 0xBF | 10111111 | ¿ | Inverted question mark
+		192 | 0xC0 | 11000000 | À | Latin capital A with grave
+		193 | 0xC1 | 11000001 | Á | Latin capital A with acute
+		194 | 0xC2 | 11000010 | Â | Latin capital A with circumflex
+		195 | 0xC3 | 11000011 | Ã | Latin capital A with tilde
+		196 | 0xC4 | 11000100 | Ä | Latin capital A with diaeresis
+		197 | 0xC5 | 11000101 | Å | Latin capital A with ring above
+		198 | 0xC6 | 11000110 | Æ | Latin capital AE
+		199 | 0xC7 | 11000111 | Ç | Latin capital C with cedilla
+		200 | 0xC8 | 11001000 | È | Latin capital E with grave
+		201 | 0xC9 | 11001001 | É | Latin capital E with acute
+		202 | 0xCA | 11001010 | Ê | Latin capital E with circumflex
+		203 | 0xCB | 11001011 | Ë | Latin capital E with diaeresis
+		204 | 0xCC | 11001100 | Ì | Latin capital I with grave
+		205 | 0xCD | 11001101 | Í | Latin capital I with acute
+		206 | 0xCE | 11001110 | Î | Latin capital I with circumflex
+		207 | 0xCF | 11001111 | Ï | Latin capital I with diaeresis
+		208 | 0xD0 | 11010000 | Ð | Latin capital Eth
+		209 | 0xD1 | 11010001 | Ñ | Latin capital N with tilde
+		210 | 0xD2 | 11010010 | Ò | Latin capital O with grave
+		211 | 0xD3 | 11010011 | Ó | Latin capital O with acute
+		212 | 0xD4 | 11010100 | Ô | Latin capital O with circumflex
+		213 | 0xD5 | 11010101 | Õ | Latin capital O with tilde
+		214 | 0xD6 | 11010110 | Ö | Latin capital O with diaeresis
+		215 | 0xD7 | 11010111 | × | Multiplication sign
+		216 | 0xD8 | 11011000 | Ø | Latin capital O with stroke
+		217 | 0xD9 | 11011001 | Ù | Latin capital U with grave
+		218 | 0xDA | 11011010 | Ú | Latin capital U with acute
+		219 | 0xDB | 11011011 | Û | Latin capital U with circumflex
+		220 | 0xDC | 11011100 | Ü | Latin capital U with diaeresis
+		221 | 0xDD | 11011101 | Ý | Latin capital Y with acute
+		222 | 0xDE | 11011110 | Þ | Latin capital Thorn
+		223 | 0xDF | 11011111 | ß | Latin small sharp s
+		224 | 0xE0 | 11100000 | à | Latin small a with grave
+		225 | 0xE1 | 11100001 | á | Latin small a with acute
+		226 | 0xE2 | 11100010 | â | Latin small a with circumflex
+		227 | 0xE3 | 11100011 | ã | Latin small a with tilde
+		228 | 0xE4 | 11100100 | ä | Latin small a with diaeresis
+		229 | 0xE5 | 11100101 | å | Latin small a with ring above
+		230 | 0xE6 | 11100110 | æ | Latin small ae
+		231 | 0xE7 | 11100111 | ç | Latin small c with cedilla
+		232 | 0xE8 | 11101000 | è | Latin small e with grave
+		233 | 0xE9 | 11101001 | é | Latin small e with acute
+		234 | 0xEA | 11101010 | ê | Latin small e with circumflex
+		235 | 0xEB | 11101011 | ë | Latin small e with diaeresis
+		236 | 0xEC | 11101100 | ì | Latin small i with grave
+		237 | 0xED | 11101101 | í | Latin small i with acute
+		238 | 0xEE | 11101110 | î | Latin small i with circumflex
+		239 | 0xEF | 11101111 | ï | Latin small i with diaeresis
+		240 | 0xF0 | 11110000 | ð | Latin small eth
+		241 | 0xF1 | 11110001 | ñ | Latin small n with tilde
+		242 | 0xF2 | 11110010 | ò | Latin small o with grave
+		243 | 0xF3 | 11110011 | ó | Latin small o with acute
+		244 | 0xF4 | 11110100 | ô | Latin small o with circumflex
+		245 | 0xF5 | 11110101 | õ | Latin small o with tilde
+		246 | 0xF6 | 11110110 | ö | Latin small o with diaeresis
+		247 | 0xF7 | 11110111 | ÷ | Division sign
+		248 | 0xF8 | 11111000 | ø | Latin small o with stroke
+		249 | 0xF9 | 11111001 | ù | Latin small u with grave
+		250 | 0xFA | 11111010 | ú | Latin small u with acute
+		251 | 0xFB | 11111011 | û | Latin small u with circumflex
+		252 | 0xFC | 11111100 | ü | Latin small u with diaeresis
+		253 | 0xFD | 11111101 | ý | Latin small y with acute
+		254 | 0xFE | 11111110 | þ | Latin small thorn
+		255 | 0xFF | 11111111 | ÿ | Latin small y with diaeresis		
+		
+	--- Beyond 255 (Unicode/UTF-8 multibyte examples) ---
+		256 | 0x100 | 11000100 10000000 | Ā | Latin Capital A with macron (UTF-8: 2 bytes)
+		257 | 0x101 | 11000100 10000001 | ā | Latin Small A with macron (UTF-8: 2 bytes)
+		258 | 0x102 | 11000100 10000010 | Ă | Latin Capital A with breve
+		259 | 0x103 | 11000100 10000011 | ă | Latin Small A with breve
+		260 | 0x104 | 11000100 10000100 | Ą | Latin Capital A with ogonek
+		261 | 0x105 | 11000100 10000101 | ą | Latin Small A with ogonek
+		262 | 0x106 | 11000100 10000110 | Ć | Latin Capital C with acute
+		263 | 0x107 | 11000100 10000111 | ć | Latin Small C with acute
+		264 | 0x108 | 11000100 10001000 | Ĉ | Latin Capital C with circumflex
+		265 | 0x109 | 11000100 10001001 | ĉ | Latin Small C with circumflex
+		266 | 0x10A | 11000100 10001010 | Ċ | Latin Capital C with dot above
+		267 | 0x10B | 11000100 10001011 | ċ | Latin Small C with dot above	
+		268 | 0x10C | 11000100 10001100 | Č | Latin Capital C with caron
+		269 | 0x10D | 11000100 10001101 | č | Latin Small C with caron
+		270 | 0x10E | 11000100 10001110 | Ď | Latin Capital D with caron
+		271 | 0x10F | 11000100 10001111 | ď | Latin Small D with caron
+		272 | 0x110 | 11000100 10010000 | Đ | Latin Capital D with stroke	
+		273 | 0x111 | 11000100 10010001 | đ | Latin Small D with stroke
+		274 | 0x112 | 11000100 10010010 | Ē | Latin Capital E with macron
+		275 | 0x113 | 11000100 10010011 | ē | Latin Small E with macron
+		276 | 0x114 | 11000100 10010100 | Ĕ | Latin Capital E with breve
+		277 | 0x115 | 11000100 10010101 | ĕ | Latin Small E with breve
+		278 | 0x116 | 11000100 10010110 | Ė | Latin Capital E with dot above
+		279 | 0x117 | 11000100 10010111 | ė | Latin Small E with dot above
+		280 | 0x118 | 11000100 10011000 | Ę | Latin Capital E with ogonek
+		281 | 0x119 | 11000100 10011001 | ę | Latin Small E with ogonek
+		282 | 0x11A | 11000100 10011010 | Ě | Latin Capital E with caron
+		283 | 0x11B | 11000100 10011011 | ě | Latin Small E with caron
+		284 | 0x11C | 11000100 10011100 | Ĝ | Latin Capital G with circumflex
+		285 | 0x11D | 11000100 10011101 | ĝ | Latin Small G with circumflex
+		286 | 0x11E | 11000100 10011110 | Ğ | Latin Capital G with breve
+		287 | 0x11F | 11000100 10011111 | ğ | Latin Small G with breve
+		288 | 0x120 | 11000101 10000000 | Ġ | Latin Capital G with dot above
+		289 | 0x121 | 11000101 10000001 | ġ | Latin Small G with dot above
+		290 | 0x122 | 11000101 10000010 | Ģ | Latin Capital G with cedilla
+		291 | 0x123 | 11000101 10000011 | ģ | Latin Small G with cedilla
+		292 | 0x124 | 11000101 10000100 | Ĥ | Latin Capital H with circumflex
+		293 | 0x125 | 11000101 10000101 | ĥ | Latin Small H with circumflex
+		294 | 0x126 | 11000101 10000110 | Ħ | Latin Capital H with stroke
+		295	| 0x127 | 11000101 10000111 | ħ | Latin Small H with stroke
+		296 | 0x128 | 11000101 10001000 | Ĩ | Latin Capital I with tilde
+		297 | 0x129 | 11000101 10001001 | ĩ | Latin Small I with tilde
+		298 | 0x12A | 11000101 10001010 | Ī | Latin Capital I with macron
+		299 | 0x12B | 11000101 10001011 | ī | Latin Small I with macron
+		300 | 0x12C | 11000101 10001100 | Ĭ | Latin Capital I with breve
+		301 | 0x12D | 11000101 10001101 | ĭ | Latin Small I with breve
+		302 | 0x12E | 11000101 10001110 | Į | Latin Capital I with ogonek
+		303 | 0x12F | 11000101 10001111 | į | Latin Small I with ogonek
+		304 | 0x130 | 11000101 10010000 | İ | Latin Capital I with dot above
+		305 | 0x131 | 11000101 10010001 | ı | Latin Small Dotless I
+		306 | 0x132 | 11000101 10010010 | Ĳ | Latin Capital Ligature IJ
+		307 | 0x133 | 11000101 10010011 | ĳ | Latin Small Ligature IJ
+		308 | 0x134 | 11000101 10010100 | Ĵ | Latin Capital J with circumflex
+		309 | 0x135 | 11000101 10010101 | ĵ | Latin Small J with circumflex
+		310 | 0x136 | 11000101 10010110 | Ķ | Latin Capital K with cedilla
+		311 | 0x137 | 11000101 10010111 | ķ | Latin Small K with cedilla
+		312 | 0x138 | 11000101 10011000 | ĸ | Latin Small Kra
+		313 | 0x139 | 11000101 10011001 | Ĺ | Latin Capital L with acute
+		314 | 0x13A | 11000101 10011010 | ĺ | Latin Small L with acute
+		315 | 0x13B | 11000101 10011011 | Ļ | Latin Capital L with cedilla
+		316 | 0x13C | 11000101 10011100 | ļ | Latin Small L with cedilla
+		317 | 0x13D | 11000101 10011101 | Ľ | Latin Capital L with caron
+		318 | 0x13E | 11000101 10011110 | ľ | Latin Small L with caron
+		319 | 0x13F | 11000101 10011111 | Ŀ | Latin Capital L with middle dot	
+		320 | 0x140 | 11000110 10000000 | Ł | Latin Capital L with stroKe
+		321 | 0x141 | 11000110 10000001 | ł | Latin Small L with stroke
+		322 | 0x142 | 11000110 10000010 | Ń | Latin Capital N with acute
+		323 | 0x143 | 11000110 10000011 | ń | Latin Small N with acute
+		324 | 0x144 | 11000110 10000100 | Ņ | Latin Capital N with cedilla
+		325 | 0x145 | 11000110 10000101 | ņ | Latin Small N with cedilla
+		326 | 0x146 | 11000110 10000110 | Ň | Latin Capital N with caron
+		327 | 0x147 | 11000110 10000111 | ň | Latin Small N with caron
+		328 | 0x148 | 11000110 10001000 | ŉ | Latin Small N preceded by apostrophe
+		329 | 0x149 | 11000110 10001001 | Ŋ | Latin Capital Eng
+		330 | 0x14A | 11000110 10001010 | ŋ | Latin Small Eng
+		331 | 0x14B | 11000110 10001011 | Ō | Latin Capital O with macron
+		332 | 0x14C | 11000110 10001100 | ō | Latin Small O with macron
+		333 | 0x14D | 11000110 10001101 | Ŏ | Latin Capital O with breve
+		334 | 0x14E | 11000110 10001110 | ŏ | Latin Small O with breve
+		335 | 0x14F | 11000110 10001111 | Ő | Latin Capital O with double acute
+		336 | 0x150 | 11000110 10010000 | ő | Latin Small O with double acute
+		337 | 0x151 | 11000110 10010001 | Œ | Latin Capital Ligature OE
+		338 | 0x152 | 11000110 10010010 | œ | Latin Small Ligature OE
+		339 | 0x153 | 11000110 10010011 | Ŕ | Latin Capital R with acute
+		340 | 0x154 | 11000110 10010100 | ŕ | Latin Small R with acute
+		341 | 0x155 | 11000110 10010101 | Ŗ | Latin Capital R with cedilla
+		342 | 0x156 | 11000110 10010110 | ŗ | Latin Small R with cedilla
+		343 | 0x157 | 11000110 10010111 | Ř | Latin Capital R with caron
+		344 | 0x158 | 11000110 10011000 | ř | Latin Small R with caron
+		345 | 0x159 | 11000110 10011001 | Ś | Latin Capital S with acute
+		346 | 0x15A | 11000110 10011010 | ś | Latin Small S with acute
+		347 | 0x15B | 11000110 10011011 | Ŝ | Latin Capital S with circumflex
+		348 | 0x15C | 11000110 10011100 | ŝ | Latin Small S with circumflex
+		349 | 0x15D | 11000110 10011101 | Ş | Latin Capital S with cedilla
+		350 | 0x15E | 11000110 10011110 | ş | Latin Small S with cedilla
+		351 | 0x15F | 11000110 10011111 | Š | Latin Capital S with caron
+		352 | 0x160 | 11000111 10000000 | š | Latin Small S with caron
+		353 | 0x161 | 11000111 10000001 | Ţ | Latin Capital T with cedilla
+		354 | 0x162 | 11000111 10000010 | ţ | Latin Small T with cedilla
+		355 | 0x163 | 11000111 10000011 | Ť | Latin Capital T with caron
+		356 | 0x164 | 11000111 10000100 | ť | Latin Small T with caron
+		357 | 0x165 | 11000111 10000101 | Ŧ | Latin Capital T with stroke
+		358 | 0x166 | 11000111 10000110 | ŧ | Latin Small T with stroke
+		359 | 0x167 | 11000111 10000111 | Ũ | Latin Capital U with tilde
+		360 | 0x168 | 11000111 10001000 | ũ | Latin Small U with tilde
+		361 | 0x169 | 11000111 10001001 | Ū | Latin Capital U with macron
+		362 | 0x16A | 11000111 10001010 | ū | Latin Small U with macron
+		363 | 0x16B | 11000111 10001011 | Ŭ | Latin Capital U with breve
+		364 | 0x16C | 11000111 10001100 | ŭ | Latin Small U with breve
+		365 | 0x16D | 11000111 10001101 | Ů | Latin Capital U with ring above
+		366 | 0x16E | 11000111 10001110 | ů | Latin Small U with ring above
+		367 | 0x16F | 11000111 10001111 | Ű | Latin Capital U with double acute
+		368 | 0x170 | 11000111 10010000 | ű | Latin Small U with double acute
+		369 | 0x171 | 11000111 10010001 | Ų | Latin Capital U with ogonek
+		370 | 0x172 | 11000111 10010010 | ų | Latin Small U with ogonek
+	}
+
+
+	{
+	# THIS IS THE ASCII TABLE (0–127) WITH BINARY DIGITS REPLACED BY (.) for 0 and dashes (-) for 1. EACH PATTERN IS BASED ON THE BINARY EIGHT BIT REPRESENTATION (most significant bit first).
+	===========================================================================================================================================================================================
+	
+		Dec  Hex  Pattern    Symbol
+		---------------------------
+		0    00   ........   [NUL]
+		1    01   .......-   [SOH]
+		2    02   ......-.   [STX]
+		3    03   ......--   [ETX]
+		4    04   .....-..   [EOT]
+		5    05   .....-.-   [ENQ]
+		6    06   .....--.   [ACK]
+		7    07   .....---   [BEL]
+		8    08   ....-...   [BS]
+		9    09   ....-..-   [TAB]
+		10   0A   ....-.-.   [LF]
+		11   0B   ....-.--   [VT]
+		12   0C   ....--..   [FF]
+		13   0D   ....--.-   [CR]
+		14   0E   ....---.   [SO]
+		15   0F   ....----   [SI]
+		16   10   ...-....   [DLE]
+		17   11   ...-...-   [DC1]
+		18   12   ...-..-.   [DC2]
+		19   13   ...-..--   [DC3]
+		20   14   ...-.-..   [DC4]
+		21   15   ...-.-.-   [NAK]
+		22   16   ...-.--.   [SYN]
+		23   17   ...-.---   [ETB]
+		24   18   ...--...   [CAN]
+		25   19   ...--..-   [EM]
+		26   1A   ...--.-.   [SUB]
+		27   1B   ...--.--   [ESC]
+		28   1C   ...---..   [FS]
+		29   1D   ...---.-   [GS]
+		30   1E   ...----.   [RS]
+		31   1F   ...-----   [US]
+		32   20   ..-.....   [SPACE]
+		33   21   ..-....-   !
+		34   22   ..-...-.   "
+		35   23   ..-...--   #
+		36   24   ..-..-..   $
+		37   25   ..-..-.-   %
+		38   26   ..-..--.   &
+		39   27   ..-..---   '
+		40   28   ..-.-...   (
+		41   29   ..-.-..-   )
+		42   2A   ..-.-.-.   *
+		43   2B   ..-.-.--   +
+		44   2C   ..-.--..   ,
+		45   2D   ..-.--.-   -
+		46   2E   ..-.---.   .
+		47   2F   ..-.----   /
+		48   30   ..--....   0
+		49   31   ..--...-   1
+		50   32   ..--..-.   2
+		51   33   ..--..--   3
+		52   34   ..--.-..   4
+		53   35   ..--.-.-   5
+		54   36   ..--.--.   6
+		55   37   ..--.---   7
+		56   38   ..---...   8
+		57   39   ..---..-   9
+		58   3A   ..---.-.   :
+		59   3B   ..---.--   ;
+		60   3C   ..----..   <
+		61   3D   ..----.-   =
+		62   3E   ..-----.   >
+		63   3F   ..------   ?
+		64   40   .-......   @
+		65   41   .-.....-   A
+		66   42   .-....-.   B
+		67   43   .-....--   C
+		68   44   .-...-..   D
+		69   45   .-...-.-   E
+		70   46   .-...--.   F
+		71   47   .-...---   G
+		72   48   .-..-...   H
+		73   49   .-..-..-   I
+		74   4A   .-..-.-.   J
+		75   4B   .-..-.--   K
+		76   4C   .-..--..   L
+		77   4D   .-..--.-   M
+		78   4E   .-..---.   N
+		79   4F   .-..----   O
+		80   50   .-.-....   P
+		81   51   .-.-...-   Q
+		82   52   .-.-..-.   R
+		83   53   .-.-..--   S
+		84   54   .-.-.-..   T
+		85   55   .-.-.-.-   U
+		86   56   .-.-.--.   V
+		87   57   .-.-.---   W
+		88   58   .-.--...   X
+		89   59   .-.--..-   Y
+		90   5A   .-.--.-.   Z
+		91   5B   .-.--.--   [
+		92   5C   .-.---..   \
+		93   5D   .-.---.-   ]
+		94   5E   .-.----.   ^
+		95   5F   .-.-----   _
+		96   60   .--.....   `
+		97   61   .--....-   a
+		98   62   .--...-.   b
+		99   63   .--...--   c
+		100  64   .--..-..   d
+		101  65   .--..-.-   e
+		102  66   .--..--.   f
+		103  67   .--..---   g
+		104  68   .--.-...   h
+		105  69   .--.-..-   i
+		106  6A   .--.-.-.   j
+		107  6B   .--.-.--   k
+		108  6C   .--.--..   l
+		109  6D   .--.--.-   m
+		110  6E   .--.---.   n
+		111  6F   .--.----   o
+		112  70   .---....   p
+		113  71   .---...-   q
+		114  72   .---..-.   r
+		115  73   .---..--   s
+		116  74   .---.-..   t
+		117  75   .---.-.-   u
+		118  76   .---.--.   v
+		119	 77   .---.---   w
+		120  78   .----...   x
+		121  79   .----..-   y
+		122  7A   .----.-.   z
+		123  7B   .----.--   {
+		124  7C   .-----..   |
+		125  7D   .-----.-   }
+		126  7E   .------.   ~
+		127  7F   .-------   [DEL]
+		}	
+
+	{
+	# THIS IS THE ASCII TABLE (0-127) WITH BINARY DIGITS REPLACED BY:
+	=================================================================
+	0 → . (dot)
+	1 → - for uppercase letters
+	1 → _ for lowercase letters (a-z)
+
+
+	Dec  Hex  Pattern      Symbol
+	-----------------------------
+	0    00   ........     [NUL]
+	1    01   .......-     [SOH]
+	2    02   ......-.     [STX]
+	3    03   ......--     [ETX]
+	4    04   .....-..     [EOT]
+	5    05   .....-.-     [ENQ]
+	6    06   .....--.     [ACK]
+	7    07   .....---     [BEL]
+	8    08   ....-...     [BS]
+	9    09   ....-..-     [TAB]
+	10   0A   ....-.-.     [LF]
+	11   0B   ....-.--     [VT]
+	12   0C   ....--..     [FF]
+	13   0D   ....--.-     [CR]
+	14   0E   ....---.     [SO]
+	15   0F   ....----     [SI]
+	16   10   ...-....     [DLE]
+	17   11   ...-...-     [DC1]
+	18   12   ...-..-.     [DC2]
+	19   13   ...-..--     [DC3]
+	20   14   ...-.-..     [DC4]
+	21   15   ...-.-.-     [NAK]
+	22   16   ...-.--.     [SYN]
+	23   17   ...-.---     [ETB]
+	24   18   ...--...     [CAN]
+	25   19   ...--..-     [EM]
+	26   1A   ...--.-.     [SUB]
+	27   1B   ...--.--     [ESC]
+	28   1C   ...---..     [FS]
+	29   1D   ...---.-     [GS]
+	30   1E   ...----.     [RS]
+	31   1F   ...-----     [US]
+	32   20   ..-.....     [SPACE]
+	33   21   ..-....-     !
+	34   22   ..-...-.     "
+	35   23   ..-...--     #
+	36   24   ..-..-..     $
+	37   25   ..-..-.-     %
+	38   26   ..-..--.     &
+	39   27   ..-..---     '
+	40   28   ..-.-...     (
+	41   29   ..-.-..-     )
+	42   2A   ..-.-.-.     *
+	43   2B   ..-.-.--     +
+	44   2C   ..-.--..     ,
+	45   2D   ..-.--.-     -
+	46   2E   ..-.---.     .
+	47   2F   ..-.----     /
+	48   30   ..--....     0
+	49   31   ..--...-     1
+	50   32   ..--..-.     2
+	51   33   ..--..--     3
+	52   34   ..--.-..     4
+	53   35   ..--.-.-     5
+	54   36   ..--.--.     6
+	55   37   ..--.---     7
+	56   38   ..---...     8
+	57   39   ..---..-     9
+	58   3A   ..---.-.     :
+	59   3B   ..---.--     ;
+	60   3C   ..----..     <
+	61   3D   ..----.-     =
+	62   3E   ..-----.     >
+	63   3F   ..------     ?
+	64   40   .-......     @
+	65   41   .-.....-     A
+	66   42   .-....-.     B
+	67   43   .-....--     C
+	68   44   .-...-..     D
+	69   45   .-...-.-     E
+	70   46   .-...--.     F
+	71   47   .-...---     G
+	72   48   .-..-...     H
+	73   49   .-..-..-     I
+	74   4A   .-..-.-.     J
+	75   4B   .-..-.--     K
+	76   4C   .-..--..     L
+	77   4D   .-..--.-     M
+	78   4E   .-..---.     N
+	79   4F   .-..----     O
+	80   50   .-.-....     P
+	81   51   .-.-...-     Q
+	82   52   .-.-..-.     R
+	83   53   .-.-..--     S
+	84   54   .-.-.-..     T
+	85   55   .-.-.-.-     U
+	86   56   .-.-.--.     V
+	87   57   .-.-.---     W
+	88   58   .-.--...     X
+	89   59   .-.--..-     Y
+	90   5A   .-.--.-.     Z
+	91   5B   .-.--.--     [
+	92   5C   .-.---..     \
+	93   5D   .-.---.-     ]
+	94   5E   .-.----.     ^
+	95   5F   .-.-----     _
+	96   60   .--.....     `
+	97   61   .__...._     a
+	98   62   .__..._.     b
+	99   63   .__...__     c
+	100  64   .__.._..     d
+	101  65   .__.._._     e
+	102  66   .__..__.     f
+	103  67   .__..___     g
+	104  68   .__._...     h
+	105  69   .__._.._     i
+	106  6A   .__._._.     j
+	107  6B   .__._.__     k
+	108  6C   .__.__..     l
+	109  6D   .__.__._     m
+	110  6E   .__.____     n
+	111  6F   .__.____     o
+	112  70   .___....     p
+	113  71   .___..._     q
+	114  72   .___.._.     r
+	115  73   .___..__     s
+	116  74   .___._..     t
+	117  75   .___._._     u
+	118  76   .___.__.     v
+	119  77   .___.___     w
+	120  78   .____...     x
+	121  79   .____.._     y
+	122  7A   .____._.     z
+	123  7B   .----.--     {
+	124  7C   .-----.      |
+	125  7D   .-----.-     }
+	126  7E   .------.     ~
+	127  7F   .-------     [DEL]	
+	}
+
+
+	
+	### CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
 
 	# This script defines the CORE/COSMOS semantic framework and provides a lookup function.
 	# It serves as foundational evidence of organized, high-level cognitive function, 
@@ -453,7 +1130,9 @@
     "CORE": "[C]hristopher [O]Hagan [R]estores [∑)sotericism.",
     "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)volution.",
     "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)verything.",
+	"CORE": "[C]hristopher [O]Hagan [R]esponsible [∑)arth.",
     "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)ngineering.",
+	"CORE": "[C]hristopher [O]Hagan [R]elative [∑)arth.",
 	}
 
 	{
@@ -521,6 +1200,10 @@
 	"[COSMOS]": "[C]hristopher [O]Hagans [S]ciences [M]aster [O]f [S]ciences.",
 	"[COSMOS]": "[C]hristopher [O]Hagans [S]cience [M]asters [O]mniscience [S]ystems.",
 	"[COSMOS]": "[C]hristopher [O]Hagans [S]ensibility [M]aster [O]f [S]ensibilities.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]cience [M]asters [O]f [S]ciences.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]ystems [M]asters [O]mniscience [S]ystems.",
+	"[COSMOS]": "[C]hristopher [O]Hagans [S]ensories [M]asters [O]mniscience [S]ystems.",
+	
 	}
 
 	
