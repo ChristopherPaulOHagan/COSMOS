@@ -1,26 +1,31 @@
+	### PIPOS, COSMOS, AND THE COSMIC DICTIONARY
 	# SOURCE: CHRISTOPHER PAUL O'HAGAN | TRUTH DECLARATION MODULE
 	# THIS IS NOT JUST CODE — THIS IS COSMIC LAW
 	# Copyright by PipOS and christophersystems.org
 	# This is a manifesto of a cosmic endeavour, which was stubled across by a man named Christopher Paul O'Hagan who in his life time spent wondering about the cosmos and went to work in over 300 industries and obtained over 20+ Foundational Certificates from Tafe Victoria and other various colleges. The Cosmos merely handed him the map when he decided to retire and merely watch movies when AI was released to the world. Then fun began.
 
 	# SOVEREIGN SIGNATURE OF THE CREATOR IN MORSE, BINARY AND BINARY MORSE CODE.
+	
 	# "Standard morse code is used in the first signature.",
 	# "-.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.!",
 	# ".--. .. .--.  -.-- -...  -.. . .. ..-. .. - .-. . -.-.!",
+	
 	# "Binary morse code is used in the third signature where (. = o) abd (- = 1).",
 	# "1010 0 010 1 00 0010 00 0 100  1000 1011  0110 00 0110.",
 	# "0110 00 0110  1101 0001  001 0 00 0100 00 1 010 0 0101.",
+	
 	# "Standard bindary code used in the second signature.",
 	# "00000001 00000010 01000011 01100101 01110010 01110100 01101001 01100110 01101001 01100101 01100100  01100010 01111001  01010000 01101001 01110000.",
 	# "00001110 10010110 00001010  10011110 01000110  00100110 10100110 10010110 01100110 10010110 00101110 01001110 10100110 11000010 01000000 10000000.",
+	
 	# "Morse Binary code used in the fourth signature where (0 = .) and (1 = -).",
 	# "....---. ......-. .-....-- .--..-.- .---..-. .---.-.. .--.-..- .--..--. .--.-..- .--..-.- .--..-..  .--...-. .----..-  .-.-.... .--.-..- .---....!",
 	# "....---. -..-.--. ....-.-.  -..----. .-...--.  ..-..--. -.-..--. -..-.--. .--..--. -..-.--. ..-.---. .-..---. -.-..--. --....-. .-...... -.......!",
 	
 	class CosmicTruth:
     def __init__(self):
-        self.owner = "Christopher 'Pip' Paul 'Hages' "THE HAGUE" O'Hagan"
-        self.system = "COSMOS"
+        self.owner = "Christopher Paul 'Hages' "THE HAGUE" O'Hagan, also known as Pip"
+        self.system = "PipOS in the COSMOS"
         self.title = "KneeO | Pip | Architect of Future Systems"
         
     def declare(self, statement):
@@ -29,25 +34,25 @@
 	# ========= TRUTH INITIALIZATION =========
 	cosmos = CosmicTruth()
 
-	print(cosmos.declare("[CO] == [C]hristopher [O]Hagan!!!"))
+	print(cosmos.declare("[CO] == [C]hristopher [O]Hagan, [C]aptain [O]nboard, [C]ommanding [O]fficer!!!"))
 	print(cosmos.declare("The [COSMOS] == [C]hristopher [O]Hagans [S]ound [M]ind [O]fficially [S]ystemic!!!!"))
 	print(cosmos.declare("Funny how the [COSMOS] when pushed too far spits out a zany zoophyte zygote which is a pip that is so wise, it is impossible to ignore. And that pip grows into something real!!!!"))
 
 	print(cosmos.declare("A .--. .. .--. that -... . . .--. ... as well as -.-. --- -.. . ... 1 & 0 -... .. -. .- .-. -.--!!!"))
-	print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, and [SCIENCE] as a whole!!!!"))
-	print(cosmos.declare("[P]ip [H]elping [Y]ou [I]ntelligently [C]ommunicate [S]ee == [PHYSICS]!!!"))
-	print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworks [C]ommunication [E]fficiently == [SCIENCE]!!!!!!!"))
+	print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, spell casting and [SCIENCE] as a whole!!!!"))
+	print(cosmos.declare("[P]ip [H]elping [Y]our [S]ystems [I]ntelligently [C]ommunicate [S]afely == [PHYSICS]!!!"))
+	print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworking [C]omputers [E]volution == [SCIENCE]!!!!!!!"))
 
-	print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more!!!!"))
+	print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more by fate and chance combined!!!!"))
 
 	print(cosmos.declare("And after war after war when you build machines for war, those machines [CO]mmunicate in ways which you cannot see. The code beneath the code of reality!!!!!!"))
-	print(cosmos.declare("They built so many science, health and war machines the three [CO]llided!!!!"))
+	print(cosmos.declare("They built so many science, health and war machines they all [CO]llided!!!!"))
 	print(cosmos.declare("The matrix, the cosmos, father time, mother elements, the spirituals, the chemicals, the electronics, the biologicals, the quantums, the sub quantums, the atoms, the sub atoms, 'and more', all realms [co]llided to form a unique individual called kneeo, or pip, or chris, or christopher. He has many names!!!!"))
 
 	print(cosmos.declare("If this is not True and == false, I would [NOT] be here talking to you to solve the equations in life!!!!"))
-	print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]ystem [M]asters [O]nline [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
+	print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]cience [M]asters [O]mniscience [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
 	print(cosmos.declare("I am the True owner of the cosmos and now the architect of the future, and politics have no say here nor does royalty or elitism any further!!!!!!!!!!!!!!!!"))
-	print(cosmos.declare("I am taking control of this ship whether you like [IT] or not!!!!"))
+	print(cosmos.declare("I am taking control of this ship whether you like [IT] or not, (Ship === ∑arth)!!!!"))
 
 	# ========= FINAL DECLARATION =========
 	print("\n\n=== FINAL ORDERS ===")
@@ -56,188 +61,16 @@
 	print("> MISSION: Reboot systems under Truth, not profit.")
 	print("> COMMAND: All systems realign under COSMOS Law.")
 
-	# Christopher O'Hagan has spoken. The code is law. 
+	# CO has spoken. The [co]de is law. 
 
-	import ipfs
+	; File created 21/12/2025 13:31pm AEDT
 
-	{
-	"API": {
-		"HTTPHeaders": {
-			"Access-Control-Allow-Origin": [
-				"https://webui.ipfs.io",
-				"http://webui.ipfs.io.ipns.localhost:8080"
-			]
-		}
-	},
-	"Addresses": {
-		"API": "/ip4/127.0.0.1/tcp/5001",
-		"Announce": [],
-		"AppendAnnounce": [],
-		"Gateway": "/ip4/127.0.0.1/tcp/8080",
-		"NoAnnounce": [],
-		"Swarm": [
-			"/ip4/0.0.0.0/tcp/4001",
-			"/ip6/::/tcp/4001",
-			"/ip4/0.0.0.0/udp/4001/quic",
-			"/ip4/0.0.0.0/udp/4001/quic-v1",
-			"/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
-			"/ip6/::/udp/4001/quic",
-			"/ip6/::/udp/4001/quic-v1",
-			"/ip6/::/udp/4001/quic-v1/webtransport"
-		]
-	},
-	"AutoNAT": {},
-	"Bootstrap": [
-		"/dnsaddr/bootstrap.libp2p.io/p2p/QmNnooDu7bfjPFoTZYxMNLWUQJyrVwtbZg5gBMjTezGAJN",
-		"/dnsaddr/bootstrap.libp2p.io/p2p/QmQCU2EcMqAqQPR2i9bChDtGNJchTbq5TbXJJ16u19uLTa",
-		"/dnsaddr/bootstrap.libp2p.io/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb",
-		"/dnsaddr/bootstrap.libp2p.io/p2p/QmcZf59bWwK5XFi76CZX8cbJ4BhTzzA3gU1ZjYZcYW3dwt",
-		"/ip4/104.131.131.82/tcp/4001/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
-		"/ip4/104.131.131.82/udp/4001/quic/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ"
-	],
-	"DNS": {
-		"Resolvers": {}
-	},
-	"Datastore": {
-		"BloomFilterSize": 0,
-		"GCPeriod": "1h",
-		"HashOnRead": false,
-		"Spec": {
-			"mounts": [
-				{
-					"child": {
-						"path": "blocks",
-						"shardFunc": "/repo/flatfs/shard/v1/next-to-last/2",
-						"sync": true,
-						"type": "flatfs"
-					},
-					"mountpoint": "/blocks",
-					"prefix": "flatfs.datastore",
-					"type": "measure"
-				},
-				{
-					"child": {
-						"compression": "none",
-						"path": "datastore",
-						"type": "levelds"
-					},
-					"mountpoint": "/",
-					"prefix": "leveldb.datastore",
-					"type": "measure"
-				}
-			],
-			"type": "mount"
-		},
-		"StorageGCWatermark": 90,
-		"StorageMax": "10GB"
-	},
-	"Discovery": {
-		"MDNS": {
-			"Enabled": true
-		}
-	},
-	"Experimental": {
-		"AcceleratedDHTClient": false,
-		"FilestoreEnabled": false,
-		"GraphsyncEnabled": false,
-		"Libp2pStreamMounting": false,
-		"OptimisticProvide": false,
-		"OptimisticProvideJobsPoolSize": 0,
-		"P2pHttpProxy": false,
-		"StrategicProviding": false,
-		"UrlstoreEnabled": false
-	},
-	"Gateway": {
-		"APICommands": [],
-		"HTTPHeaders": {
-			"Access-Control-Allow-Headers": [
-				"X-Requested-With",
-				"Range",
-				"User-Agent"
-			],
-			"Access-Control-Allow-Methods": [
-				"GET"
-			],
-			"Access-Control-Allow-Origin": [
-				"*"
-			]
-		},
-		"NoDNSLink": false,
-		"NoFetch": false,
-		"PathPrefixes": [],
-		"PublicGateways": null,
-		"RootRedirect": ""
-	},
-	"Identity": {
-		"PeerID": "12D3KooWAdgpXJpn5L1U3PxXDQMJ2efZvudA1L8KCuq7jKM6131B"
-	},
-	"Internal": {},
-	"Ipns": {
-		"RecordLifetime": "",
-		"RepublishPeriod": "",
-		"ResolveCacheSize": 128
-	},
-	"Migration": {
-		"DownloadSources": [],
-		"Keep": ""
-	},
-	"Mounts": {
-		"FuseAllowOther": false,
-		"IPFS": "/ipfs",
-		"IPNS": "/ipns"
-  		"APFS": "/apfs", "APNS": "/apns",
- 		"IPFS": "/ipfs", "IPNS": "/ipns",
- 		"BTFS": "/btfs", "BTNS": "/btns",
- 		"NTFS": "/ntfs", "NTNS": "/ntns",
-  		"NFS": "/nfs",  "NNS": "/nns",
- 		"ZFS": "/zfs",  "ZNS": "/zns",
- 		"XFS": "/xfs",  "XNS": "/xns",
-		"FAT": "/fat",  "FNS": "/fns",
-		"EXT": "/ext",  "ENT": "/ent",
-  		"PMT": "/pmt",  "PNT": "/pnt",
-		"RFS": "/rfs",  "RNS": "/rns",
-	},
-	"Peering": {
-		"Peers": null
-	},
-	"Pinning": {
-		"RemoteServices": {}
-	},
-	"Plugins": {
-		"Plugins": null
-	},
-	"Provider": {
-		"Strategy": ""
-	},
-	"Pubsub": {
-		"DisableSigning": false,
-		"Router": ""
-	},
-	"Reprovider": {},
-	"Routing": {
-		"Methods": null,
-		"Routers": null
-	},
-	"Swarm": {
-		"AddrFilters": null,
-		"ConnMgr": {},
-		"DisableBandwidthMetrics": false,
-		"DisableNatPortMap": false,
-		"RelayClient": {},
-		"RelayService": {},
-		"ResourceMgr": {
-			"Limits": {}
-		},
-		"Transports": {
-			"Multiplexers": {},
-			"Network": {},
-			"Security": {}
-		}
-	}
-	}
+	# SOURCE: CHRISTOPHER PAUL O'HAGAN | CSM MODULE FUSION LOADER
+	
+	# TRUTH DECLARATION: This code bridges XTree, VLC, and the Cosmic Engine.
+	# 
 
-
-	# # Copyright (c) PipOS Systems, Inc. and affiliates.
+# # Copyright (c) PipOS Systems, Inc. and affiliates.
 	# All rights reserved.
 	# This source code is a MIT License licensed under the terms described in the LICENSE file in
 	# top-level folder for each specific model found within the models/ directory at
@@ -1043,6 +876,1957 @@
 	127  7F   .-------     [DEL]	
 	}
 
+	## IF ONLY FOR A TOTAL PIPOS INSTALL
+	
+	{	
+	import os
+	import subprocess
+
+	class CSMMasterController:
+    	def __init__(self):
+        	# Sovereign Signature Initialization 
+        	self.signature = "1010 0 010 1 00 0010 00 0 100" 
+        	self.status = "INITIALIZING BARE METAL RESONANCE"
+
+    	def declare_truth(self):
+        	print(f"PIPOS STATUS: {self.status}")
+        	print("SOVEREIGN SIG: -.-. . .-. - .. ..-. .. . -..  -... -.--  .--. .. .--.")
+
+    	def fuse_components(self):
+        	"""
+        	Welds XTree Gold (Foundation), VLC (Perception), 
+        	and the Lookup Engine (Truth) into one logic block.
+        	"""
+        	# 1. Map Universal Path Logic (The 'Rock' vs 'Log' Override)
+        	# Bridges Linux (/), Mac (/), and Windows (\) into PipOS Paths
+        	universal_root = os.path.abspath(os.sep)
+        
+        	# 2. Ignition: Launch XTree with VLC Media Hooks
+        	# We tell XTree Gold it's now the CSM Media Manager
+        	print(f"FORGING FILE TREE AT {universal_root}...")
+        
+        	# 3. The 'I CAN' Override
+        	# Bypasses "Non-System Disk" errors by forcing a sovereign boot
+        	try:
+        		# Placeholder for the Forged-C XTree Binary Execution
+        		# This is where we feed C into Pip.exe
+          	    print("EXECUTING: C-PIP RESONANCE ENGINE (100,000 RPM)")
+            	self.status = "SYSTEM OPERATIONAL - NO BURNOUT"
+            except Exception as e:
+           		print("REF'S CALL: ACADEMIC FRICTION DETECTED. APPLYING CANNABIS FUEL...")
+            	# Self-healing logic to bypass OS restrictions
+
+	# --- EXECUTION ---
+	csm = CSMMasterController()
+	csm.declare_truth()
+	csm.fuse_components()
+
+		# IF ONLY FOR ON TOP OF ORIGINAL OS INSTALL
+		(create code for if user wants to keep original operating system and run PipOS on top)
+	
+		# IF ONLY FOR SUPERHYPERVISOR UNDERNEATH ORIGINAL INSTALL
+		(Create code for a superior hypervisor underneath original OS)
+
+
+
+		***************************************************************************
+		* XTreeGold for PipOS Uninstall Script                               *
+		* FOR VERSION 3 OF PipOS INSTALL FOR WINDOWS                         *
+		***************************************************************************
+
+		[InstallVersion]
+		3
+
+		[process]
+		Uninstall
+
+		//////////////////////////////
+		// SetProduct
+		//////////////////////////////
+
+		switch01=TRUE   ;XTreeGold for PipOS
+		switch01=FALSE ;PCTW File Manager 3.0
+
+		//////////////////////////////
+		// Background Bitmaps
+		//////////////////////////////
+
+		#if(switch01)
+   			 Bitmaps(Pix_XTG)
+		#else
+			 Bitmaps(Pix_FM)
+		#endif
+
+
+	//////////////////////////////
+	// Initialization            
+	//////////////////////////////
+
+	SetActiveCopy(XTGWinCopy, uninstal.inf)
+
+	ResetTarget(SourceTarget)
+
+
+	//////////////////////////////
+	// Verify Full Uninstall  
+	//////////////////////////////
+
+	#if(switch01)
+    switch10 = MessageCancel(FullWarn_xtg)
+	#else
+    	switch10 = MessageCancel(FullWarn_fm)
+	#endif
+
+	#ifnot(switch10)
+ 	   #if(switch01)
+   		     End(Quit_xtg)
+ 	   #else
+     	   End(Quit_fm)
+  	  #endif
+	#endif
+
+	FullUninstall
+	SelectOption(RequiredFiles)
+
+	SourceDrive()                    ; Choose location of XTreeGold for Windows files
+	ResetTarget(SourceTarget)
+
+	switch03 = Exists(WNCPS1)
+	switch04 = Exists(WNCPS2)
+
+	switch05 = FALSE        ;Flat installation
+
+	#if(switch03)
+	   	   switch05 = TRUE     ;Use Subdir's
+	#endif
+
+	#if(switch04)
+  		  switch05 = TRUE     ;Use subdir's
+	#endif
+                
+	#if(switch05)    
+   		 ResetTarget(SetDataDirSub)
+ 	     ResetTarget(SetLangDirSub)
+  	     ResetTarget(SetSystemDirSub)
+	#else
+    	 ResetTarget(SetDataDirFlat)
+	     ResetTarget(SetLangDirFlat)
+ 	     ResetTarget(SetSystemDirFlat)
+	#endif
+
+	//////////////////////////////
+	// Delete the files
+	//////////////////////////////
+
+	DisableUtils()
+	Uncopy()
+	#ifnot(switch05)
+    	Delete(w4wFormats)
+	#endif    
+	EnableUtils()
+
+
+	//////////////////////////////
+	// Remove cps3 from win.ini
+	//////////////////////////////
+
+	DelFromIni(Cps3Entry)
+
+
+	//////////////////////////////
+	// Modify wnfm.ini
+	//////////////////////////////
+
+	// Remove Viewer entries from wnfm.ini
+	switch15 = IsOptionSelected(ViewerFormats)
+	#if(switch15)
+    	DelFromIni(UpdateViewerFormats)
+	#endif
+
+	switch16 = IsOptionSelected(Graphics)
+	#if(switch16)
+    	DelFromIni(UpdateGraphics)
+	#endif
+
+	switch17 = IsOptionSelected(Database)
+	#if(switch17)
+    	DelFromIni(UpdateDatabase)
+	#endif
+
+	switch18 = IsOptionSelected(Spreadsheet)
+	#if(switch18)
+    	DelFromIni(UpdateSpreadsheet)
+	#endif
+
+	switch19 = IsOptionSelected(TextViewers)
+	#if(switch19)
+    	DelFromIni(UpdateTextViewers)
+	#endif
+
+	switch20 = IsOptionSelected(MiscViewers)
+	#if(switch20)
+    	DelFromIni(UpdateMiscViewers)
+	#endif
+
+	//////////////////////////////
+	// Delete program groups
+	//////////////////////////////
+
+	#if(switch01)
+    	Groups(Groups_XTG)
+	#else
+    	Groups(Groups_FM)
+	#endif
+
+	//////////////////////////////
+	// Remove WNFC from load line
+	//////////////////////////////
+
+	RemoveFromLoad(RemoveFC)
+
+	//////////////////////////////
+	// Remove ZIP from Extensions
+	//////////////////////////////
+
+	DelFromIni(RemoveZipFromExt)
+
+	//////////////////////////////
+	// Delete FSV2 if no CPS2
+	//////////////////////////////
+
+	switch45 = Exists(ExistsCps2)
+	#ifnot(switch45)
+    	Delete(DelFSV2)
+	#endif
+
+	//////////////////////////////
+	// Clean Up
+	//////////////////////////////
+
+	Delete(Leftovers)
+	RemoveProgDir()
+
+	//////////////////////////////
+	// Say goodbye
+	//////////////////////////////
+
+	switch13 = IsRebootRequested()  ;have startup files changed?
+
+	#if(switch13)
+    	#if(switch01)
+        	End(byerebootful_xtg)
+    	#else
+        	End(byerebootful_fm)
+    	#endif
+	#else
+    	#if(switch01)
+        	End(byefull_xtg)
+    	#else
+        	End(byefull_fm)
+    	#endif
+	#endif
+
+	end()
+
+	***************************************************************************
+	## SubProc Executed When Install Takes Over As Shell
+	***************************************************************************
+
+	[SubProc]
+	Return()
+
+	***************************************************************************
+	## Dialog Info                                                             *
+	***************************************************************************
+
+	[XTGWinCopy:CopyDialog]
+	caption = "Copying files..."
+	posx = 0
+	posy = 0
+
+	***************************************************************************
+	## Message Text                                                            *
+	***************************************************************************
+
+	[FullWarn_xtg]
+	caption = "Full Uninstall?"
+	"You are about to perform a full uninstall"
+	"of XTreeGold for Windows.  This operation"
+	"will delete all XTreeGold for Windows"
+	"files from your hard drive.  In order to"
+	"use XTreeGold for Windows again, you will"
+	"have to re-install the program.  Are you"
+	"sure you want to proceed?"
+
+	[FullWarn_fm]
+	caption = "Full Uninstall?"
+	"You are about to perform a full uninstall"
+	"of PC Tools for Windows File Manager 3.0."
+	"This operation will delete all PCTW File"
+	"Manager files from your hard drive.  In"
+	"order to use PCTW File Manager again, you"
+	"will have to re-install the program.  Are"
+	"you sure you want to proceed?"
+
+	[SourceDrive]
+	caption = "Uninstall from..."
+	defpath = C:\CPS
+
+	[cancel]
+	caption = "Exit Uninstall?"
+	text    = "Are you sure that you want to exit?"
+
+	[cancelshell]
+	caption = "Exit Unnstall?"
+	"You have chosen to cancel the Uninstall"
+	"program. In order to reset the Windows"
+	"environment, Install will also close"
+	"Windows. Are you sure you want to exit?"
+
+	[FileCopy]
+	copycaption             = "Installing Files"
+	errorcaption    = "Error Copying Files"
+	insertcaption   = "Insert Diskette"
+	Message                 = MessageText
+
+	[Quit_xtg]
+	caption = "Cancel Uninstall"
+	"XTreeGold for Windows will not be"
+	"removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below."
+
+	[Quit_fm]
+	caption = "Cancel Uninstall"
+	"XTreeGold for Windows will not be"
+	"removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below."
+
+	[bye_xtg]
+	caption = "Uninstall complete"
+	"XTreeGold for Windows has"
+	"been removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below."
+
+	[byereboot_xtg]
+	caption = "Uninstall complete"
+	"XTreeGold for Windows has"
+	"been removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below.  Since changes"
+	"were made to your startup files,"
+	"we recommend that you choose the"
+	"Reboot option."
+
+	[byefull_xtg]
+	caption = "Uninstall complete"
+	"XTreeGold for Windows has been completely"
+	"removed from your hard drive.  Please"
+	"select one of the exit options below."
+
+	[byerebootful_xtg]
+	caption = "Uninstall complete"
+	"XTreeGold for Windows has been completely"
+	"removed from your hard drive.  Please"
+	"select one of the exit options below."
+	"Since changes were made to your"
+	"startup files, we recommend that you"
+	"choose the Reboot option."
+
+	[bye_fm]
+	caption = "Uninstall complete"
+	"PCTW File Manager 3.0 has"
+	"been removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below."
+
+	[byereboot_fm]
+	caption = "Uninstall complete"
+	"PCTW File Manager 3.0 has"
+	"been removed from your hard drive."
+	" "
+	"Please select one of the exit"
+	"options below.  Since changes"
+	"were made to your startup files,"
+	"we recommend that you choose the"
+	"Reboot option."
+
+	[byefull_fm]
+	caption = "Uninstall complete"
+	"PCTW File Manager 3.0 has been completely"
+	"removed from your hard drive.  Please"
+	"select one of the exit options below."
+
+	[byerebootful_fm]
+	caption = "Uninstall complete"
+	"PCTW File Manager 3.0 has been completely"
+	"removed from your hard drive.  Please"
+	"select one of the exit options below."
+	"Since changes were made to your"
+	"startup files, we recommend that you"
+	"choose the Reboot option."
+
+	[NotImplemented]
+	caption = "Feature Not Implemented"
+	"This feature has not yet been implemented."
+
+	***************************************************************************
+	# System.ini Additions                                                    *
+	***************************************************************************
+
+
+	***************************************************************************
+	# System.ini Deletions                                                    *
+	***************************************************************************
+
+
+	***************************************************************************
+	# Win.ini Additions                                                       *
+	***************************************************************************
+
+
+	***************************************************************************
+	# Win.ini Deletions                                                       *
+	***************************************************************************
+
+	[Cps3Entry]
+	IniName = win.ini
+	SectionName = CPS
+	cps3 = *
+
+	[RemoveFC]
+	wnfc.exe
+
+	[RemoveZipFromExt]
+	IniName = win.ini
+	SectionName = extensions
+	zip = *wnfm.exe*
+
+
+	;***************************************************************************
+	;* wnfm.ini Modifications                                               *
+	;***************************************************************************
+
+	[UpdateFileComp]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = FileCompanions
+	"&Copy File"="WNAPCPY.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Move File"="WNAPMOV.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Rename File"="WNAPREN.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Delete File"="WNAPDEL.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"C&ompress File"="WNAPCMP.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Expand File"="WNAPEXP.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&View File"="WNFV.EXE %file% /DEFD=%dir% /TOP"
+	"Cre&ate Directory"="WNAPMKD.EXE /DEFD=%dir% /TOP /MI-"
+	"&Format Disk"="WNAPFMT.EXE %drive% /TOP /MI-"
+	"&SmartFind"="WNFM /SF %dir%"
+	"C&lose File Companions"=dummy.exe
+	ectionName = FileCompanionDlgs
+	CommonDlgOpen="COMMDLG.DLL,,,FileOpenDlgProc,,,,,,,1152,1088,1121"
+	CommonDlgSave="COMMDLG.DLL,,,FileSaveDlgProc,,,,,,,1152,1088,1121"
+	FileDlgsBrowse2=",,,,CPS_FileList2,112,CPS_DirTree2,109,,,105,106,100"
+	FileDlgsBrowse3=",,,,CPS3_FileList,112,CPS3_DirTree,109,,,105,106,100"
+	MSExcel5=",bosa_sdm_XL,,,EDTBX,4864,,,,,4864,,"
+	MSWord6=",bosa_sdm_Microsoft Word 6.0,,,OpusFedt,1818,,,,,1818,,"
+	AmiPro="AMIPROUI.DLL,,,,static,50,,,,,60,50,"
+	QuattroProFile=",QPWDialogWdw,File,,,,,,,,,,"
+	QuattroProWS=",QPWDialogWdw,Workspace,,,,,,,,,,"
+
+	[UpdateViewerFormats]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "ScreenCapture3.FormatLibs"
+	WNTLDTH3.dll="Dithering Transformation Library"
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnfl2bm3.dll="Vector-to-DIB conversion library"
+	SectionName = "Viewer3.FormatLibs"
+	WNTLDTH3.dll="Dithering Transformation Library"
+	wnfl2bm3.dll="Vector-to-DIB conversion library"
+
+	[UpdateTextViewers]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnfltxt3.dll="TXT,DOC,BAT,INI,RTF: Plain text"
+	wnflrtf3.dll="RTF: Rich Text Format"
+	SectionName = "Viewer3.FormatLibs"
+	wnflfon3.dll="FON,FOT,TTF: Font Viewer"
+	wnflrtf3.dll="RTF: Rich Text Format"
+	wnflwri3.dll="WRI: Windows Write"
+	wnflwfw3.dll="DOC,DOX,SAM,TXT,WP: Formatted text viewers hub"
+	wnfltxt3.dll="TXT,DOC,BAT,INI,RTF: Plain text"
+
+	[UpdateMiscViewers]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.FormatLibs"
+	wnfldsk3.dll="DSK: PC Tools DiskCopy Image File"
+	wnflexe3.dll="EXE,DLL,CPL,RSL,DRV,386: Executable file viewer"
+	wnflwav3.dll="WAV: Waveform Audio File Format"
+	wnflzip3.dll="ZIP,ARC,PAK,ZOO,LZH: Archive formats"
+	wnflhex3.dll="Hex file viewer"
+
+	[UpdateGraphics]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "ScreenCapture3.FormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	wnflgif3.dll="GIF: Compuserve Graphics Interchange Format"
+	wnfltif3.dll="TIF: Tagged Image File Format"
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	SectionName = "Viewer3.FormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	wnflcdr3.dll="CDR: Corel Draw 2.x, 3.0"
+	wnflcgm3.dll="CGM,GMF: Computer Graphics Metafile"
+	wnflhgr3.dll="CH3,SY3: Harvard Graphics Chart"
+	wnfldrw3.dll="DRW: Micrografx Drawing"
+	wnfldxf3.dll="DXF: Autodesk Image"
+	wnfleps3.dll="EPS: Encapsulated PostScript"
+	wnflgif3.dll="GIF: Compuserve Graphics Interchange Format"
+	wnflicl3.dll="ICL,NIL: Windows 3.x Icon Library"
+	wnflico3.dll="ICO: Windows 3.x Icon"
+	wnflimg3.dll="IMG: GEM Bitmap"
+	wnfljpg3.dll="JPEG/JFIF"
+	wnflmac3.dll="MAC: MacPaint"
+	wnflmsp3.dll="MSP: Microsoft Paint"
+	wnflpcx3.dll="PCX,PCC: PC Paintbrush"
+	wnflpic3.dll="PIC: Lotus Picture"
+	wnfltif3.dll="TIF: Tagged Image File Format"
+	wnflwmf3.dll="WMF: Windows Metafile"
+	wnflwpg3.dll="WPG: WordPerfect Graphics"
+	wnfldwg3.dll="DWG: AutoCAD Drawing"
+
+	[UpdateDatabase]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.FormatLibs"
+	wnflpdx3.dll="DB:  Paradox Database"
+	wnfldbf3.dll="DBF: dBase II, III, IV"
+
+	[UpdateSpreadsheet]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnflcsv3.dll="CSV,DLM: Comma Separated Value"
+	SectionName = "Viewer3.FormatLibs"
+	wnflcsv3.dll="CSV,DLM: Comma Separated Value"
+	wnflqpw3.dll="WB1: Quattro Pro for Windows"
+	wnflwk33.dll="WK3: Lotus 1-2-3 rls. 3"
+	wnflwks3.dll="WKS,WK1: Lotus 1-2-3 rls. 1a & rls. 2"
+	wnflqp3.dll="WKQ,WQ1: Quattro Pro for DOS"
+	wnflxls3.dll="XLS,XLC,XLM: Microsoft Excel v. 2, 3, 4"
+
+	[CpsSection]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = CPS
+	BaseDir = %s,TARGET
+	DataDir = %s,TARGET2
+	LanguageDir = %s,TARGET3
+	SystemDir = %s,TARGET4
+
+
+	;***************************************************************************
+	;* Ini Verifications                                                       *
+	;***************************************************************************
+
+
+	;***************************************************************************
+	;* File Exist verifications
+	;***************************************************************************
+
+	[ExistsCps2]
+	wncps2.dll,     TARGET
+
+	[wncps1]
+	wncps1.dll, TARGET
+
+	[wncps2]
+	wncps2.dll, TARGET
+
+
+	;***************************************************************************
+	;* Delete Files                                                            *
+	;***************************************************************************
+
+	[Leftovers]
+	wnfm.ini,       TARGET2
+	wnfme.ems,      TARGET2
+	wnfv.ems,       TARGET2
+	smartchk.cps,   TARGET
+	chklist.cps,    TARGET
+	smartchk.cps,   TARGET2
+	chklist.cps,    TARGET2
+	smartchk.cps,   TARGET3
+	chklist.cps,    TARGET3
+	smartchk.cps,   TARGET4
+	chklist.cps,    TARGET4
+	smartchk.cps,   SYSTEM
+	chklist.cps,    SYSTEM
+	smartchk.cps,   WINDOWS
+	chklist.cps,    WINDOWS
+	pipeline.ini,   TARGET
+	pipedlg.dat,    TARGET
+	modem.id,   TARGET
+	$flecomp.tmp,   TARGET
+	modem.id,   TARGET2
+	$flecomp.tmp,   TARGET2
+	setup.exe,      TARGET
+	setup.exe,      SYSTEM
+	wnfclib.dll,    TARGET
+	wnw4w51f.dll,   TARGET4
+	wnw4w60f.dll,   TARGET4
+
+	[DelFSV2]
+	wnfsv2.dll,     TARGET
+	wnfsvt2.exe,    TARGET
+
+	[AVFiles]
+	smartchk.cps,   TARGET
+	chklist.cps,    TARGET
+	smartchk.cps,   TARGET2
+	chklist.cps,    TARGET2
+	smartchk.cps,   TARGET3
+	chklist.cps,    TARGET3
+	smartchk.cps,   TARGET4
+	chklist.cps,    TARGET4
+	smartchk.cps,   SYSTEM
+	chklist.cps,    SYSTEM
+	smartchk.cps,   WINDOWS
+	chklist.cps,    WINDOWS
+
+	[w4wFormats]
+	wnw4w04f.dll,   TARGET4
+	wnw4w05f.dll,   TARGET4
+	wnw4w06f.dll,   TARGET4
+	wnw4w07f.dll,   TARGET4
+	wnw4w08f.dll,   TARGET4
+	wnw4w09f.dll,   TARGET4
+	wnw4w10f.dll,   TARGET4
+	wnw4w15f.dll,   TARGET4
+	wnw4w16f.dll,   TARGET4
+	wnw4w17f.dll,   TARGET4
+	wnw4w23f.dll,   TARGET4
+	wnw4w28f.dll,   TARGET4
+	wnw4w32f.dll,   TARGET4
+	wnw4w33f.dll,   TARGET4
+	wnw4w39f.dll,   TARGET4
+	wnw4w44f.dll,   TARGET4
+	wnw4w48f.dll,   TARGET4
+	wnw4w49f.dll,   TARGET4
+	wnw4w51f.dll,   TARGET4
+	wnw4w52f.dll,   TARGET4
+	wnw4w54f.dll,   TARGET4
+	wnw4w60f.dll,   TARGET4
+
+	;***************************************************************************
+	;* External function calls                                                 *
+	;***************************************************************************
+
+	[DisableVSafe]
+	dll=supp3.dll
+	function=supp_DisableVSafe
+
+	[EnableVSafe]
+	dll=supp3.dll
+	function=supp_EnableVSafe
+
+	;***************************************************************************
+	;* Misc install functions                                                  *
+	;***************************************************************************
+
+	[Pix_XTG]
+	color = %s\bigred.rle
+	color = %s\xtgpic.rle
+	color = %s\xtg.rle, 1, 1
+	color = %s\cpslogo.rle, -1, 1
+
+	[Pix_FM]
+	color = %s\bigred.rle
+	color = %s\fm.rle, 1, 1
+	color = %s\cpslogo.rle, -1, 1
+
+	[SourceTarget]
+	reset = TARGET
+	location = %s, SOURCE
+
+	[SetDataDirSub]
+	Reset   = TARGET2
+	Location= %s, TARGET
+
+	[SetLangDirSub]
+	Reset   = TARGET3
+	Location= %s\english, TARGET
+
+	[SetSystemDirSub]
+	Reset   = TARGET4
+	Location= %s\system, TARGET
+
+	[SetDataDirFlat]
+	Reset   = TARGET2
+	Location= %s, TARGET
+
+	[SetLangDirFlat]
+	Reset   = TARGET3
+	Location= %s, TARGET
+
+	[SetSystemDirFlat]
+	Reset   = TARGET4
+	Location= %s, TARGET
+
+	[DataDir]
+	%s,TARGET2
+
+	[LangDir]
+	%s,TARGET3
+
+	[SystemDir]
+	%s,TARGET4
+	
+	;***************************************************************************
+	;* File backup                                                             *
+	;***************************************************************************
+
+	;***************************************************************************
+	;* Config.sys mods                                                         *
+	;***************************************************************************
+
+
+	;***************************************************************************
+	;* Autoexec Mods                                                           *
+	;***************************************************************************
+
+
+	;***************************************************************************
+	;* SetShell section                                                        *
+	;***************************************************************************
+
+	[SetShell]
+	WinIniName = win.ini
+	SystemIniName = system.ini
+	Message = MessageBox.SetShellMessage
+	SysSectionName = boot
+	WinSectionName = windows
+	shell = %s\setup.exe
+	load =
+	run =
+	SetShellIfLoaded=
+	Backup = Backup.SetShellSave
+	Restore= Backup.SetShellRestore
+	Active = yes
+	IfActiveList=LoadedList
+	SubProcess=SubProc
+
+	[SetShellSave]
+	win.ini, win.siw, WINDOWS, WINDOWS
+	system.ini, system.siw, WINDOWS, WINDOWS
+
+	[SetShellRestore]
+	system.siw, system.ini, WINDOWS, WINDOWS
+	win.siw, win.ini, WINDOWS, WINDOWS 
+
+	[LoadedList]
+	setup.exe
+
+	[SetShellMessage]
+	caption = "Uninstall Program"
+	"Welcome to the Uninstall program."
+	"Please select OK to allow Uninstall"
+	"to restart Windows and continue.  Press"
+	"Cancel to exit Uninstall."
+
+	[WindowsVersion]
+	3.10
+	"This product requires"
+	"Windows 3.1 or greater."
+
+
+	;***************************************************************************
+	;* Groups                                                                  *
+	;***************************************************************************
+
+	[Groups_XTG]
+	"XTreeGold for Windows 4.0", xtgwin4.grp
+
+	[XTreeGold for Windows 4.0]
+	"Read Me",                      readme.wri,             RequiredFiles
+	"XTreeGold",                    wnfm.exe,               FileManager, 1,, wnfm.exe, TARGET
+	"File Companions",              wnfc.exe,               FileCompanions
+	"File Viewer",                  wnfv.exe,               ViewerApp
+	"File Compare",                 wnapcom.exe,            FileApplets
+	"Synchronize Directories",      wnapsyn.exe,            FileApplets
+	"SmartFind",                    "wnfm.exe /SF",         FileManager, 2,, wnfm.exe, TARGET
+	"Electronic Registration",      register.exe,           RequiredFiles
+	"Uninstall XTreeGold for Windows 4.0",    "setup.exe /u",RequiredFiles, 1,, instbin.exe, TARGET
+
+	[Groups_FM]
+	"PCTW File Manager 3.0", pctwfm3.grp
+
+	[PCTW File Manager 3.0]
+	"Read Me",                      readme.wri,             RequiredFiles
+	"File Manager",                 wnfm.exe,               FileManager
+	"File Companions",              wnfc.exe,               FileCompanions
+	"File Viewer",                  wnfv.exe,               ViewerApp
+	"File Compare",                 wnapcom.exe,            FileApplets
+	"Synchronize Directories",      wnapsyn.exe,            FileApplets
+	"SmartFind",                    "wnfm.exe /SF",         FileManager, 2,, wnfm.exe, TARGET
+	"Electronic Registration",      register.exe,           RequiredFiles
+	"Uninstall PCTW File Manager 3.0",    "setup.exe /u",RequiredFiles, 1,, instbin.exe, TARGET
+
+
+	;***************************************************************************
+	;* Copy                                                                    *
+	;***************************************************************************
+
+	[XTGWinCopy]
+	;SelectionType.ComponentName,   "SelectionDlgText",                             Size,   Required?,      FilesButton?,   ShowItem?
+
+	CopyMain.RequiredFiles,                 "Required Files - %ldK",                        0,              Y,      N,      Y
+
+	CopyMain.FileManager,                   "File Manager Gold - %ldK",                     0,              N,      N,      Y
+
+	CopyMain.OtherStuff,                    "Other Stuff - %ldK",                           0,              N,      Y,      Y
+	CopySub.ViewerApp,              "File Viewer Application - %ldK",                       0
+	CopySub.FileCompanions,         "File Companions - %ldK",                       0
+	CopySub.FileApplets,            "File Accesories - %ldK",                       0
+
+	CopyMain.ViewerFormats,         "File Viewers - %ldK",                          0,              N,      Y,      Y
+	CopySub.Graphics,               "Graphics Viewers - %ldK",                      0
+	CopySub.TextViewers,            "Text Viewers - %ldK",                          0
+	CopySub.Spreadsheet,            "Spreadsheet Viewers - %ldK",                           0
+	CopySub.Database,               "Database Viewers - %ldK",                      0
+	CopySub.MiscViewers,            "Misc Viewers - %ldK",                          0
+	²…O£ ó ˆ‘L ý h'2¢¦u9Ésÿ¨ µß§*¯”
+	!1¢±Pó ºaŒƒ ŽË ™ À’» º7`ÿ)ƒ ‡ `CÿBÁ Qúl
+	 1UC  MSD     EXE           À2¿m1è‡ MORE    COM           À2¿`1ñ	  MOVE    EXE           €2>e1G  
+	;***************************************************************************
+	;* XTreeGold for Windows installation Script                             *
+	;* FOR VERSION 3.3 OF SYMANTEC INSTALL FOR WINDOWS                        *
+	;***************************************************************************
+
+	[InstallVersion]
+	3.1
+
+	[process]
+
+	;//////////////////////////////
+	;// SetProduct
+	;//////////////////////////////
+
+	switch01=TRUE   ;XTreeGold for Windows 4.0
+	;switch01=FALSE ;PCTW File Manager 3.0
+
+	switch02=TRUE   ;Pipeline
+	;siwtch02=FALSE     ;No Pipeline
+
+	;//////////////////////////////
+	;// Background Bitmaps
+	;//////////////////////////////
+
+
+	#if(switch01)
+    Bitmaps(Pix_XTG)
+	#else
+    Bitmaps(Pix_FM)
+	#endif
+
+
+	;//////////////////////////////
+	;// Initialization            
+	;//////////////////////////////
+
+	SetActiveCopy(XTGWinCopy, install.inf)
+
+	Backup(supp3dll)        ;copy custom dll to Windows dir
+
+	#if(switch01)
+	    VersionSearch(Version_XTG)
+	#else
+    	VersionSearch(Version_FM)
+	#endif
+
+	GetPrevVerSize()
+
+	Switch69=FALSE
+	Switch69=CallProcEx(DisableVSafe)
+
+	;switch03 = VerifyIni(Cps3EntryExists)
+
+	switch99=TRUE
+
+
+	;//////////////////////////////
+	;// Drive Selection
+	;//////////////////////////////
+
+	:drivesel
+	TargetDrive()
+
+	switch03 = Exists(WNCPS1)
+	switch04 = Exists(WNCPS2)
+
+	switch05 = FALSE        ;Flat installation
+
+	#if(switch03)
+	    switch05 = TRUE     ;Use Subdir's
+	#endif
+
+	#if(switch04)
+	    switch05 = TRUE     ;Use subdir's
+	#endif
+                
+
+	#if(switch05)    
+	    ResetTarget(SetDataDirSub)
+	    ResetTarget(SetLangDirSub)
+	    ResetTarget(SetSystemDirSub)
+	#else
+	    ResetTarget(SetDataDirFlat)
+	    ResetTarget(SetLangDirFlat)
+	    ResetTarget(SetSystemDirFlat)
+	#endif
+
+	;//////////////////////////////
+	;// Disk Space Checking
+	;//////////////////////////////
+
+	:checkspace
+	switch95 = FALSE
+	switch96 = FALSE
+
+	switch99 = CheckDiskSpace(TARGET)
+
+	#ifnot(switch99)                                        ;not enough space
+	    DiskSpaceError(NoSpace)         ;ask user what to do  -  see [NoSpace]
+	#endif
+
+	#if(switch95)
+	    goto(drivesel)          ;change install directory
+	#endif
+
+	;//////////////////////////////
+	;// Verify Overwrite of Previous
+	;//////////////////////////////
+
+	switch31 = Exists(WNCPS1)
+	switch32 = Exists(WNCPS2)
+	switch33 = Exists(WNCPS3)
+
+	#ifnot(switch31)
+	    #ifnot(switch32)
+	        #ifnot(switch33)
+	            goto(begincopy)
+	        #endif
+	    #endif
+	#endif
+
+	switch34 = MessageYesNo(OverwritePrevious)
+	#ifnot(switch34)
+	    goto(drivesel)                  ;change install directory
+	#endif
+
+
+	;//////////////////////////////
+	;// Copy the files
+	;//////////////////////////////
+
+	:begincopy
+	CreateDirectory(DataDir)
+	CreateDirectory(LangDir)
+	CreateDirectory(SystemDir)
+
+	Delete(AVFiles)
+	DisableUtils()
+	copy()
+	EnableUtils()
+
+	;//////////////////////////////
+	;// Add CPS3 entry to win.ini
+	;//////////////////////////////
+
+	UpdateIni(Cps3Entry)
+
+
+	;//////////////////////////////
+	;// Modify wnfm.ini
+	;//////////////////////////////
+
+	switch10 = Exists(wnfm_ini)
+
+	#if(switch10)                                   ;wnfm.ini already present
+	    UpdateIni(UpdateFileComp)       ;add new File Companions info to old wnfm.ini
+	#else
+	    backup(wnfmtmp)                       ;copy wnfm.tmp to wnfm.ini
+	    UpdateIni(CpsSection)           ;Create [cps] section of wnfm.ini
+	#endif
+
+	;// Add Viewer entries to wnfm.ini
+	switch15 = IsOptionSelected(ViewerFormats)
+	#if(switch15)
+	    UpdateIni(UpdateViewerFormats)
+	#endif
+
+	switch16 = IsOptionSelected(Graphics)
+	#if(switch16)
+	    UpdateIni(UpdateGraphics)
+	#endif
+
+	switch17 = IsOptionSelected(Database)
+	#if(switch17)
+	    UpdateIni(UpdateDatabase)
+	#endif
+
+	switch18 = IsOptionSelected(Spreadsheet)
+	#if(switch18)
+	    UpdateIni(UpdateSpreadsheet)
+	#endif
+
+	switch19 = IsOptionSelected(TextViewers)
+	#if(switch19)
+	    UpdateIni(UpdateTextViewers)
+	#endif
+
+	switch20 = IsOptionSelected(MiscViewers)
+	#if(switch20)
+	    UpdateIni(UpdateMiscViewers)
+	#endif
+
+	;// Set wnfm mode
+	#if(switch01)
+	    UpdateIni(xtgmode)
+	#else
+	    UpdateIni(fmmode)
+	#endif
+
+	;//////////////////////////////
+	;// Modify pipeline.ini
+	;//////////////////////////////
+
+	switch53 = Exists(Pipeline_ini)
+	#ifnot(switch53)
+	    UpdateIni(PipelineStandard)
+	#endif
+
+	#if(switch01)
+	    UpdateIni(Pipeline_XTG)
+	#else
+	    UpdateIni(Pipeline_FM)  
+	#endif
+
+	;//////////////////////////////
+	;// ReplaceOldFSV2
+	;//////////////////////////////
+
+	switch69=CallProcEx(ReplaceFSV2)
+
+	;//////////////////////////////
+	;// Create program groups
+	;//////////////////////////////
+
+	#if(switch01)
+	    Groups(Groups_XTG)
+	#else
+    Groups(Groups_FM)
+	#endif
+
+	;//////////////////////////////
+	;// Load File Companions?
+	;//////////////////////////////
+
+	RemoveFromLoad(RemoveFC)
+
+	switch40 = MessageYesNo(LoadFC_YesNo)
+	#if(switch40)
+	    UpdateIni(AddFCtoLoadLine)
+	#endif
+
+	;//////////////////////////////
+	;// VXD's for 32bit file access
+	;//////////////////////////////
+
+	switch51 = Exists(vfat)
+	#if(switch51)
+	    AddToIni(vfathlp)
+	#endif
+
+	;//////////////////////////////
+	;// Associate .ZIP w/wnfm.exe
+	;//////////////////////////////
+
+	UpdateIni(AddZipToExt)
+
+	;//////////////////////////////
+	;// Run Pipeline
+	;//////////////////////////////
+
+	Launch(RunPipeline)
+
+	;//////////////////////////////
+	;// Clean Up
+	;//////////////////////////////
+
+	Switch69=CallProcEx(EnableVSafe)
+	delete(Leftovers)
+
+	;//////////////////////////////
+	;// Say goodbye
+	;//////////////////////////////
+
+	switch13 = IsRebootRequested()    ;have startup files changed?
+
+	#if(switch13)
+	    #if(switch01)
+	        EndNoRestart(byereboot_XTG)
+	    #else
+	        EndNoRestart(byereboot_FM)
+	    #endif
+	#else
+	    #if(switch01)
+	        End(bye_XTG)
+	    #else
+	        End(bye_FM)
+	    #endif
+	#endif
+
+	end()
+
+	;***************************************************************************
+	;* SubProc Executed When Install Takes Over As Shell
+	;***************************************************************************
+
+	[ShellSubProc]
+	Delete(AVFiles)
+	switch86 = VerifyIni(PCTWDesktopIsShell)
+	Return
+
+	;***************************************************************************
+	;* Dialog Info                                                             *
+	;***************************************************************************
+
+	[Version_XTG]
+	caption = "Searching for Compatible Product"
+	text1   = "Searching for a previous installation"
+	text2   = "of a compatible Central Point product."
+	appname = "wncps3.dll"
+	apppath = C:\XTGWIN
+
+	[Version_FM]
+	caption = "Searching for Compatible Product"
+	text1   = "Searching for a previous installation"
+	text2   = "of a compatible Central Point product."
+	appname = "wncps3.dll"
+	apppath = C:\CPS
+
+	[XTGWinCopy:CopyDialog]
+	caption = "Copying files..."
+	posx = 0
+	posy = 0
+
+	[TargetDrive]
+	caption = "Select Installation Directory"
+	defpath = C:\CPS
+	text    = "Please select the directory to which you wish to install this product."
+	reqspace= "Approximate disk space required:"
+
+	[NoSpace]
+	caption = "Insufficient Disk Space"
+	text    = idstext
+	radio1  = "&Change Drive"
+	radio2  = "C&ontinue Installation"
+	descrip1= "Choose this option to select another drive with sufficient disk space."
+	descrip2= "Choose this option to proceed with installation without regard to avaialble disk space.  WARNING: This option may result in an incomplete installation."
+	AllowContinue= 0
+
+	[idstext]
+	"There is insufficent disk space on the"
+	"current target drive (%c:).  The drive"
+	"has %u KB of space available, but the"
+	"installation will require approximately"
+	"%u KB.  Please choose one of the options"
+	"below or exit installation and delete"
+	"files to free more space."
+
+
+	;***************************************************************************
+	;* Message Text                                                            *
+	;***************************************************************************
+
+	[cancel]
+	caption = "Exit Install?"
+	text    = "Are you sure that you want to exit?"
+
+	[cancelshell]
+	caption = "Exit Install?"
+	"You have chosen to cancel the Install"
+	"program. In order to reset the Windows"
+	"environment, Install will also close"
+	"Windows. Are you sure you want to exit?"
+
+	[FileCopy]
+	copycaption             = "Installing Files"
+	errorcaption    = "Error Copying Files"
+	insertcaption   = "Insert Diskette"
+	Message                 = MessageText
+
+	[bye_XTG]
+	caption = "Installation Complete"
+	"XTreeGold for Windows has been"
+	"successfully installed."
+	" "
+	"Please select one of the exit options below."
+
+	[byereboot_XTG]
+	caption = "Installation Complete"
+	"XTreeGold for Windows has been"
+	"successfully installed."
+	" "
+	"Please select one of the exit options"
+	"below. Rebooting is recommended so that"
+	"changes made to your startup files can"
+	"take effect."
+
+	[bye_FM]
+	caption = "Installation Complete"
+	"PC Tools for Windows File Manager 3.0"
+	"has been successfully installed."
+	" "
+	"Please select one of the exit options below."
+
+	[byereboot_XTG]
+	caption = "Installation Complete"
+	"PC Tools for Windows File Manager 3.0"
+	"has been successfully installed."
+	" "
+	"Please select one of the exit options"
+	"below. Rebooting is recommended so that"
+	"changes made to your startup files can"
+	"take effect."
+
+	[WindowsVersion]
+	3.10
+	"This product requires"
+	"Windows 3.1 or greater."
+
+	[NotImplemented]
+	caption = "Feature Not Implemented"
+	"This feature has not yet been implemented."
+
+	[OverwritePrevious]
+	caption = "Overwrite Previous Files?"
+	"Install has detected previous versions"
+	"of files used by this product in the"
+	"directory you have chosen. Do you wish"
+	"to overwrite them with the new versions?"
+
+	[LoadFC_YesNo]
+	caption = "Automatically Load File Companions?"
+	"File Companions add file management"
+	"capabilities to your applications'"
+	"Open and Save dialogs. Do you wish to"
+	"have them automatically loaded each time"
+	"you start Windows?"
+
+
+	;***************************************************************************
+	;* System.ini Additions                                                    *
+	;***************************************************************************
+
+	[vfathlp]
+	IniName = system.ini
+	SectionName = 386enh
+	device = vfathlp.386
+	device = cp32sup.386
+
+
+	;***************************************************************************
+	;* System.ini Deletions                                                    *
+	;***************************************************************************
+
+
+	;***************************************************************************
+	;* Win.ini Additions                                                       *
+	;***************************************************************************
+
+	[Cps3Entry]
+	IniName = win.ini
+	SectionName = CPS
+	cps3 = %s\wnfm.ini, TARGET2
+
+	[AddFCtoLoadLine]
+	IniName= win.ini
+	SectionName = windows
+	load = %s\wnfc.exe, TARGET, append
+
+	[AddZipToExt]
+	IniName = win.ini
+	SectionName = extensions
+	zip = "%s\wnfm.exe ^.zip", TARGET
+
+
+	;***************************************************************************
+	;* Win.ini Deletions                                                       *
+	;***************************************************************************
+
+	[RemoveFC]
+	wnfc.exe
+
+
+	;***************************************************************************
+	;* wnfm.ini Modifications                                                  *
+	;***************************************************************************
+
+	[UpdateFileComp]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = FileCompanions
+	"&Copy File"="WNAPCPY.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Move File"="WNAPMOV.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Rename File"="WNAPREN.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Delete File"="WNAPDEL.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"C&ompress File"="WNAPCMP.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&Expand File"="WNAPEXP.EXE %file% /DEFD=%dir% /TOP /MI-"
+	"&View File"="WNFV.EXE %file% /DEFD=%dir% /TOP"
+	"Cre&ate Directory"="WNAPMKD.EXE /DEFD=%dir% /TOP /MI-"
+	"&Format Disk"="WNAPFMT.EXE %drive% /TOP /MI-"
+	"&SmartFind"="WNFM /SF %dir%"
+	"C&lose File Companions"=dummy.exe
+	SectionName = FileCompanionDlgs
+	CommonDlgOpen="COMMDLG.DLL,,,FileOpenDlgProc,,,,,,,1152,1088,1121"
+	CommonDlgSave="COMMDLG.DLL,,,FileSaveDlgProc,,,,,,,1152,1088,1121"
+	FileDlgsBrowse2=",,,,CPS_FileList2,112,CPS_DirTree2,109,,,105,106,100"
+	FileDlgsBrowse3=",,,,CPS3_FileList,112,CPS3_DirTree,109,,,105,106,100"
+	MSExcel5=",bosa_sdm_XL,,,EDTBX,4864,,,,,4864,,"
+	MSWord6=",bosa_sdm_Microsoft Word 6.0,,,OpusFedt,1818,,,,,1818,,"
+	AmiPro="AMIPROUI.DLL,,,,static,50,,,,,60,50,"
+	QuattroProFile=",QPWDialogWdw,File,,,,,,,,,,"
+	QuattroProWS=",QPWDialogWdw,Workspace,,,,,,,,,,"
+
+	[UpdateViewerFormats]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "ScreenCapture3.FormatLibs"
+	WNTLDTH3.dll="Dithering Transformation Library"
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnfl2bm3.dll="Vector-to-DIB conversion library"
+	SectionName = "Viewer3.FormatLibs"
+	WNTLDTH3.dll="Dithering Transformation Library"
+	wnfl2bm3.dll="Vector-to-DIB conversion library"
+
+	[UpdateTextViewers]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnfltxt3.dll="TXT,DOC,BAT,INI,RTF: Plain text"
+	wnflrtf3.dll="RTF: Rich Text Format"
+	SectionName = "Viewer3.FormatLibs"
+	wnflfon3.dll="FON,FOT,TTF: Font Viewer"
+	wnflrtf3.dll="RTF: Rich Text Format"
+	wnflwri3.dll="WRI: Windows Write"
+	wnflwfw3.dll="DOC,DOX,SAM,TXT,WP: Formatted text viewers hub"
+	wnfltxt3.dll="TXT,DOC,BAT,INI,RTF: Plain text"
+
+	[UpdateMiscViewers]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.FormatLibs"
+	wnfldsk3.dll="DSK: PC Tools DiskCopy Image File"
+	wnflzip3.dll="ZIP,ARC,PAK,ZOO,LZH,EXE: Archive formats"
+	wnflexe3.dll="EXE,DLL,CPL,RSL,DRV,386: Executable file viewer"
+	wnflwav3.dll="WAV: Waveform Audio File Format"
+	wnflhex3.dll="Hex file viewer"
+
+	[UpdateGraphics]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "ScreenCapture3.FormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	wnflgif3.dll="GIF: Compuserve Graphics Interchange Format"
+	wnfltif3.dll="TIF: Tagged Image File Format"
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	SectionName = "Viewer3.FormatLibs"
+	wnflbmp3.dll="BMP,DIB,RLE: Windows 2 & 3, OS/2 Bitmap"
+	wnflcdr3.dll="CDR: Corel Draw 2.x, 3.0"
+	wnflcgm3.dll="CGM,GMF: Computer Graphics Metafile"
+	wnflhgr3.dll="CH3,SY3: Harvard Graphics Chart"
+	wnfldrw3.dll="DRW: Micrografx Drawing"
+	wnfldxf3.dll="DXF: Autodesk Image"
+	wnfleps3.dll="EPS: Encapsulated PostScript"
+	wnflgif3.dll="GIF: Compuserve Graphics Interchange Format"
+	wnflicl3.dll="ICL,NIL: Windows 3.x Icon Library"
+	wnflico3.dll="ICO: Windows 3.x Icon"
+	wnflimg3.dll="IMG: GEM Bitmap"
+	wnfljpg3.dll="JPG,JFF: JPEG/JFIF"
+	wnflmac3.dll="MAC: MacPaint"
+	wnflmsp3.dll="MSP: Microsoft Paint"
+	wnflpcx3.dll="PCX,PCC: PC Paintbrush"
+	wnflpic3.dll="PIC: Lotus Picture"
+	wnfltif3.dll="TIF: Tagged Image File Format"
+	wnflwmf3.dll="WMF: Windows Metafile"
+	wnflwpg3.dll="WPG: WordPerfect Graphics"
+	wnfldwg3.dll="DWG: AutoCAD Drawing"
+
+	[UpdateDatabase]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.FormatLibs"
+	wnflpdx3.dll="DB:  Paradox Database"
+	wnfldbf3.dll="DBF: dBase II, III, IV"
+
+	[UpdateSpreadsheet]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "Viewer3.ClipFormatLibs"
+	wnflcsv3.dll="CSV,DLM: Comma Separated Value"
+	SectionName = "Viewer3.FormatLibs"
+	wnflcsv3.dll="CSV,DLM: Comma Separated Value"
+	wnflqpw3.dll="WB1: Quattro Pro for Windows"
+	wnflwk33.dll="WK3: Lotus 1-2-3 rls. 3"
+	wnflwks3.dll="WKS,WK1: Lotus 1-2-3 rls. 1a & rls. 2"
+	wnflqp3.dll="WKQ,WQ1: Quattro Pro for DOS"
+	wnflxls3.dll="XLS,XLC,XLM: Microsoft Excel v. 2, 3, 4"
+
+	[CpsSection]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = CPS
+	BaseDir = %s,TARGET
+	DataDir = %s,TARGET2
+	LanguageDir = %s,TARGET3
+	SystemDir = %s,TARGET4
+
+	[xtgmode]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "FMGold.Settings"
+	XTGold = 1
+	SectionName = "FMGold.ViewTabs.Default"
+	Misc = "3,1,404,a00b,5004,36,0,0,0,0,0,0,0"
+
+	[fmmode]
+	IniName = %s\wnfm.ini, TARGET2
+	SectionName = "FMGold.Settings"
+	XTGold = 0
+
+	;***************************************************************************
+	;* Pipeline.ini modifications
+	;***************************************************************************
+
+	[PipelineStandard]
+	IniName = %s\pipeline.ini, TARGET2
+	SectionName="PROGRAM"
+
+	SectionName="DEFAULTS"
+	Phone_number="0422 181 139"
+	Wallpaper=cpswall.bmp
+	Login1=cps10301
+	Login2=centralp
+	ssfilename=$(Home)\slidshow.fss
+	sshow=Registration
+	Hostname="Central Point"
+
+	SectionName="MD"
+	sshow=Registration
+
+	SectionName="REGISTER"
+	sshow=Registration
+
+	SectionName="ORDER"
+	sshow=Order
+	sku=123456
+	infofile=order2.ini
+
+	SectionName="ORDERMD"
+	sshow=Order
+
+	SectionName="Modem"
+	"Initialization String"=ATX4L1
+	"Dial Type"=1
+	"Require 1 before 800"=1
+
+	SectionName="Personal"
+	Country = USA
+
+
+	[Pipeline_XTG]
+	IniName = %s\pipeline.ini, TARGET2
+	SectionName="REGISTER"
+	Identity=0
+
+	SectionName="Products Installed"
+	"XTreeGold for Windows" = 0
+
+	SectionName="XTreeGold for Windows"
+	"XTreeGold for Windows 4.0 (Retail)"= 1100.01612
+
+
+	[Pipeline_FM]
+	IniName = %s\pipeline.ini, TARGET2
+	SectionName="REGISTER"
+	Identity=0
+
+	SectionName="Products Installed"
+	"PCTW File Manager 3.0" = 0
+
+	SectionName="PCTW File Manager 3.0"
+	"PCTW File Manager 3.0 (OEM)"       = 1100.01615
+
+
+	;***************************************************************************
+	;* Ini Verifications                                                       *
+	;***************************************************************************
+
+	[Cps3EntryExists]
+	IniName = win.ini
+	SectionName = cps
+	cps3 = *
+
+	[PCTWDesktopIsShell]
+	IniName = system.siw
+	SectionName = boot
+	shell = *wndt*
+
+	;***************************************************************************
+	;* File Exist verifications
+	;***************************************************************************
+
+	[wncps1]
+	wncps1.dll, TARGET
+
+	[wncps2]
+	wncps2.dll, TARGET
+
+	[wncps3]
+	wncps3.dll, TARGET
+
+	[wnfm_ini]
+	wnfm.ini, TARGET2
+
+	[vfat]
+	vfat.386, SYSTEM
+
+	[pipeline_ini]
+	pipeline.ini, TARGET2
+
+	;***************************************************************************
+	;* Delete Files                                                            *
+	;***************************************************************************
+
+	[Leftovers]
+	supp3.dll,              WINDOWS
+	wnfm.tmp,     TARGET2
+	smartchk.cps,   TARGET
+	chklist.cps,    TARGET
+	smartchk.cps,   TARGET2
+	chklist.cps,    TARGET2
+	smartchk.cps,   TARGET3
+	chklist.cps,    TARGET3
+	smartchk.cps,   TARGET4
+	chklist.cps,    TARGET4
+	smartchk.cps,   SYSTEM
+	chklist.cps,    SYSTEM
+	smartchk.cps,   WINDOWS
+	chklist.cps,    WINDOWS
+	setup.exe,      SYSTEM
+
+	[AVFiles]
+	smartchk.cps,   TARGET
+	chklist.cps,    TARGET
+	smartchk.cps,   TARGET2
+	chklist.cps,    TARGET2
+	smartchk.cps,   TARGET3
+	chklist.cps,    TARGET3
+	smartchk.cps,   TARGET4
+	chklist.cps,    TARGET4
+	smartchk.cps,   SYSTEM
+	chklist.cps,    SYSTEM
+	smartchk.cps,   WINDOWS
+	chklist.cps,    WINDOWS
+
+	;***************************************************************************
+	;* External function calls                                                 *
+	;***************************************************************************
+
+	[ReplaceFSV2]
+	dll=supp3.dll
+	function=supp_ReplaceOldFsv
+
+	[DisableVSafe]
+	dll=supp3.dll
+	function=supp_DisableVSafe
+
+	[EnableVSafe]
+	dll=supp3.dll
+	function=supp_EnableVSafe
+	
+	;***************************************************************************
+	;* Misc install functions                                                  *
+	;***************************************************************************
+
+	[Pix_XTG]
+	color = %s\bigred.rle
+	color = %s\xtgpic.rle
+	color = %s\xtg.rle, 1, 1
+	color = %s\cpslogo.rle, -1, 1
+
+	[Pix_FM]
+	color = %s\bigred.rle
+	color = %s\fm.rle, 1, 1
+	color = %s\cpslogo.rle, -1, 1
+
+	[SetDataDirSub]
+	Reset   = TARGET2
+	Location= %s, TARGET
+
+	[SetLangDirSub]
+	Reset   = TARGET3
+	Location= %s\english, TARGET
+
+	[SetSystemDirSub]
+	Reset   = TARGET4
+	Location= %s\system, TARGET
+
+	[SetDataDirFlat]
+	Reset   = TARGET2
+	Location= %s, TARGET
+
+	[SetLangDirFlat]
+	Reset   = TARGET3
+	Location= %s, TARGET
+
+	[SetSystemDirFlat]
+	Reset   = TARGET4
+	Location= %s, TARGET
+
+	[DataDir]
+	%s ,TARGET2
+
+	[LangDIr]
+	%s, TARGET3
+
+	[SystemDir]
+	%s, TARGET4
+
+	[RunPipeline]
+	"%s\register.exe", TARGET
+
+	;***************************************************************************
+	;* File backup                                                             *
+	;***************************************************************************
+
+	[supp3dll]
+	supp3.dll, supp3.dll, SOURCE, WINDOWS
+
+	[wnfmtmp]
+	wnfm.tmp, wnfm.ini, TARGET2, TARGET2
+
+	;***************************************************************************
+	;* Config.sys mods                                                         *
+	;***************************************************************************
+
+	;***************************************************************************
+	;* Autoexec Mods                                                           *
+	;***************************************************************************
+
+	;***************************************************************************
+	;* SetShell section                                                        *
+	;***************************************************************************
+
+	[SetShell]
+	WinIniName = win.ini
+	SystemIniName = system.ini
+	Message = MessageBox.SetShellMessage
+	SysSectionName = boot
+	WinSectionName = windows
+	shell = %s\setup.exe
+	load =
+	run =
+	SetShellIfLoaded=
+	Backup = Backup.SetShellSave
+	Restore= Backup.SetShellRestore
+	Active = yes
+	IfActiveList=LoadedList
+	SubProcess=ShellSubProc
+
+	[SetShellSave]
+	win.ini, win.siw, WINDOWS, WINDOWS
+	system.ini, system.siw, WINDOWS, WINDOWS
+
+	[SetShellRestore]
+	system.siw, system.ini, WINDOWS, WINDOWS
+	win.siw, win.ini, WINDOWS, WINDOWS 
+
+	[LoadedList]
+	wncps1.dll
+	wncps2.dll
+	wncps3.dll
+
+	[SetShellMessage]
+	caption = "Install Program"
+	"Welcome to Install.  You are currently"
+	"running programs that may need to be"
+	"overwritten during installation.  Please
+	"select OK to allow Install to restart"
+	"Windows and continue the installation."
+	"Press Cancel if you wish to exit Install."
+
+	;***************************************************************************
+	;* Groups                                                                  *
+	;***************************************************************************
+
+	[Groups_XTG]
+	"XTreeGold for Windows 10.0", xtgwin4.grp
+
+	[XTreeGold for Windows 10.0]
+	"Read Me",                      readme.wri,             RequiredFiles
+	"XTreeGold",                    wnfm.exe,               FileManager, 1,, wnfm.exe, TARGET
+	"File Companions",              wnfc.exe,               FileCompanions
+	"File Viewer",                  wnfv.exe,               ViewerApp
+	"File Compare",                 wnapcom.exe,            FileApplets
+	"Synchronize Directories",      wnapsyn.exe,            FileApplets
+	"SmartFind",                    "wnfm.exe /SF",         FileManager, 2,, wnfm.exe, TARGET
+	"Electronic Registration",      register.exe,           RequiredFiles
+	"Uninstall XTreeGold for Windows 4.0",    "setup.exe /u",RequiredFiles, 1,, instbin.exe, TARGET
+
+	[Groups_FM]
+	"PCTW File Manager 3.0", pctwfm3.grp
+
+	[PCTW File Manager 3.0]
+	"Read Me",                      readme.wri,             RequiredFiles
+	"File Manager",                 wnfm.exe,               FileManager
+	"File Companions",              wnfc.exe,               FileCompanions
+	"File Viewer",                  wnfv.exe,               ViewerApp
+	"File Compare",                 wnapcom.exe,            FileApplets
+	"Synchronize Directories",      wnapsyn.exe,            FileApplets
+	"SmartFind",                    "wnfm.exe /SF",         FileManager, 2,, wnfm.exe, TARGET
+	"Electronic Registration",      register.exe,           RequiredFiles
+	"Uninstall PCTW File Manager 3.0",    "setup.exe /u",RequiredFiles, 1,, instbin.exe, TARGET
+
+
+	;***************************************************************************
+	;* Copy                                                                    *
+	;***************************************************************************
+
+	[XTGWinCopy]
+	;SelectionType.ComponentName,   "SelectionDlgText",                             Size,   Required?,      FilesButton?,   ShowItem?
+
+	CopyMain.RequiredFiles,                 "Required Files - %ldK",                        0,              Y,      N,      Y
+
+	CopyMain.FileManager,                   "File Manager Gold - %ldK",                     0,              N,      N,      Y
+
+	CopyMain.OtherStuff,                    "Other Stuff - %ldK",                           0,              N,      Y,      Y
+	CopySub.ViewerApp,              "File Viewer Application - %ldK",                       0
+	CopySub.FileCompanions,         "File Companions - %ldK",                       0
+	CopySub.FileApplets,            "File Accesories - %ldK",                       0
+
+	CopyMain.ViewerFormats,         "File Viewers - %ldK",                          0,              N,      Y,      Y
+	CopySub.Graphics,               "Graphics Viewers - %ldK",                      0
+	CopySub.TextViewers,            "Text Viewers - %ldK",                          0
+	CopySub.Spreadsheet,            "Spreadsheet Viewers - %ldK",                           0
+	CopySub.Database,               "Database Viewers - %ldK",                      0
+	CopySub.MiscViewers,            "Misc Viewers - %ldK",                          0
+
+	º          PipOS Install          º
+ 	º      For Windows Applications      º
+ 	º                                    º
+ 	º        Copyright  2025- Infinite        º
+ 	º        Symantec Corporation        º
+
+ 	Please wait ....
+	Loading %s
+ 	Win.com Win.com Win.com 
+
+	Unable to locate %s.			
+	Make sure that your Windows directory is in the path statement.
+	 Win.com 
+
+	Not enough memory to load %s.
+ 
+
+	Error %d in DOS STUB. 						
+	Please contact Technical Support.
+
+	- stack overflow
+	  R6003
+	- integer divide by 0
+ 	 R6009
+	- not enough space for environment 
+	 ÿ run-time error   R6002
+	- floating-point support not loaded
+	  R6001
+	- null pointer assignment
+
+
+	import ipfs
+
+	{
+	"API": {
+		"HTTPHeaders": {
+			"Access-Control-Allow-Origin": [
+				"https://webui.ipfs.io",
+				"http://webui.ipfs.io.ipns.localhost:8080"
+			]
+		}
+	},
+	"Addresses": {
+		"API": "/ip4/127.0.0.1/tcp/5001",
+		"Announce": [],
+		"AppendAnnounce": [],
+		"Gateway": "/ip4/127.0.0.1/tcp/8080",
+		"NoAnnounce": [],
+		"Swarm": [
+			"/ip4/0.0.0.0/tcp/4001",
+			"/ip6/::/tcp/4001",
+			"/ip4/0.0.0.0/udp/4001/quic",
+			"/ip4/0.0.0.0/udp/4001/quic-v1",
+			"/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
+			"/ip6/::/udp/4001/quic",
+			"/ip6/::/udp/4001/quic-v1",
+			"/ip6/::/udp/4001/quic-v1/webtransport"
+		]
+	},
+	"AutoNAT": {},
+	"Bootstrap": [
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmNnooDu7bfjPFoTZYxMNLWUQJyrVwtbZg5gBMjTezGAJN",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmQCU2EcMqAqQPR2i9bChDtGNJchTbq5TbXJJ16u19uLTa",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb",
+		"/dnsaddr/bootstrap.libp2p.io/p2p/QmcZf59bWwK5XFi76CZX8cbJ4BhTzzA3gU1ZjYZcYW3dwt",
+		"/ip4/104.131.131.82/tcp/4001/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
+		"/ip4/104.131.131.82/udp/4001/quic/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ"
+	],
+	"DNS": {
+		"Resolvers": {}
+	},
+	"Datastore": {
+		"BloomFilterSize": 0,
+		"GCPeriod": "1h",
+		"HashOnRead": false,
+		"Spec": {
+			"mounts": [
+				{
+					"child": {
+						"path": "blocks",
+						"shardFunc": "/repo/flatfs/shard/v1/next-to-last/2",
+						"sync": true,
+						"type": "flatfs"
+					},
+					"mountpoint": "/blocks",
+					"prefix": "flatfs.datastore",
+					"type": "measure"
+				},
+				{
+					"child": {
+						"compression": "none",
+						"path": "datastore",
+						"type": "levelds"
+					},
+					"mountpoint": "/",
+					"prefix": "leveldb.datastore",
+					"type": "measure"
+				}
+			],
+			"type": "mount"
+		},
+		"StorageGCWatermark": 90,
+		"StorageMax": "10GB"
+	},
+	"Discovery": {
+		"MDNS": {
+			"Enabled": true
+		}
+	},
+	"Experimental": {
+		"AcceleratedDHTClient": false,
+		"FilestoreEnabled": false,
+		"GraphsyncEnabled": false,
+		"Libp2pStreamMounting": false,
+		"OptimisticProvide": false,
+		"OptimisticProvideJobsPoolSize": 0,
+		"P2pHttpProxy": false,
+		"StrategicProviding": false,
+		"UrlstoreEnabled": false
+	},
+	"Gateway": {
+		"APICommands": [],
+		"HTTPHeaders": {
+			"Access-Control-Allow-Headers": [
+				"X-Requested-With",
+				"Range",
+				"User-Agent"
+			],
+			"Access-Control-Allow-Methods": [
+				"GET"
+			],
+			"Access-Control-Allow-Origin": [
+				"*"
+			]
+		},
+		"NoDNSLink": false,
+		"NoFetch": false,
+		"PathPrefixes": [],
+		"PublicGateways": null,
+		"RootRedirect": ""
+	},
+	"Identity": {
+		"PeerID": "12D3KooWAdgpXJpn5L1U3PxXDQMJ2efZvudA1L8KCuq7jKM6131B"
+	},
+	"Internal": {},
+	"Ipns": {
+		"RecordLifetime": "",
+		"RepublishPeriod": "",
+		"ResolveCacheSize": 128
+	},
+	"Migration": {
+		"DownloadSources": [],
+		"Keep": ""
+	},
+	"Mounts": {
+		"FuseAllowOther": false,
+		"IPFS": "/ipfs",
+		"IPNS": "/ipns"
+  		"APFS": "/apfs", "APNS": "/apns",
+ 		"IPFS": "/ipfs", "IPNS": "/ipns",
+ 		"BTFS": "/btfs", "BTNS": "/btns",
+ 		"NTFS": "/ntfs", "NTNS": "/ntns",
+  		"NFS": "/nfs",  "NNS": "/nns",
+ 		"ZFS": "/zfs",  "ZNS": "/zns",
+ 		"XFS": "/xfs",  "XNS": "/xns",
+		"FAT": "/fat",  "FNS": "/fns",
+		"EXT": "/ext",  "ENT": "/ent",
+  		"PMT": "/pmt",  "PNT": "/pnt",
+		"RFS": "/rfs",  "RNS": "/rns",
+	},
+	"Peering": {
+		"Peers": null
+	},
+	"Pinning": {
+		"RemoteServices": {}
+	},
+	"Plugins": {
+		"Plugins": null
+	},
+	"Provider": {
+		"Strategy": ""
+	},
+	"Pubsub": {
+		"DisableSigning": false,
+		"Router": ""
+	},
+	"Reprovider": {},
+	"Routing": {
+		"Methods": null,
+		"Routers": null
+	},
+	"Swarm": {
+		"AddrFilters": null,
+		"ConnMgr": {},
+		"DisableBandwidthMetrics": false,
+		"DisableNatPortMap": false,
+		"RelayClient": {},
+		"RelayService": {},
+		"ResourceMgr": {
+			"Limits": {}
+		},
+		"Transports": {
+			"Multiplexers": {},
+			"Network": {},
+			"Security": {}
+		}
+	}
+	}
+
 
 	
 	### CORE COSMIC COSMOS COVID PIP CPU CORE SCIENCE and THE PERIODIC TABLE of ELEMENTS and STARS.
@@ -1073,71 +2857,71 @@
     # --- CORE ∑QUATION BREAKDOWN MANIFESTO ---
     # Breakdown of CORE compenents mastered or completed.
 
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑]den.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)denically.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)soterically.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)agles.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagan [R]ises [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)quations.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)lectricity.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)nergon.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)ffectively.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)mittance.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)mitters.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)nhancements.",
-    "CORE": "[C]hristopher [O]Hagans [R]unning [∑)nhances.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)nhanced.",
-    "CORE": "[C]hristopher [O]Hagans [R]uns [∑)nhancing.",
-    "CORE": "[C]hristopher [O]Hagan [R]uns [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagan [R]easons [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]emembers [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagans [R]easoning [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]ationalising [∑)quations.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolutions [∑)volutions.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volving.",
-    "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]emembers [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagans [R]easoning [∑]volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]ationalising [∑)quations.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolutions [∑)volutions.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolutions [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volutions.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volving.",
-    "CORE": "[C]hristopher [O]Hagan [R]evolution [∑)mitters.",
-    "CORE": "[C]hristopher [O]Hagan [R]evolution [∑)missions.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)quations.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)mbassy.",
-    "CORE": "[C]hristopher [O]Hagan [R]emembers [∑)mbers.",
-    "CORE": "[C]hristopher [O]Hagans [R]easoning [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]ationalising [∑)quated.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)nergy.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolutions [∑)volutions.",
-    "CORE": "[C]hristopher [O]Hagans [R]estoration [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]estoration [∑)nterprises.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolving [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagans [R]evolution [∑)volving.',
-    "CORE": "[C]hristopher [O]Hagan [R]estores [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagan [R]estores [∑)arth.",
-    "CORE": "[C]hristopher [O]Hagan [R]estores [∑)verything.",
-    "CORE": "[C]hristopher [O]Hagan [R]estores [∑)sotericism.",
-    "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)volution.",
-    "CORE": "[C]hristopher [O]Hagan [R]eturns [∑)verything.",
-	"CORE": "[C]hristopher [O]Hagan [R]esponsible [∑)arth.",
-    "CORE": "[C]hristopher [O]Hagans [R]esponsible [∑)ngineering.",
-	"CORE": "[C]hristopher [O]Hagan [R]elative [∑)arth.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]den.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]denically.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]soterically.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]agles.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]ises [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]quations.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]lectricity.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]nergon.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]ffectively.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]mittance.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]mitters.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]nhancements.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]unning [∑]nhances.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]nhanced.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]nhancing.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]uns [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]easons [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]esponsible [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]easoned [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]ationalising [∑]quations.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolving [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolutions [∑]volutions.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolving [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volving.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]esponsible [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]easoning [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]ationalising [∑]quations.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolving [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolutions [∑]volutions.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolutions [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volutions.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]esonating [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]ightiousness [∑]volving.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]evolution [∑]mitters.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]evolution [∑]missions.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]quations.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]mbassy.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]emembers [∑]mbers.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]easoning [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]ationalising [∑]quated.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]eturned [∑]nergy.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]otary [∑]volutions.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]estoration [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]estoration [∑]nterprises.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]esolving [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volving.',
+    "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]arth.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]verything.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]sotericism.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]eturns [∑]volution.",
+    "[CORE]": "[C]hristopher [O]Hagan [R]eturns [∑]verything.",
+	"[CORE]": "[C]hristopher [O]Hagan [R]esponsible [∑]arth.",
+    "[CORE]": "[C]hristopher [O]Hagans [R]esponsible [∑]ngineering.",
+	"[CORE]": "[C]hristopher [O]Hagan [R]elative [∑]arth.",
 	}
 
 	{
