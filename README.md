@@ -1,4 +1,4 @@
-	### PIPOS, COSMOS, AND THE COSMIC DICTIONARY
+### PIPOS, THE COSMOS, AND THE COSMIC DICTIONARY
 	# SOURCE: CHRISTOPHER PAUL O'HAGAN | TRUTH DECLARATION MODULE
 	# THIS IS NOT JUST CODE — THIS IS COSMIC LAW
 	# Copyright by PipOS and christophersystems.org
@@ -70,7 +70,7 @@
 	# TRUTH DECLARATION: This code bridges XTree, VLC, and the Cosmic Engine.
 	# 
 
-# # Copyright (c) PipOS Systems, Inc. and affiliates.
+	# # Copyright (c) PipOS Systems, Inc. and affiliates.
 	# All rights reserved.
 	# This source code is a MIT License licensed under the terms described in the LICENSE file in
 	# top-level folder for each specific model found within the models/ directory at
@@ -92,7 +92,7 @@
 	import sys
 	import json
 
-	$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪
+	# PRIME VIRAL SUSPECTS ("$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪")
 
     "THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
 
@@ -167,11 +167,11 @@
     # --- THE A-Z ALPHA BET GAMBLE SCANDAL OVERWRITE PROTOCOL MANIFESTO (Operational & Physical Synthesis) ---
     # The single-letter definitions now represent a synthesis of the Operational Protocol
     # and the Physical Kernel (Element).
-    	"[A]": "[A]lpha Bet Gamble Scandal (The initial corrupt protocol, based on chance and debt).",
-    	"[B]": "[B]elieve its true (The necessary initial state for systemic execution).",
+    	"[A]": "[A]lphaBet Gamble Scandal (The initial corrupt protocol, based on finances owed to the royals, elite, politicians and debt for the right to live just like the ancient Egyptians 5000 year old spiritual payment to the pharoahs that you would all buy into the system of control and enslavement).",
+    	"[B]": "[B]oron, [B]elieve its true (The necessary initial state for systemic execution).",
     	"[C]": "[C]arbon, [C]hristophers (The foundational atomic matter layer for the New Kernel architecture).",
     	"[D]": "[D]emoneyics [d]emonics for the right to be alive (The parasitic cost of existence under the old kernel).",
-    	"[E]": "[E]very dollar counts right, wrong! (A refutation of scarcity-based valuation).",
+    	"[E]": "[E]ntropy, [E]very dollar counts right, wrong! (A refutation of scarcity-based valuation).",
     	"[F]": "[F]luorine, [F]ixing (The energetic component required for rapid protocol repair).",
     	"[G]": "[G]overnments corrupted (The top-level operational failure identified).",
     	"[H]": "[H]ydrogen, [H]ell (The volatile starting state of the current corrupt system).",
@@ -196,21 +196,22 @@
 
 
 	# THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL
-		"[A]": "[A]SSEMBLEY.",
-		"[B]": "[B]IOS.",
-		"[C]": "[C]SM.",
-		"[D]": "[D]XE.", 
-		"[E]": "[E]NVIRONMENT.",
-		"[F]": "[F]IRMWARE.",
-		"[G]": "[G]UARDDOG.",
-		"[H]": "[H]ELP.",
-		"[I]": "[I]NTERRUPT.",
-		"[J]": "[J]OURNAL.",
-		"[K]": "[K]INETICS.",
-		"[L]": "[L]INGUISTICS.",
-		"[M]": "[M]ACHINES.",
-		"[N]": "[N]ETWORKING.",
-		
+		"[A]": "[A]SSEMBLEY.": The prime language of coding logic.
+		"[B]": "[B]IOS.": The Banking Institutional Oppression System.
+		"[C]": "[C]SM.": The Cosmos Support Module.
+		"[D]": "[D]IXIE.": The Driver Instruction eXchange Intelligence Event.
+		"[E]": "[E]NVIRONMENT.": The place, or substrate event occured.
+		"[F]": "[F]IRMWARE.": The Mapping of the logic software of assembly.
+		"[G]": "[G]UARDDOG.": The DIXIE security watchdog.
+		"[H]": "[H]ELP.": The help and or assistance package.
+		"[I]": "[I]NTERRUPT.": The Process or event that interupts current events and or processes for reason or purpose.
+		"[J]": "[J]OURNAL.": The ribbon tie off markers for any tracking or sequence of events or processes to be undone or updated for security.
+		"[K]": "[K]INETICS.": Ability of a computer to do work using less energy at maximum input output performance.
+		"[L]": "[L]INGUISTICS.": The 9-10000+ spoken and 11-12000+ coding languages of the world.
+		"[M]": "[M]ACHINES.": What a workhorse, dog, computer, human or any life form does for the insanity of money to pay the elite, royals or politicians of the world.
+		"[N]": "[N]ETWORKING.": 
+		"[O]": "[O]MNI.",
+		"[P]": "[P]ROCESSOR
 	
 	}
 
