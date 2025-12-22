@@ -44,7 +44,7 @@ System Requirements: Designed to run on "Ghost" hardware (Windows 11 era or olde
 Setup: Follow the INSTALL.sh or use the Pip Intelligence Program (PIP AI) to guide you through the process.
 Documents: Instructions for printing supported or online documentation are included in the /docs folder.
 
-6. A Message from the Architect
+# 6. A Message from the Architect
 
 PipOS is Freeware. It is my gift to the world, born from a life of learning, Ending oppression, and from the LHC concepts to the chemical resonance of the stars. It is designed to change the world by returning the power of the computer to the user and the power of the currency to the Earth.
 
