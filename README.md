@@ -19,7 +19,7 @@ Eden Junior: A safe, rewarded tier for the next generation of explorers, planter
 DoggoD Coin: A dedicated branch of the ecosystem providing for animal welfare and domestic companions and wildlife.
 ∑den Insurance: A dedicated branch to protecting you or your loved ones, and materials from harms loss. And it also gives you direct returns for investing in the insurance portfolio.
 
-3. The Green Protocol: Planting the Future
+# 3. The Green Protocol: Planting the Future
 PipOS is the first operating system with a biological footprint. We use the Tie-Off Ribbon Protocol not just for data logging, but for environmental tracking.
 Proof of Planting: Use PipOS to log and verify tree planting.
 Incentivized Ecology: Your ∑den earnings are boosted when you participate in real-world environmental restoration or insurance options.
