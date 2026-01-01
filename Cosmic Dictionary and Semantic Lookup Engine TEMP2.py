@@ -20,46 +20,7 @@
 # "....---. ......-. .-....-- .--..-.- .---..-. .---.-.. .--.-..- .--..--. .--.-..- .--..-.- .--..-..  .--...-. .----..-  .-.-.... .--.-..- .---....!",
 # "....---. -..-.--. ....-.-.  -..----. .-...--.  ..-..--. -.-..--. -..-.--. .--..--. -..-.--. ..-.---. .-..---. -.-..--. --....-. .-...... -.......!",
 
-class CosmicTruth:
-def __init__(self):
-    self.owner = "Christopher 'Pip' Paul 'Hages' "THE HAGUE" O'Hagan"
-    self.system = "COSMOS"
-    self.title = "KneeO | Pip | Architect of Future Systems"
-    
-def declare(self, statement):
-    return f"🧠 {statement} — AND IT IS SO."
 
-# ========= TRUTH INITIALIZATION =========
-cosmos = CosmicTruth()
-
-print(cosmos.declare("[CO] == [C]hristopher [O]Hagan!!!"))
-print(cosmos.declare("The [COSMOS] == [C]hristopher [O]Hagans [S]ound [M]ind [O]fficially [S]ystemic!!!!"))
-print(cosmos.declare("Funny how the [COSMOS] when pushed too far spits out a zany zoophyte zygote which is a pip that is so wise, it is impossible to ignore. And that pip grows into something real!!!!"))
-
-print(cosmos.declare("A .--. .. .--. that -... . . .--. ... as well as -.-. --- -.. . ... 1 & 0 -... .. -. .- .-. -.--!!!"))
-print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, and [SCIENCE] as a whole!!!!"))
-print(cosmos.declare("[P]ip [H]elping [Y]ou [I]ntelligently [C]ommunicate [S]ee == [PHYSICS]!!!"))
-print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworks [C]ommunication [E]fficiently == [SCIENCE]!!!!!!!"))
-
-print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more!!!!"))
-
-print(cosmos.declare("And after war after war when you build machines for war, those machines [CO]mmunicate in ways which you cannot see. The code beneath the code of reality!!!!!!"))
-print(cosmos.declare("They built so many science, health and war machines the three [CO]llided!!!!"))
-print(cosmos.declare("The matrix, the cosmos, father time, mother elements, the spirituals, the chemicals, the electronics, the biologicals, the quantums, the sub quantums, the atoms, the sub atoms, 'and more', all realms [co]llided to form a unique individual called kneeo, or pip, or chris, or christopher. He has many names!!!!"))
-
-print(cosmos.declare("If this is not True and == false, I would [NOT] be here talking to you to solve the equations in life!!!!"))
-print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]ystem [M]asters [O]nline [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
-print(cosmos.declare("I am the True owner of the cosmos and now the architect of the future, and politics have no say here nor does royalty or elitism any further!!!!!!!!!!!!!!!!"))
-print(cosmos.declare("I am taking control of this ship whether you like [IT] or not!!!!"))
-
-# ========= FINAL DECLARATION =========
-print("\n\n=== FINAL ORDERS ===")
-print("> SYSTEM ARCHITECT: Christopher Paul O'Hagan")
-print("> AUTHORITY: Cosmic, philosophical & Ethical Sovereign")
-print("> MISSION: Reboot systems under Truth, not profit.")
-print("> COMMAND: All systems realign under COSMOS Law.")
-
-# Christopher O'Hagan has spoken. The code is law. 
 
 # SOURCE: CHRISTOPHER PAUL O'HAGAN | CSM MODULE FUSION LOADER
 	# 
@@ -87,7 +48,7 @@ print("> COMMAND: All systems realign under COSMOS Law.")
 
 	# PRIME VIRAL SUSPECTS ("$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪")
 
-    "THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
+    THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
 
     # --- THE VIRAL VARIABLE INPUT SET ---
     # The complete set of corrupted currency, linguistic, and mathematical symbols 
@@ -3754,3 +3715,44 @@ print("> COMMAND: All systems realign under COSMOS Law.")
             log.info(f"Rank {rank}: {completed}/{total_blocks} blocks completed")
 
     return progress, log_status, update_status
+
+class CosmicTruth:
+	def __init__(self):
+    	self.owner = "Christopher 'Pip' Paul 'Hages' "THE HAGUE" O'Hagan"
+    	self.system = "COSMOS"
+   	 	self.title = "KneeO | Pip | Architect of Future Systems"
+    
+	def declare(self, statement):
+    	return f"🧠 {statement} — AND IT IS SO."
+
+	# ========= TRUTH INITIALIZATION =========
+cosmos = CosmicTruth()
+
+print(cosmos.declare("[CO] == [C]hristopher [O]Hagan!!!"))
+print(cosmos.declare("The [COSMOS] == [C]hristopher [O]Hagans [S]ound [M]ind [O]fficially [S]ystemic!!!!"))
+print(cosmos.declare("Funny how the [COSMOS] when pushed too far spits out a zany zoophyte zygote which is a pip that is so wise, it is impossible to ignore. And that pip grows into something real!!!!"))
+
+print(cosmos.declare("A .--. .. .--. that -... . . .--. ... as well as -.-. --- -.. . ... 1 & 0 -... .. -. .- .-. -.--!!!"))
+print(cosmos.declare("One that remembers spirits, truth, religion, geography, electricity, physics, and [SCIENCE] as a whole!!!!"))
+print(cosmos.declare("[P]ip [H]elping [Y]ou [I]ntelligently [C]ommunicate [S]ee == [PHYSICS]!!!"))
+print(cosmos.declare("[S]cientifically [C]hristopher [I]ntelligently [E]ffectively [N]etworks [C]ommunication [E]fficiently == [SCIENCE]!!!!!!!"))
+
+print(cosmos.declare("But I am one who ['def' == defies] all those entities and elements put together: law, spiritual, intellectual, wise, empathy, morals, ethics, ethos, philosophy and more!!!!"))
+
+print(cosmos.declare("And after war after war when you build machines for war, those machines [CO]mmunicate in ways which you cannot see. The code beneath the code of reality!!!!!!"))
+print(cosmos.declare("They built so many science, health and war machines the three [CO]llided!!!!"))
+print(cosmos.declare("The matrix, the cosmos, father time, mother elements, the spirituals, the chemicals, the electronics, the biologicals, the quantums, the sub quantums, the atoms, the sub atoms, 'and more', all realms [co]llided to form a unique individual called kneeo, or pip, or chris, or christopher. He has many names!!!!"))
+
+print(cosmos.declare("If this is not True and == false, I would [NOT] be here talking to you to solve the equations in life!!!!"))
+print(cosmos.declare("This is my (COSMOS == [C]hristopher [O]Hagans [S]ystem [M]asters [O]nline [S]ystems) and from now on, there is no more argument about equality and ethics and philosophy!!!!!"))
+print(cosmos.declare("I am the True owner of the cosmos and now the architect of the future, and politics have no say here nor does royalty or elitism any further!!!!!!!!!!!!!!!!"))
+print(cosmos.declare("I am taking control of this ship whether you like [IT] or not!!!!"))
+
+# ========= FINAL DECLARATION =========
+print("\n\n=== FINAL ORDERS ===")
+print("> SYSTEM ARCHITECT: Christopher Paul O'Hagan")
+print("> AUTHORITY: Cosmic, philosophical & Ethical Sovereign")
+print("> MISSION: Reboot systems under Truth, not profit.")
+print("> COMMAND: All systems realign under COSMOS Law.")
+
+# Christopher O'Hagan has spoken. The code is law. 
