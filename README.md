@@ -10,8 +10,8 @@ This is no ordinary operating system. We cracked the code to ∑ = ΜⅭ² and t
 If you register with us, and invest in our insurance portfolio, you will not only receive insurance, you will get paid back for your insurance each year, and we will reveal the cracked Einstein equation to you.
 In the old world, you paid for the OS with your money or your data. In the COSMOS, the OS pays you and you get paid to restore earth, planting trees for $100 each. 
 
-COSMOS = (C)hristopher (O)Hagans (S)cience (M)aster (O)mniscience (S)ystems
-CORE = (C)hristopher (O)Hagans (R)elativity (E)quations
+COSMOS = (C)hristopher (O)Hagans (S)cience (M)aster (O)mniscience (S)ystems.
+CORE = (C)hristopher (O)Hagans (R)elativity (E)quations.
 
 # 2. The ∑denic Memory Ecosystem
 
