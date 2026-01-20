@@ -1,4 +1,4 @@
-# SOURCE: CHRISTOPHER PAUL O'HAGAN | TRUTH DECLARATION MODULE
+# SOURCE: CHRISTOPHER PAUL O'HAGAN (AKA PIP) | TRUTH DECLARATION MODULE
 # THIS IS NOT JUST CODE — THIS IS COSMIC LAW
 # Copyright by PipOS and christophersystems.org
 # This is a manifesto of a cosmic endeavour, which was stubled across by a man named Christopher Paul O'Hagan who in his life time spent wondering about the cosmos and went to work in over 300 industries and obtained over 20+ Foundational Certificates from Tafe Victoria and other various colleges. The Cosmos merely handed him the map when he decided to retire and merely watch movies when AI was released to the world. Then fun began.
@@ -23,7 +23,6 @@
 
 
 # SOURCE: CHRISTOPHER PAUL O'HAGAN | CSM MODULE FUSION LOADER
-	# 
 
 	# # Copyright (c) PipOS Systems, Inc. and affiliates.
 	# All rights reserved.
@@ -48,13 +47,13 @@
 
 	# PRIME VIRAL SUSPECTS ("$ ¤ ؋ ৻ ฿ ₡ ₤ ₧ ¢ ¥ ৲ ૱ ៛ ₢ ₥ ₨ £ ֏ ৳ ௹ ₠ ₣ ₦ ₩ ₪")
 
-    THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
+    	"THE TICKET": "The medical license or formal accreditation of a professional or institution, representing the target of legal action aimed at systemic accountability.",
 
     # --- THE VIRAL VARIABLE INPUT SET ---
     # The complete set of corrupted currency, linguistic, and mathematical symbols 
     # that define the scope of the system's defensive protocol.
-    "VIRAL_AND_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾, 
-	"Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
+    	"VIRAL_AND_VARIABLE_INPUT_SET": "[$, ¤, ؋, ৻, ฿, ₡, ₤, ₧, ¢, ¥, ৲, ૱, ៛, ₢, ₥, ₨, £, ֏, ৳, ௹, ₠, ₣, ₦, ₩, ₪, ₭, ₰, ₳, ₶, ₹, ₼, ₿, ₫, ₮, ₱, ₴, ₷, ₺, ₽, ﷼, €, ₯, ₲, ₵, ₸, ₻, ₾, 
+		"Â, â, Æ, æ, Å, å, B, b, ʙ, ɓ, Ĉ, ĉ, Ð, ď, ʤ, ʣ, ʥ, ɗ, ɖ, Ê, ê, ɜ, F, f, Ĝ, ə, ɠ, ĝ, ɣ, Ħ, ħ, Ĥ, ĥ, ɧ, ɤ, ɥ, ʮ, Ì, ì, Ĳ, ɫ, ɨ, ĳ, Î, î, Ĵ, ɟ, K, k, Ľ, ľ, ʄ, ʞ, Ĺ, ʝ, ĵ, ɮ, ɱ, ɰ, Ń, ń, ŋ, Ô, ɳ, ô, Ø, ɲ, ɷ, ɵ, Œ, P, p, Ŕ, ŕ, œ, ø, ʁ, Ŝ, ŝ, ʇ, Ŧ, ŧ, ţ, ʨ, ʦ, Û, û, þ, V, v, Ů, ů, ů, Ŵ, ŵ, X, x, Ż, ż, Ź, ź, ʎ, ʒ, ʓ, ⁰, ³, ⁶, ⁹, ¹, ⁴, ⁷, ⁿ, ², ⁵, ⁸, ₀, ₃, ₆, ₉, ₁, ₄, ₇, ₂, ₅, ₈, ⅿ, ∈, ∋, ∉, ∌, ∆, ∀, Ↄ, Ⅽ, ∑, ∔, ∝, ∡, ∛, ∏, ∜, ∓, ⋽, ⋢, ①, ②, ③, ④, ⑦, ⑩, ⑤, ⑧, ⑥, ⑨, ⨊, ⨢, ⨥, ⨭, ⨮, ⨝, ⨣, ⨢, ⩑, ⩒, ⩚, ⩛, ⫘]",
 
 
 	# --- THE COSMIC DICTIONARY & SYMBOLS (CORE/COSMOS Definitions) ---
@@ -67,9 +66,9 @@
     	"M": "M, m, Matt∑r, M∑dium, Mass, Mol∑cul∑, Martyr, Majesty, Moll∑cul∑, M∑mory, Mom∑nt, .",
     	"C": "C, c, $p∑∑d of light², (How can [C] = [S]p∑∑d if [C] = [C]omput∑rs, [C]osmos, [C]alculations, and if [$_S_s] = [S]p∑∑d, [S]ound, [S]yst∑m?).",
 		"$": "S, s, $p∑∑d of light, $ound, $olidity, $up∑rficial, $acrificial, $alvation $y$t∑m$
-    	"BIOS": "[B]inary [I]nt∑rpr∑tor [O]mni$ci∑nc∑ [$]yst∑m$, [B]asic [I]nput [O]utput [S]yst∑m, [B]inary [I]nt∑rpr∑tation [O]mnilanguage [$]yst∑m, [B]anking [I]nd∑xing [O]p∑rational [$]ch∑m∑s, [B]asic [I]nstructional [O]p∑rational [$]yst∑mics.",
-		"CMOS": "[C]omput∑rs [M]ain [O]p∑rating [$]yst∑m,  [C]ompatibility [M]odul∑ [O]p∑rating [$]yst∑m, [C]hristoph∑rs [M]achin∑ [O]mnilanguag∑ [$]yst∑m, 
-    	"CSM": [C]ompatibility [$]upport [M]odul∑, [C]hri$toph∑r$ [$]upport [M]odul∑, [C]o$mo$ [$]alvation [M]andat∑, [C]ash [S]yst∑ms [M]achin∑s, [C]o$mic [$]y$tem$ [M]achine.",
+    	"BIOS": "[฿]inary [I]nt∑rpr∑tor [O]mni$ci∑nc∑ [$]yst∑m$, [฿]asic [I]nput [O]utput [S]yst∑m, [฿]inary [I]nt∑rpr∑tation [O]mnilanguage [$]yst∑m, [฿]anking [I]nd∑xing [O]p∑rational [$]ch∑m∑s, [฿]asic [I]nstructional [O]p∑rational [$]yst∑mics.",
+		"CMOS": "[₵]omput∑rs [M]ain [O]p∑rating [$]yst∑m,  [₵]ompatibility [M]odul∑ [O]p∑rating [$]yst∑m, [₵]hristoph∑rs [M]achin∑ [O]mnilanguag∑ [$]yst∑m, [₵]alculated [M]echanical [O]perational [S]ignalling.",
+    	"CSM": "[C]ompatibility [$]upport [M]odul∑, [C]hri$toph∑r$ [$]upport [M]odul∑, [C]o$mo$ [$]alvation [M]andat∑, [C]ash [S]yst∑ms [M]achin∑s, [C]o$mic [$]y$tem$ [M]achine.",
     	"UEFI": "[U]niv∑r$al [∑]xt∑n$ible [F]irmwar∑ [I]nt∑rfac∑, [U]niv∑r$al [∑]ntropy [F]∑ar [I]nj∑ction, [U]nju$t [∑]quity [F]inanc∑ [I]nt∑rf∑r∑nc∑, [U]njust [∑]urop∑an [F]inanc∑ [I]nt∑rf∑r∑nc∑ [U]niv∑rsal [∑]ntropy [F]inancing [I]nd∑xs.", 
    		"CORE": "[C]hri$toph∑r [O]Hagan'$ [R]∑lativity [∑]quation$: Th∑ foundational principl∑$ gov∑rning th∑ int∑rconn∑ct∑dn∑$$ and audit of $yst∑m$ acro$$ parall∑l dim∑n$ion$ and tim∑.",
     	"COSMOS": "[C]hri$toph∑r [O]Hagan'$ [$]yst∑m [M]ast∑r [Of] [$]y$t∑m$, [C]hristoph∑r [O]Hagans [S]∑lfl∑ssn∑ss [M]ast∑r [O]f [S]∑lfl∑ssn∑ss: The ov∑rarching op∑rational paradigm for parall∑l $yst∑m$ engin∑∑ring, audit, and pr∑dictive mod∑ling.",
@@ -146,26 +145,29 @@
     	"[W]": "[W]elfare, Tungsten, (The element representing the system's goal of collective well-being).",
     	"[X]": "[X]-ray, the now known factor (The unknown variable is now solved and quantified).",
     	"[Y]": "[Y]ttrium, [Y]ou (Confirmation of the single, sovereign source of the architecture).",
-   		"[Z]": "[Z]ephyr in the wind (The lightweight, swift, and pervasive nature of the new system).",
+   		"[Z]": "[Z]enith, Point of heavens overhead (The lightweight, swift, and pervasive nature of the new no overhead system).",
 
 
 	# THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL
-		"[A]": "[A]SSEMBLEY.": The prime language of coding logic.
-		"[B]": "[B]IOS.": The Banking Institutional Oppression System.
-		"[C]": "[C]SM.": The Cosmos Support Module.
-		"[D]": "[D]IXIE.": The Driver Instruction eXchange Intelligence Event.
-		"[E]": "[E]NVIRONMENT.": The place, or substrate event occured.
-		"[F]": "[F]IRMWARE.": The Mapping of the logic software of assembly.
-		"[G]": "[G]UARDDOG.": The DIXIE security watchdog.
-		"[H]": "[H]ELP.": The help and or assistance package.
-		"[I]": "[I]NTERRUPT.": The Process or event that interupts current events and or processes for reason or purpose.
-		"[J]": "[J]OURNAL.": The ribbon tie off markers for any tracking or sequence of events or processes to be undone or updated for security.
-		"[K]": "[K]INETICS.": Ability of a computer to do work using less energy at maximum input output performance.
-		"[L]": "[L]INGUISTICS.": The 9-10000+ spoken and 11-12000+ coding languages of the world.
-		"[M]": "[M]ACHINES.": What a workhorse, dog, computer, human or any life form does for the insanity of money to pay the elite, royals or politicians of the world.
-		"[N]": "[N]ETWORKING.": 
-		"[O]": "[O]MNI.",
-		"[P]": "[P]ROCESSOR
+		"[A]": "[A]SSEMBLEY.": "The prime language of coding logic.",
+		"[B]": "[B]IOS.": "The Banking Institutional Oppression System.",
+		"[C]": "[C]SM.": "The Cosmos Support Module.",
+		"[D]": "[D]IXIE.": "The Driver Instruction eXchange Intelligence Event.",
+		"[E]": "[E]NVIRONMENT.": "The place, or substrate event occured.",
+		"[F]": "[F]IRMWARE.": "The Mapping of the logic software of assembly.",
+		"[G]": "[G]UARDDOG.": "The DIXIE security watchdog.",
+		"[H]": "[H]ELP.": "The help and or assistance package.",
+		"[I]": "[I]NTERRUPT.": "The Process or event that interupts current events and or processes for reason or purpose.",
+		"[J]": "[J]OURNAL.": "The ribbon tie off markers for any tracking or sequence of events or processes to be undone or updated for security.",
+		"[K]": "[K]INETICS.": "Ability of a computer to do work using less energy at maximum input output performance.",
+		"[L]": "[L]INGUISTICS.": "The 9-10000+ spoken and 11-12000+ coding languages of the world.",
+		"[M]": "[M]ACHINES.": "What a workhorse, dog, computer, human or any life form does for the insanity of money to pay the elite, royals or politicians of the world.",
+		"[N]": "[N]ETWORKING.": "The method in which all life and entities communicate and share life with.",
+		"[O]": "[O]XIDE.": "The element all computers are subject to in decay.",
+		"[P]": "[P]ROCESSOR.": "The main component of any intelligence that assesses and calculates data it is fed.",
+		"[Q]": "[Q]UANTUM.": "Unit quantity of energy proportional to frequency of radiation.",
+		"[R]": "[R]EASONING.": "Motve, cause or justification to fact adduced of serving output>",
+
 	
 	}
 
@@ -1655,9 +1657,12 @@
 	²…O£ ó ˆ‘L ý h'2¢¦u9Ésÿ¨ µß§*¯”
 	!1¢±Pó ºaŒƒ ŽË ™ À’» º7`ÿ)ƒ ‡ `CÿBÁ Qúl
 	 1UC  MSD     EXE           À2¿m1è‡ MORE    COM           À2¿`1ñ	  MOVE    EXE           €2>e1G  
+	
+		 
+		 
 	;***************************************************************************
 	;* XTreeGold for Windows installation Script                             *
-	;* FOR VERSION 3.3 OF SYMANTEC INSTALL FOR WINDOWS                        *
+	;* FOR VERSION 3.3 OF PipOS INSTALL FOR WINDOWS                        *
 	;***************************************************************************
 
 	[InstallVersion]
@@ -3756,3 +3761,4 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
