@@ -2,7 +2,7 @@
 
 # 1. Introduction
 
-Welcome to PipOS, a perfected intelligence operating system built from the ground up. This isn't just another Linux distro or a Windows clone. PipOS is the result of 30 years of discipline across 300+ industries—integrating first aid, electrical test-and-tag safety, IT, physics, and chemistry into a single, cohesive digital environment.
+Welcome to the COSMOS CORE, and PipOS, a perfected intelligence operating system built from the ground up. This isn't just another Linux distro or a Windows clone. PipOS is the result of 30 years of discipline across 300+ industries—integrating first aid, electrical test-and-tag safety, IT, physics, and chemistry into a single, cohesive digital environment.
 PipOS is designed to be the "Win7 meets Unix of the New Age" where bare-metal functionality meets absolute user safety, stripped of the telemetry and data-harvesting that plagues modern computing.
 It is also designed to help people with mnemonics and piphilology, the study of ∏ pi, except using piphilology in pi, math, physics, science, computing, cosmology and chemisty. Or basically in any area of study. 
 
