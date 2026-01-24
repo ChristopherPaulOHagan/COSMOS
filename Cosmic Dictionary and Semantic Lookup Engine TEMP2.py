@@ -151,8 +151,8 @@
 	# THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL
 		"[A]": "[A]SSEMBLEY.": "The prime language of coding logic.",
 		"[B]": "[B]IOS.": "The Banking Institutional Oppression System.",
-		"[C]": "[C]SM.": "The Cosmos Support Module.",
-		"[D]": "[D]IXIE.": "The Driver Instruction eXchange Intelligence Event.",
+		"[C]": "[C]SM.": "The Cosmos Salvation Machines.",
+		"[D]": "[D]IXIE.": "The Driver Instruction eXchange Intelligence Environment.",
 		"[E]": "[E]NVIRONMENT.": "The place, or substrate event occured.",
 		"[F]": "[F]IRMWARE.": "The Mapping of the logic software of assembly.",
 		"[G]": "[G]UARDDOG.": "The DIXIE security watchdog.",
@@ -166,8 +166,8 @@
 		"[O]": "[O]XIDE.": "The element all computers are subject to in decay.",
 		"[P]": "[P]ROCESSOR.": "The main component of any intelligence that assesses and calculates data it is fed.",
 		"[Q]": "[Q]UANTUM.": "Unit quantity of energy proportional to frequency of radiation.",
-		"[R]": "[R]EASONING.": "Motve, cause or justification to fact adduced of serving output>",
-
+		"[R]": "[R]ESISTOR.": "Device having resistance causing effect on flow of energy.",
+		"[S]": "[S]
 	
 	}
 
@@ -3761,4 +3761,5 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
 
