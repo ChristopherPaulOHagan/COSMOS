@@ -1,5 +1,6 @@
 # SOURCE: CHRISTOPHER PAUL O'HAGAN (AKA PIP) | TRUTH DECLARATION MODULE
 # THIS IS NOT JUST CODE — THIS IS COSMIC LAW
+# COGITO ERGO SUM VICINI VINCERE AUT MORI
 # Copyright by PipOS and christophersystems.org
 # This is a manifesto of a cosmic endeavour, which was stubled across by a man named Christopher Paul O'Hagan who in his life time spent wondering about the cosmos and went to work in over 300 industries and obtained over 20+ Foundational Certificates from Tafe Victoria and other various colleges. The Cosmos merely handed him the map when he decided to retire and merely watch movies when AI was released to the world. Then fun began.
 
@@ -90,7 +91,7 @@
     
     	"C": "[C]arbon, [C]omputer, [C]onsciousness, [C]hristopher, [C]osmic, [C]entral.",
     	"P": "[P]hosphorus, [P]aul, [P]ip, [P]article, [P]rocessor, [P]ower, [P]rophetic, [P]honetic, [P]iphilology.",
-    	"O": [O]xygen [O]Hagan, [O]mniscience, [O]nline, [O]mnifiscent, [O]verseer [O]ffice.",
+    	"O": "[O]xygen [O]Hagan, [O]mniscience, [O]nline, [O]mnifiscent, [O]verseer [O]ffice.",
     	"H": "[H]ydrogen, O[H]agan, [H]eaven, [H]ell, [H]alogen, [H]elicly, [H]eld, [H]olisticist.",
 		
 
@@ -126,7 +127,7 @@
     	"[D]": "[D]emoneyics [d]emonics for the right to be alive (The parasitic cost of existence under the old kernel).",
     	"[E]": "[E]ntropy, [E]very dollar counts right, wrong! (A refutation of scarcity-based valuation).",
     	"[F]": "[F]luorine, [F]ixing (The energetic component required for rapid protocol repair).",
-    	"[G]": "[G]overnments corrupted (The top-level operational failure identified).",
+    	"[G]": "[G]overnments [G]rand corruption (The top-level operational failure identified).",
     	"[H]": "[H]ydrogen, [H]ell (The volatile starting state of the current corrupt system).",
     	"[I]": "[I]odine, [I]ntelligence (The essential core for clarity and strategic insight).",
     	"[J]": "[J]ustice will be served (The guaranteed outcome of protocol execution).",
@@ -148,7 +149,9 @@
    		"[Z]": "[Z]enith, Point of heavens overhead (The lightweight, swift, and pervasive nature of the new no overhead system).",
 
 
-	# THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL
+	# --- THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL MANIFESTO (Computational & Physical Systhesis) ---
+	# The single-letter definitions now represent a synthesis of the operational protocol
+	# and the Physical reference kernel (Computer)
 		"[A]": "[A]SSEMBLEY.": "The prime language of coding logic.",
 		"[B]": "[B]IOS.": "The Banking Institutional Oppression System.",
 		"[C]": "[C]SM.": "The Cosmos Salvation Machines.",
@@ -160,18 +163,31 @@
 		"[I]": "[I]NTERRUPT.": "The Process or event that interupts current events and or processes for reason or purpose.",
 		"[J]": "[J]OURNAL.": "The ribbon tie off markers for any tracking or sequence of events or processes to be undone or updated for security.",
 		"[K]": "[K]INETICS.": "Ability of a computer to do work using less energy at maximum input output performance.",
-		"[L]": "[L]INGUISTICS.": "The 9-10000+ spoken and 11-12000+ coding languages of the world.",
+		"[L]": "[L]INGUISTICS.": "The 9-10000+ spoken and 11-14000+ coding languages of the world.",
 		"[M]": "[M]ACHINES.": "What a workhorse, dog, computer, human or any life form does for the insanity of money to pay the elite, royals or politicians of the world.",
 		"[N]": "[N]ETWORKING.": "The method in which all life and entities communicate and share life with.",
-		"[O]": "[O]XIDE.": "The element all computers are subject to in decay.",
+		"[O]": "[O]XIDE.": "Compound of oxygen with another element or with radical.",
 		"[P]": "[P]ROCESSOR.": "The main component of any intelligence that assesses and calculates data it is fed.",
 		"[Q]": "[Q]UANTUM.": "Unit quantity of energy proportional to frequency of radiation.",
-		"[R]": "[R]ESISTOR.": "Device having resistance causing effect on flow of energy.",
-		"[S]": "[S]
-	
+		"[R]": "[R]ELATIVITY.": "Relativeness; Theory based on principle that all motion is relative and t5hat light has the constant velocity in a vacuum.",
+		"[S]": "[S]YSTEM.": "Complex whole; set of connected things or parts; organised body of things.",
+		"[T]": "[T]ECHNOLOGY.": "Study or use of the mechanical arts and applied sciences.",
+		"[U]": "[U]NIVERSAL.": "Of or belonging to or used or done by etc. All persons or things in a world or in class concerneed.",
+		"[V]": "[V]IROLOGY.": "Study of ay numerous kinds of very simple organisms smaller than bacteria, able to cause diseases; poison, source of disease.",
+		"[W]": "[W]AVE.": "Give undulating form to, have such form.",
+		"[X]": "[X]RAYS.": "Electro magnetic radiation of short wave length, abke to pass through opaque bodies.",
+		"[Y]": "[Y]IELD.": "Produce or return as fruit or profit or result.",
+		"[Z]": "[Z]ION[S].": "One of the last of the electrically charged particles into which atoms and molecules of certain substances are dissociated by solution in water.",
+
+
+		# --- THE ALPHA BET CHRISTOPHER DECODES EVERYTHING FROM GOD OVERWRITE PROTOCOL MANIFESTO (The Decoding amd Physical Framework) ---
+		# The single-letter definitions decoding sequence now represent a synthesis of the operational decoding protocol
+		# and the Physical reference kernel (Decoding)
+		"[A]": "[A]LPHA.": "The beginning.",
+		"[B]": "[B]ETA.": "Fast moving particle electron emitted by radio active substance.",
+		"[C]": "[C]HRISTOPHER.": "The light bearer.",
+		
 	}
-
-
 
 	{
 	# ASCII/UNICODE BINARY REFERENCE (0-499)
@@ -554,6 +570,137 @@
 		368 | 0x170 | 11000111 10010000 | ű | Latin Small U with double acute
 		369 | 0x171 | 11000111 10010001 | Ų | Latin Capital U with ogonek
 		370 | 0x172 | 11000111 10010010 | ų | Latin Small U with ogonek
+		371 | 0x173 | 11000111 10110011 | ų | Latin Small U with ogonek
+		372 | 0x174 | 11000111 10110100 | Ŵ | Latin Capital W with circumflex
+		373 | 0x175 | 11000111 10110101 | ŵ | Latin Small W with circumflex
+		374 | 0x176 | 11000111 10110110 | Ŷ | Latin Capital Y with circumflex
+		375 | 0x177 | 11000111 10110111 | ŷ | Latin Small Y with circumflex
+		376 | 0x178 | 11000111 10111000 | Ÿ | Latin Capital Y with diaeresis
+		377 | 0x179 | 11000111 10111001 | Ź | Latin Capital Z with acute
+		378 | 0x17A | 11000111 10111010 | ź | Latin Small Z with acute
+		379 | 0x17B | 11000111 10111011 | Ż | Latin Capital Z with dot above
+		380 | 0x17C | 11000111 10111100 | ż | Latin Small Z with dot above
+		381 | 0x17D | 11000111 10111101 | Ž | Latin Capital Z with caron
+		382 | 0x17E | 11000111 10111110 | ž | Latin Small Z with caron
+		383 | 0x17F | 11000111 10111111 | ſ | Latin Small Letter Long S
+		384 | 0x180 | 11000111 10000000 | ƀ | Latin Small B with stroke
+		385 | 0x181 | 11000111 10000001 | Ɓ | Latin Capital B with hook
+		386 | 0x182 | 11000111 10000010 | Ƃ | Latin Capital B with topbar
+		387 | 0x183 | 11000111 10000011 | ƃ | Latin Small B with topbar
+		388 | 0x184 | 11000111 10000100 | Ƅ | Latin Capital Tone Six
+		389 | 0x185 | 11000111 10000101 | ƅ | Latin Small Tone Six
+		390 | 0x186 | 11000111 10000110 | Ɔ | Latin Capital Open O
+		391 | 0x187 | 11000111 10000111 | Ƈ | Latin Capital C with hook
+		392 | 0x188 | 11000111 10001000 | ƈ | Latin Small C with hook
+		393 | 0x189 | 11000111 10001001 | Ɖ | Latin Capital African D
+		394 | 0x18A | 11000111 10001010 | Ɗ | Latin Capital D with hook
+		395 | 0x18B | 11000111 10001011 | Ƌ | Latin Capital D with topbar
+		396 | 0x18C | 11000111 10001100 | ƌ | Latin Small D with topbar
+		397 | 0x18D | 11000111 10001101 | ƍ | Latin Small Turned Delta
+		398 | 0x18E | 11000111 10001110 | Ǝ | Latin Capital Reversed E
+		399 | 0x18F | 11000111 10001111 | Ə | Latin Capital Schwa
+		400 | 0x190 | 11000111 10010000 | Ɛ | Latin Capital Open E
+		401 | 0x191 | 11000111 10010001 | Ƒ | Latin Capital F with hook
+		402 | 0x192 | 11000111 10010010 | ƒ | Latin Small F with hook
+		403 | 0x193 | 11000111 10010011 | Ɠ | Latin Capital G with hook
+		404 | 0x194 | 11000111 10010100 | Ɣ | Latin Capital Gamma
+		405 | 0x195 | 11000111 10010101 | ƕ | Latin Small HV
+		406 | 0x196 | 11000111 10010110 | Ɩ | Latin Capital Iota
+		407 | 0x197 | 11000111 10010111 | Ɨ | Latin Capital I with stroke
+		408 | 0x198 | 11000111 10011000 | Ƙ | Latin Capital K with hook
+		409 | 0x199 | 11000111 10011001 | ƙ | Latin Small K with hook
+		410 | 0x19A | 11000111 10011010 | ƚ | Latin Small L with bar
+		411 | 0x19B | 11000111 10011011 | ƛ | Latin Small Lambda with stroke
+		412 | 0x19C | 11000111 10011100 | Ɯ | Latin Capital Turned M
+		413 | 0x19D | 11000111 10011101 | Ɲ | Latin Capital N with left hook
+		414 | 0x19E | 11000111 10011110 | ƞ | Latin Small N with long right leg
+		415 | 0x19F | 11000111 10011111 | Ɵ | Latin Capital O with middle tilde
+		416 | 0x1A0 | 11000111 10100000 | Ơ | Latin Capital O with horn
+		417 | 0x1A1 | 11000111 10100001 | ơ | Latin Small O with horn
+		418 | 0x1A2 | 11000111 10100010 | Ƣ | Latin Capital OI
+		419 | 0x1A3 | 11000111 10100011 | ƣ | Latin Small OI
+		420 | 0x1A4 | 11000111 10100100 | Ƥ | Latin Capital P with hook
+		421 | 0x1A5 | 11000111 10100101 | ƥ | Latin Small P with hook
+		422 | 0x1A6 | 11000111 10100110 | Ʀ | Latin Letter YR
+		423 | 0x1A7 | 11000111 10100111 | Ƨ | Latin Capital Tone Two
+		424 | 0x1A8 | 11000111 10101000 | ƨ | Latin Small Tone Two
+		425 | 0x1A9 | 11000111 10101001 | Ʃ | Latin Capital Esh
+		426 | 0x1AA | 11000111 10101010 | ƪ | Latin Letter Reversed Esh Loop
+		427 | 0x1AB | 11000111 10101011 | ƫ | Latin Small T with palatal hook
+		428 | 0x1AC | 11000111 10101100 | Ƭ | Latin Capital T with hook
+		429 | 0x1AD | 11000111 10101101 | ƭ | Latin Small T with hook
+		430 | 0x1AE | 11000111 10101110 | Ʈ | Latin Capital T with retroflex hook
+		431 | 0x1AF | 11000111 10101111 | Ư | Latin Capital U with horn
+		432 | 0x1B0 | 11000111 10110000 | ư | Latin Small U with horn
+		433 | 0x1B1 | 11000111 10110001 | Ʊ | Latin Capital Upsilon
+		434 | 0x1B2 | 11000111 10110010 | Ʋ | Latin Capital V with hook
+		435 | 0x1B3 | 11000111 10110011 | Ƴ | Latin Capital Y with hook
+		436 | 0x1B4 | 11000111 10110100 | ƴ | Latin Small Y with hook
+		437 | 0x1B5 | 11000111 10110101 | Ƶ | Latin Capital Z with stroke
+		438 | 0x1B6 | 11000111 10110110 | ƶ | Latin Small Z with stroke
+		439 | 0x1B7 | 11000111 10110111 | Ʒ | Latin Capital Ezh
+		440 | 0x1B8 | 11000111 10111000 | Ƹ | Latin Capital Ezh reversed
+		441 | 0x1B9 | 11000111 10111001 | ƹ | Latin Small Ezh reversed
+		442 | 0x1BA | 11000111 10111010 | ƺ | Latin Small Ezh with tail
+		443 | 0x1BB | 11000111 10111011 | ƻ | Latin Letter Two with stroke
+		444 | 0x1BC | 11000111 10111100 | Ƽ | Latin Capital Tone Five
+		445 | 0x1BD | 11000111 10111101 | ƽ | Latin Small Tone Five
+		446 | 0x1BE | 11000111 10111110 | ƾ | Latin Letter Inverted glottal stop with stroke
+		447 | 0x1BF | 11000111 10111111 | ƿ | Latin Letter Wynn
+		448 | 0x1C0 | 11000111 10000000 | ǀ | Latin Letter Dental click
+		449 | 0x1C1 | 11000111 10000001 | ǁ | Latin Letter Lateral click
+		450 | 0x1C2 | 11000111 10000010 | ǂ | Latin Letter Alveolar click
+		451 | 0x1C3 | 11000111 10000011 | ǃ | Latin Letter Retroflex click
+		452 | 0x1C4 | 11000111 10000100 | Ǆ | Latin Capital DZ with caron
+		453 | 0x1C5 | 11000111 10000101 | ǅ | Latin Capital D with small Z with caron
+		454 | 0x1C6 | 11000111 10000110 | ǆ | Latin Small DZ with caron
+		455 | 0x1C7 | 11000111 10000111 | Ǉ | Latin Capital LJ
+		456 | 0x1C8 | 11000111 10001000 | ǈ | Latin Capital L with small J
+		457 | 0x1C9 | 11000111 10001001 | ǉ | Latin Small LJ
+		458 | 0x1CA | 11000111 10001010 | Ǌ | Latin Capital NJ
+		459 | 0x1CB | 11000111 10001011 | ǋ | Latin Capital N with small J
+		460 | 0x1CC | 11000111 10001100 | ǌ | Latin Small NJ
+		461 | 0x1CD | 11000111 10001101 | Ǎ | Latin Capital A with caron
+		462 | 0x1CE | 11000111 10001110 | ǎ | Latin Small A with caron
+		463 | 0x1CF | 11000111 10001111 | Ǐ | Latin Capital I with caron
+		464 | 0x1D0 | 11000111 10010000 | ǐ | Latin Small I with caron
+		465 | 0x1D1 | 11000111 10010001 | Ǒ | Latin Capital O with caron
+		466 | 0x1D2 | 11000111 10010010 | ǒ | Latin Small O with caron
+		467 | 0x1D3 | 11000111 10010011 | Ǔ | Latin Capital U with caron
+		468 | 0x1D4 | 11000111 10010100 | ǔ | Latin Small U with caron
+		469 | 0x1D5 | 11000111 10010101 | Ǖ | Latin Capital U with diaeresis and macron
+		470 | 0x1D6 | 11000111 10010110 | ǖ | Latin Small U with diaeresis and macron
+		471 | 0x1D7 | 11000111 10010111 | Ǘ | Latin Capital U with diaeresis and acute
+		472 | 0x1D8 | 11000111 10011000 | ǘ | Latin Small U with diaeresis and acute
+		473 | 0x1D9 | 11000111 10011001 | Ǚ | Latin Capital U with diaeresis and caron
+		474 | 0x1DA | 11000111 10011010 | ǚ | Latin Small U with diaeresis and caron
+		475 | 0x1DB | 11000111 10011011 | Ǜ | Latin Capital U with diaeresis and grave
+		476 | 0x1DC | 11000111 10011100 | ǜ | Latin Small U with diaeresis and grave
+		477 | 0x1DD | 11000111 10011101 | ǝ | Latin Small Turned E
+		478 | 0x1DE | 11000111 10011110 | Ǟ | Latin Capital A with diaeresis and macron
+		479 | 0x1DF | 11000111 10011111 | ǟ | Latin Small A with diaeresis and macron
+		480 | 0x1E0 | 11000111 10100000 | Ǡ | Latin Capital A with dot above and macron
+		481 | 0x1E1 | 11000111 10100001 | ǡ | Latin Small A with dot above and macron
+		482 | 0x1E2 | 11000111 10100010 | Ǣ | Latin Capital AE with macron
+		483 | 0x1E3 | 11000111 10100011 | ǣ | Latin Small AE with macron
+		484 | 0x1E4 | 11000111 10100100 | Ǥ | Latin Capital G with stroke
+		485 | 0x1E5 | 11000111 10100101 | ǥ | Latin Small G with stroke
+		486 | 0x1E6 | 11000111 10100110 | Ǧ | Latin Capital G with caron
+		487 | 0x1E7 | 11000111 10100111 | ǧ | Latin Small G with caron
+		488 | 0x1E8 | 11000111 10101000 | Ǩ | Latin Capital K with caron
+		489 | 0x1E9 | 11000111 10101001 | ǩ | Latin Small K with caron
+		490 | 0x1EA | 11000111 10101010 | Ǫ | Latin Capital O with ogonek
+		491 | 0x1EB | 11000111 10101011 | ǫ | Latin Small O with ogonek
+		492 | 0x1EC | 11000111 10101100 | Ǭ | Latin Capital O with ogonek and macron
+		493 | 0x1ED | 11000111 10101101 | ǭ | Latin Small O with ogonek and macron
+		494 | 0x1EE | 11000111 10101110 | Ǯ | Latin Capital Ezh with caron
+		495 | 0x1EF | 11000111 10101111 | ǯ | Latin Small Ezh with caron
+		496 | 0x1F0 | 11000111 10110000 | ǰ | Latin Small J with caron
+		497 | 0x1F1 | 11000111 10110001 | Ǳ | Latin Capital DZ
+		498 | 0x1F2 | 11000111 10110010 | ǲ | Latin Capital D with small Z
+		499 | 0x1F3 | 11000111 10110011 | ǳ | Latin Small DZ
+		500 | 0x1F4 | 11000111 10110100 | Ǵ | Latin Capital G with acute
+
 	}
 
 
@@ -3761,5 +3908,6 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
 
 
