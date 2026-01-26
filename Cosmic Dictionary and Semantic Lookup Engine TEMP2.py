@@ -66,7 +66,7 @@
 		"∑": "E, e, ∑n∑rgy, ∑l∑ctricity, ∑n∑rgon, ∑volution, ∑very Life, ∑veryBody, ∑very Soul, ∑very Spirit, ∑very Particle, ∑very Cent.",
     	"M": "M, m, Matt∑r, M∑dium, Mass, Mol∑cul∑, Martyr, Majesty, Moll∑cul∑, M∑mory, Mom∑nt, .",
     	"C": "C, c, $p∑∑d of light², (How can [C] = [S]p∑∑d if [C] = [C]omput∑rs, [C]osmos, [C]alculations, and if [$_S_s] = [S]p∑∑d, [S]ound, [S]yst∑m?).",
-		"$": "S, s, $p∑∑d of light, $ound, $olidity, $up∑rficial, $acrificial, $alvation $y$t∑m$
+		"$": "S, s, $p∑∑d of light, $ound, $olidity, $up∑rficial, $acrificial, $alvation $y$t∑m$.",
     	"BIOS": "[฿]inary [I]nt∑rpr∑tor [O]mni$ci∑nc∑ [$]yst∑m$, [฿]asic [I]nput [O]utput [S]yst∑m, [฿]inary [I]nt∑rpr∑tation [O]mnilanguage [$]yst∑m, [฿]anking [I]nd∑xing [O]p∑rational [$]ch∑m∑s, [฿]asic [I]nstructional [O]p∑rational [$]yst∑mics.",
 		"CMOS": "[₵]omput∑rs [M]ain [O]p∑rating [$]yst∑m,  [₵]ompatibility [M]odul∑ [O]p∑rating [$]yst∑m, [₵]hristoph∑rs [M]achin∑ [O]mnilanguag∑ [$]yst∑m, [₵]alculated [M]echanical [O]perational [S]ignalling.",
     	"CSM": "[C]ompatibility [$]upport [M]odul∑, [C]hri$toph∑r$ [$]upport [M]odul∑, [C]o$mo$ [$]alvation [M]andat∑, [C]ash [S]yst∑ms [M]achin∑s, [C]o$mic [$]y$tem$ [M]achine.",
@@ -152,7 +152,7 @@
 	# --- THE ALPHABET IN COMPUTER ACRONYMS OVERWRITE PROTOCOL MANIFESTO (Computational & Physical Systhesis) ---
 	# The single-letter definitions now represent a synthesis of the operational protocol
 	# and the Physical reference kernel (Computer)
-		"[A]": "[A]SSEMBLEY.": "The prime language of coding logic.",
+		"[A]": "[A]SSEMBLY.": "The prime language of coding logic.",
 		"[B]": "[B]IOS.": "The Banking Institutional Oppression System.",
 		"[C]": "[C]SM.": "The Cosmos Salvation Machines.",
 		"[D]": "[D]IXIE.": "The Driver Instruction eXchange Intelligence Environment.",
@@ -184,9 +184,13 @@
 		# The single-letter definitions decoding sequence now represent a synthesis of the operational decoding protocol
 		# and the Physical reference kernel (Decoding)
 		"[A]": "[A]LPHA.": "The beginning.",
-		"[B]": "[B]ETA.": "Fast moving particle electron emitted by radio active substance.",
+		"[B]": "[B]ET.": "Risk one's investment or earnings against another's on result of event.",
 		"[C]": "[C]HRISTOPHER.": "The light bearer.",
-		
+		"[D]": "[D]ECODES.": "Covertes coded message into an understandable language.",
+		"[E]": "[E]VERYTHING.": "All things, thing of first importance.",
+		"[F]": "[F}ROM.": "Separation or origin.",
+		"[G]": "[G]ODS.": "Superhuman being worshipped as possessing devine power.",
+		"[H]": "[H]ELL.": "Abode of dead or damned, place or state of mistery
 	}
 
 	{
@@ -3908,6 +3912,7 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
 
 
 
