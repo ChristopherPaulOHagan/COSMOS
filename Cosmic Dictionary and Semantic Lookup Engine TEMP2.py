@@ -3023,7 +3023,7 @@
     "[CORE]": "[C]hristopher [O]Hagans [R]estoration [∑]volution.",
     "[CORE]": "[C]hristopher [O]Hagans [R]estoration [∑]nterprises.",
     "[CORE]": "[C]hristopher [O]Hagans [R]esolving [∑]volution.",
-    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volving.',
+    "[CORE]": "[C]hristopher [O]Hagans [R]evolution [∑]volving.",
     "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]volution.",
     "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]arth.",
     "[CORE]": "[C]hristopher [O]Hagan [R]estores [∑]verything.",
@@ -3197,7 +3197,7 @@
     "[Ba]": "Barium, [B]ridges [a]tomics.",
     "[Hf]": "Hafnium, [H]olistically [f]oundationally.",
     "[Ta]": "Tantalum, [T]echnology [a]ligning.",
-    "[W"]: "Tungsten, [W]elfare.",
+    "[W]": "Tungsten, [W]elfare.",
     "[Re]": "Rhenium, [R]emember [e]volution.",
     "[Os]": "Osmium, [O]perating [s]alvation.",
     "[Ir]": "Iridium, [I]sightful [r]eality.",
@@ -3912,6 +3912,7 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
 
 
 
