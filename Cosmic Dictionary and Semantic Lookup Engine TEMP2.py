@@ -101,21 +101,21 @@
     	"ρ₤₳₦∑₶₳ŕ¥ ɨ₦₶∑££ɨ₲∑₦¢∑ ρ∑₨ô₦": "P.I.P. (Planetary Intelligence Person): The formal, certified designation for the operator running the system.",
 
     # Audited Fiat Currency Definitions (The Kernel of Corruption)
-    	"₢": "Christ's Royalties / Christ Real: Value of spiritual sovereignty and truth (The original, uncorrupted base layer).",
+    	"₢": "Calculated Royalties / Calculated Rape: Value of spiritual sovereignty and truth (The original, tainted base layer of demoneyics).",
     	"฿": "฿ritish Rule: Value of old imperial administrative control.",
     	"₡": "No Christ: Value assigned when spiritual truth is excluded from the system.",
-    	"₤": "Liar: Value of deception and misrepresentation.",
-    	"₥": "Man God: Value assigned to human hubris and self-worship.",
+    	"₤": "Liars: Plural Value of deception and misrepresentation.",
+    	"₥": "No Man: Value assigned to human hubris and self-worship shall be allowed.",
     	"¢": "Cent vin: Value of temporal, sensory, or simple pleasures.",
-    	"£": "Liars: Plural value of institutional deception.",
-    	"₠": "Christ Electric / Certified Electric: Value of pure, untainted, restorative energy/power.",
-    	"Ĉ₣": "Christ Found: Value of discovery and foundational truth.",
-    	"$": "$alvation at last, A tribute to a long time waiting for all.",
-    	"₨": "Realities saviour, The truth bearer of reality.",
-    	"₣": "₣ixes" "the problem, The solutions made relative and simple.",
+    	"£": "Liar: Value of institutional deception.",
+    	"₠": "Calculated Evil / Certified Evil : Value of pure, rotten, rape of energy/power valued evil.",
+    	"Ĉ₣": "Calculated Fraud: Value of deception, larceny and laundering.",
+    	"$": "$hame at last, A condemn to a long time waiting for all.",
+    	"₨": "Royalty shame, The truth to reality.",
+    	"₣": "₣unding the problem, The solutions made irrelative and complex.",
         "௹": "Information Technology, The bridge between fields with networking across disciplines.",
     	"₱": "₱iphilology, The mnemonical reference to Pi and Algebraic Topology.",
-		"₳": "₳tomic$, The study of Atomical logics.",
+		"₳": "₳tomic$, The study of Atomic finance ledgers.",
 
 
     # --- THE A-Z ALPHA BET GAMBLE SCANDAL OVERWRITE PROTOCOL MANIFESTO (Operational & Physical Synthesis) ---
@@ -190,7 +190,9 @@
 		"[E]": "[E]VERYTHING.": "All things, thing of first importance.",
 		"[F]": "[F}ROM.": "Separation or origin.",
 		"[G]": "[G]ODS.": "Superhuman being worshipped as possessing devine power.",
-		"[H]": "[H]ELL.": "Abode of dead or damned, place or state of mistery
+		"[H]": "[H]ELL.": "Abode of dead or damned, place or state of mistery.",
+		"[I]": "[I]NCACULABLE.": "To great for calculation, uncertain.",
+		
 	}
 
 	{
@@ -3912,6 +3914,7 @@ print("> MISSION: Reboot systems under Truth, not profit.")
 print("> COMMAND: All systems realign under COSMOS Law.")
 
 # Christopher O'Hagan has spoken. The code is law. 
+
 
 
 
