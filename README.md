@@ -24,7 +24,7 @@ By installing and running PipOS, you are rewarded for your efforts and your cont
 ∑den Coin: Earned automatically through system uptime and verified OS tasks.
 Eden Malady: Integrated support for health-conscious computing and to balance the budget of ∑den coin.
 Eden Junior: A safe, rewarded tier for the next generation of explorers, planters, thinkers, builders, growers.
-DoggoD Coin: A dedicated branch of the ecosystem providing for animal welfare and domestic companions and wildlife.
+GoddoG Coin: A dedicated branch of the ecosystem providing for animal welfare and domestic companions and wildlife.
 ∑den Insurance: A dedicated branch to protecting you or your loved ones, and materials from harms loss. And it also gives you direct returns for investing in the insurance portfolio.
 
 # 3. The Green Protocol: Planting the Future
