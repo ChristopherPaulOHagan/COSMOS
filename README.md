@@ -15,7 +15,7 @@ COSMOS = (C)hristopher (O)Hagans (S)cience (M)aster (O)mniscience (S)ystems.
 CORE = (C)hristopher (O)Hagans (R)elativity (E)quations.
 
 A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.
-(A)lpha (B)et (C)hristopher (D)ecodes (E)verything (F)rom (G)od, (H)ydrogen, (I)ntelligence, (J)uxaposition, (K)ingdoms, (L)ife, (M)etacosmology, (N)obility, (O)ppression, (P)ower, (Q)uanta, (R)eality, (S)ciences, (T)ax, (U)niverse, (V)irology, (W)ealth, (X)enophobia, (Y)AW, (Z)enith.
+(A)lpha (B)et (C)hristopher (D)ecodes (E)verything (F)rom (G)od, (H)ydrogen, (I)ntelligence, (J)uxaposition, (K)ingdoms, (L)ife, (M)etacosmology, (N)obility, (O)ppression, (P)ower, (Q)uanta, (R)eality, (S)ciences, (T)ax, (U)niverse, (V)irology, (W)ealth, (X)enophobia, (Y)earn, (Z)enith.
 
 
 # 2. The ∑denic Memory Ecosystem
